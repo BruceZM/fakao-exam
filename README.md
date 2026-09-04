@@ -76,12 +76,7 @@ python3 tools/deploy_ms.py --check
 
 ### GitHub 协作
 
-仓库已初始化为 `main` 分支，并包含 GitHub Actions 校验：每次 push/PR 会检查 Python 语法、重建题目 bundle，并确认题库非空。当前本地尚未绑定远程仓库；拿到 GitHub 仓库地址后执行：
-
-```bash
-git remote add origin <GitHub仓库地址>
-git push -u origin main
-```
+仓库已初始化为 `main` 分支，并包含 GitHub Actions 校验：每次 push/PR 会检查 Python 语法、重建题目 bundle，并确认题库非空。当前已绑定并同步到 GitHub：`https://github.com/BruceZM/fakao-exam`。ModelScope 空间同步到：`https://www.modelscope.cn/studios/Brockzm/fakao-exam`。
 
 ### ModelScope 部署
 
