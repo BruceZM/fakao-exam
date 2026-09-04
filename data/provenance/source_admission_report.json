@@ -1,0 +1,437 @@
+{
+  "schema_version": 1,
+  "status": "source_admission_report",
+  "summary": {
+    "sources": 37,
+    "admitted": 0,
+    "blocked": 37,
+    "license_status": {
+      "unknown": 37
+    },
+    "content_status": {
+      "parsed_draft": 12,
+      "questions_only_draft": 5,
+      "parsed_merged_candidate": 1,
+      "parsed_objective_draft": 1,
+      "scanned_only_duplicate_candidate": 2,
+      "duplicate_candidate_of_lijinsong_38": 1,
+      "parsed_new_days_only": 2,
+      "ocr_reference_only": 8,
+      "ocr_reference_only_overlap_candidate": 3,
+      "answer_sheet_ocr_reference_only": 2
+    }
+  },
+  "items": [
+    {
+      "source_id": "menggui-2026-civil-common-sense",
+      "title": "孟献贵-2026民法常识选择题（1-38题）",
+      "subject": "民法",
+      "stage": "objective",
+      "source_type": "institution_material",
+      "content_status": "parsed_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "luyao-criminal-general",
+      "title": "路遥刑法真金题（总则）",
+      "subject": "刑法",
+      "stage": "objective",
+      "source_type": "institution_material",
+      "content_status": "parsed_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "xuguanghua-criminal-heavy",
+      "title": "刑法历年重难真题200题（2026版，徐光华）",
+      "subject": "刑法",
+      "stage": "objective",
+      "source_type": "institution_material",
+      "content_status": "parsed_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "deen-2025-recalled",
+      "title": "得恩法考 2025 年法考客观题考试回忆版真题",
+      "subject": "综合客观题",
+      "stage": "objective",
+      "source_type": "recalled_exam",
+      "content_status": "parsed_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "june-five-subjects-mock",
+      "title": "6月五大实体法模考（题目）",
+      "subject": "综合客观题",
+      "stage": "objective",
+      "source_type": "institution_mock_candidate",
+      "content_status": "questions_only_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "june-five-subjects-mock-answers",
+      "title": "6月五大实体法模考（答案）",
+      "subject": "综合客观题",
+      "stage": "objective",
+      "source_type": "institution_mock_answer_candidate",
+      "content_status": "parsed_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "lijia-admin-daily",
+      "title": "李佳每日一题（题目版）",
+      "subject": "行政法",
+      "stage": "objective",
+      "source_type": "daily_question_candidate",
+      "content_status": "questions_only_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "lijia-admin-daily-answers",
+      "title": "李佳每日一题（题目解析版）",
+      "subject": "行政法",
+      "stage": "objective",
+      "source_type": "daily_question_answer_candidate",
+      "content_status": "parsed_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "qiepeng-en-partnership",
+      "title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_type": "daily_question_candidate",
+      "content_status": "questions_only_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "bailangtao-criminal-daily-1-14",
+      "title": "柏浪涛-2026法考刑法每日一题（1-14题）",
+      "subject": "刑法",
+      "stage": "objective",
+      "source_type": "daily_question_answer_candidate",
+      "content_status": "parsed_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "hanxinyi-civil-procedure-daily",
+      "title": "韩心怡-2026民诉每日一题（22题）",
+      "subject": "民诉法",
+      "stage": "objective_subjective_common",
+      "source_type": "daily_question_answer_candidate",
+      "content_status": "parsed_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "menggui-2026-civil-commercial-daily",
+      "title": "孟献贵-2026民商法每日一题（1-160）",
+      "subject": "民法",
+      "stage": "objective",
+      "source_type": "daily_question_candidate",
+      "content_status": "questions_only_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "bailangtao-criminal-daily-1-38-expl",
+      "title": "柏浪涛-2026刑法每日一题解析版（1-38）",
+      "subject": "刑法",
+      "stage": "objective",
+      "source_type": "daily_question_answer_candidate",
+      "content_status": "parsed_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "bailangtao-criminal-daily-1-38-questions",
+      "title": "柏浪涛-2026刑法每日一题答题版（1-38）",
+      "subject": "刑法",
+      "stage": "objective",
+      "source_type": "daily_question_candidate",
+      "content_status": "parsed_merged_candidate",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "title": "郄鹏恩-公司法每日一题（完结）",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_type": "daily_question_candidate",
+      "content_status": "questions_only_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "menggui-civil-commercial-mock",
+      "title": "孟献贵-2026民商法模拟考试卷（第一期）",
+      "subject": "民法",
+      "stage": "objective_subjective_common",
+      "source_type": "mock_exam_candidate",
+      "content_status": "parsed_objective_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "cuihongyu-73-truefalse",
+      "title": "崔红玉-主客一体73题",
+      "subject": "民法",
+      "stage": "objective",
+      "source_type": "true_false_explanation_candidate",
+      "content_status": "parsed_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "cuihongyu-54-daily",
+      "title": "崔红玉每日一题54题",
+      "subject": "民法",
+      "stage": "objective",
+      "source_type": "true_false_explanation_candidate",
+      "content_status": "scanned_only_duplicate_candidate",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "lijinsong-38-daily",
+      "title": "李劲松-2026民法每日一题38题",
+      "subject": "民法",
+      "stage": "objective_subjective_common",
+      "source_type": "daily_question_answer_candidate",
+      "content_status": "parsed_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "lijinsong-21-daily",
+      "title": "李劲松-2026民法每日一题21题",
+      "subject": "民法",
+      "stage": "objective_subjective_common",
+      "source_type": "daily_question_answer_candidate",
+      "content_status": "duplicate_candidate_of_lijinsong_38",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "cuicui-61-daily",
+      "title": "崔崔61题",
+      "subject": "民法",
+      "stage": "objective",
+      "source_type": "true_false_explanation_candidate",
+      "content_status": "scanned_only_duplicate_candidate",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "hanxinyi-civil-procedure-43-daily",
+      "title": "韩心怡-民诉每日一题43题（新增第25-43题）",
+      "subject": "民诉法",
+      "stage": "objective_subjective_common",
+      "source_type": "daily_question_answer_candidate",
+      "content_status": "parsed_new_days_only",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "sanse-civil-procedure-notes-2026",
+      "title": "2026年三色笔记-民事诉讼法笔记完整",
+      "subject": "民诉法",
+      "stage": "reference",
+      "source_type": "reference_notes",
+      "content_status": "ocr_reference_only",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "sanse-civil-notes-2026",
+      "title": "2026年三色笔记-民法笔记完整",
+      "subject": "民法",
+      "stage": "reference",
+      "source_type": "reference_notes",
+      "content_status": "ocr_reference_only",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "sanse-criminal-procedure-notes-2026",
+      "title": "2026年三色笔记-刑事诉讼法笔记完整",
+      "subject": "刑诉法",
+      "stage": "reference",
+      "source_type": "reference_notes",
+      "content_status": "ocr_reference_only",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "sanse-criminal-notes-2026",
+      "title": "2026年三色笔记-刑法笔记完整",
+      "subject": "刑法",
+      "stage": "reference",
+      "source_type": "reference_notes",
+      "content_status": "ocr_reference_only",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "sanse-business-notes-2026",
+      "title": "2026年三色笔记-商经知笔记完整",
+      "subject": "商经知",
+      "stage": "reference",
+      "source_type": "reference_notes",
+      "content_status": "ocr_reference_only",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "sanse-administrative-notes-2026",
+      "title": "2026年三色笔记-行政法笔记完整",
+      "subject": "行政法",
+      "stage": "reference",
+      "source_type": "reference_notes",
+      "content_status": "ocr_reference_only",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "sanse-theory-notes-2026",
+      "title": "2026年三色笔记-理论法笔记完整",
+      "subject": "理论法",
+      "stage": "reference",
+      "source_type": "reference_notes",
+      "content_status": "ocr_reference_only",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "sanse-international-law-notes-2026",
+      "title": "2026年三色笔记-三国法笔记完整",
+      "subject": "三国法",
+      "stage": "reference",
+      "source_type": "reference_notes",
+      "content_status": "ocr_reference_only",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "hanxinyi-civil-procedure-bundle-expl",
+      "title": "韩心怡民诉每日一问合集（解析版）",
+      "subject": "民诉法",
+      "stage": "objective_subjective_common",
+      "source_type": "daily_question_answer_candidate",
+      "content_status": "ocr_reference_only_overlap_candidate",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "hanxinyi-civil-procedure-bundle-answer-docx",
+      "title": "韩心怡民诉每日一问合集（答案版 DOCX）",
+      "subject": "民诉法",
+      "stage": "objective_subjective_common",
+      "source_type": "answer_sheet_candidate",
+      "content_status": "answer_sheet_ocr_reference_only",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "bailangtao-criminal-daily-1-24-compiled",
+      "title": "柏浪涛-刑法每日一题（1-24）汇编",
+      "subject": "刑法",
+      "stage": "objective",
+      "source_type": "daily_question_answer_candidate",
+      "content_status": "parsed_draft",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "hanxinyi-civil-procedure-bundle-full",
+      "title": "2026年法考民诉每日一问合集（韩心怡）",
+      "subject": "民诉法",
+      "stage": "objective_subjective_common",
+      "source_type": "daily_question_reference_compilation",
+      "content_status": "ocr_reference_only_overlap_candidate",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "hanxinyi-civil-procedure-bundle-fill-docx",
+      "title": "韩心怡民诉每日一问合集（填空版 DOCX）",
+      "subject": "民诉法",
+      "stage": "objective_subjective_common",
+      "source_type": "answer_sheet_candidate",
+      "content_status": "answer_sheet_ocr_reference_only",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "hanxinyi-civil-procedure-bundle-question-pdf",
+      "title": "韩心怡民诉每日一问合集（答题版 PDF）",
+      "subject": "民诉法",
+      "stage": "objective_subjective_common",
+      "source_type": "question_sheet_candidate",
+      "content_status": "ocr_reference_only_overlap_candidate",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    },
+    {
+      "source_id": "hanxinyi-civil-procedure-60-daily",
+      "title": "韩心怡主客一体60题（新增第44-60题）",
+      "subject": "民诉法",
+      "stage": "objective_subjective_common",
+      "source_type": "daily_question_answer_candidate",
+      "content_status": "parsed_new_days_only",
+      "license_status": "unknown",
+      "review_status": "needs_human_review",
+      "product_admission": "blocked_pending_license_or_review"
+    }
+  ],
+  "notes": [
+    "公开可见或已扫描不等于获得商业使用授权。",
+    "只有授权状态为 licensed 且来源已人工审校时，才允许进入产品准入层。"
+  ]
+}

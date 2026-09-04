@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "status": "external_answer_link_candidates",
+  "retrieved_at": "2026-09-03T12:19:33.705247+00:00",
+  "items": [
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 1,
+      "url": "http://t.cn/AXiuT5GA",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 2,
+      "url": "http://t.cn/AXigi9qQ",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 3,
+      "url": "http://t.cn/AX6vjy5X",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 4,
+      "url": "http://t.cn/AX6wY2fa",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 5,
+      "url": "http://t.cn/AX64xdlp",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 6,
+      "url": "http://t.cn/AX6tD7iD",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 7,
+      "url": "http://t.cn/AX6x3gvB",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 8,
+      "url": "http://t.cn/AX6SHRV6",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 9,
+      "url": "http://t.cn/AX6pakLe",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 10,
+      "url": "http://t.cn/AX6Y6nDe",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 11,
+      "url": "http://t.cn/AX6EZtBM",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 12,
+      "url": "http://t.cn/AX61lFmt",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 13,
+      "url": "http://t.cn/AX6DG9cS",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 14,
+      "url": "http://t.cn/AXXh5SCT",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "question_no": 15,
+      "url": "http://t.cn/AXX2bATI",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/news/detail/5305405905046965.html"
+    },
+    {
+      "source_id": "qiepeng-en-partnership",
+      "question_no": 1,
+      "url": "http://t.cn/AXN6KFwI",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/media/2042198575"
+    },
+    {
+      "source_id": "qiepeng-en-partnership",
+      "question_no": 2,
+      "url": "http://t.cn/AX0I0VEC",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/media/2042198575"
+    },
+    {
+      "source_id": "qiepeng-en-partnership",
+      "question_no": 1,
+      "url": "http://t.cn/AXCyHxfk",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/media/2042198575"
+    },
+    {
+      "source_id": "qiepeng-en-partnership",
+      "question_no": 2,
+      "url": "http://t.cn/AXCtaBvS",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/media/2042198575"
+    },
+    {
+      "source_id": "qiepeng-en-partnership",
+      "question_no": 1,
+      "url": "http://t.cn/AXKdV26k",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/media/2042198575"
+    },
+    {
+      "source_id": "qiepeng-en-partnership",
+      "question_no": 2,
+      "url": "http://t.cn/AX9vX0Ot",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/media/2042198575"
+    },
+    {
+      "source_id": "qiepeng-en-partnership",
+      "question_no": 3,
+      "url": "http://t.cn/AX92dh8x",
+      "status": "candidate_unverified",
+      "authorization_status": "unknown",
+      "discovered_from": "https://www.sina.cn/media/2042198575"
+    }
+  ],
+  "notes": "仅记录公开汇总页中的题号与答案短链接；未读取或导入答案正文，需逐条核验。"
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "status": "field_coverage_report",
+  "total_questions": 1117,
+  "fields": {
+    "stem": {
+      "present": 1117,
+      "total": 1117,
+      "rate": 1.0
+    },
+    "question_type": {
+      "present": 1117,
+      "total": 1117,
+      "rate": 1.0
+    },
+    "source_id": {
+      "present": 1117,
+      "total": 1117,
+      "rate": 1.0
+    },
+    "source_page": {
+      "present": 1117,
+      "total": 1117,
+      "rate": 1.0
+    },
+    "answer": {
+      "present": 1041,
+      "total": 1117,
+      "rate": 0.932
+    },
+    "explanation": {
+      "present": 984,
+      "total": 1117,
+      "rate": 0.8809
+    },
+    "options": {
+      "present": 962,
+      "total": 1117,
+      "rate": 0.8612
+    },
+    "knowledge_points": {
+      "present": 1117,
+      "total": 1117,
+      "rate": 1.0
+    },
+    "statutes": {
+      "present": 197,
+      "total": 1117,
+      "rate": 0.1764
+    }
+  },
+  "by_stage": {
+    "objective": {
+      "total": 1019,
+      "stem": {
+        "present": 1019,
+        "rate": 1.0
+      },
+      "question_type": {
+        "present": 1019,
+        "rate": 1.0
+      },
+      "source_id": {
+        "present": 1019,
+        "rate": 1.0
+      },
+      "source_page": {
+        "present": 1019,
+        "rate": 1.0
+      },
+      "answer": {
+        "present": 943,
+        "rate": 0.9254
+      },
+      "explanation": {
+        "present": 896,
+        "rate": 0.8793
+      },
+      "options": {
+        "present": 962,
+        "rate": 0.9441
+      }
+    },
+    "subjective": {
+      "total": 98,
+      "stem": {
+        "present": 98,
+        "rate": 1.0
+      },
+      "question_type": {
+        "present": 98,
+        "rate": 1.0
+      },
+      "source_id": {
+        "present": 98,
+        "rate": 1.0
+      },
+      "source_page": {
+        "present": 98,
+        "rate": 1.0
+      },
+      "answer": {
+        "present": 98,
+        "rate": 1.0
+      },
+      "explanation": {
+        "present": 88,
+        "rate": 0.898
+      },
+      "options": {
+        "present": 0,
+        "rate": 0.0
+      }
+    }
+  },
+  "notes": [
+    "字段存在不代表内容已人工核验。",
+    "答案、解析、法条和授权状态仍需按审校队列处理。"
+  ]
+}

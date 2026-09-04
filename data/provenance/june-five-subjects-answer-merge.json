@@ -1,0 +1,553 @@
+{
+  "schema_version": 1,
+  "status": "answer_merge_validation",
+  "question_count": 93,
+  "answer_count": 90,
+  "checks": [
+    {
+      "ordinal": 1,
+      "question_id": "june-five-subjects-mock-001",
+      "similarity": 1.0,
+      "status": "match"
+    },
+    {
+      "ordinal": 2,
+      "question_id": "june-five-subjects-mock-002",
+      "similarity": 0.1011,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 3,
+      "question_id": "june-five-subjects-mock-003",
+      "similarity": 0.129,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 4,
+      "question_id": "june-five-subjects-mock-004",
+      "similarity": 0.0674,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 5,
+      "question_id": "june-five-subjects-mock-005",
+      "similarity": 0.131,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 6,
+      "question_id": "june-five-subjects-mock-006",
+      "similarity": 0.0772,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 7,
+      "question_id": "june-five-subjects-mock-007",
+      "similarity": 0.0474,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 8,
+      "question_id": "june-five-subjects-mock-008",
+      "similarity": 0.1667,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 9,
+      "question_id": "june-five-subjects-mock-009",
+      "similarity": 0.0952,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 10,
+      "question_id": "june-five-subjects-mock-010",
+      "similarity": 0.1302,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 11,
+      "question_id": "june-five-subjects-mock-011",
+      "similarity": 0.1887,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 12,
+      "question_id": "june-five-subjects-mock-012",
+      "similarity": 0.1506,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 13,
+      "question_id": "june-five-subjects-mock-013",
+      "similarity": 0.2222,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 14,
+      "question_id": "june-five-subjects-mock-014",
+      "similarity": 0.1781,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 15,
+      "question_id": "june-five-subjects-mock-015",
+      "similarity": 0.2574,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 16,
+      "question_id": "june-five-subjects-mock-016",
+      "similarity": 0.098,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 17,
+      "question_id": "june-five-subjects-mock-017",
+      "similarity": 0.1641,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 18,
+      "question_id": "june-five-subjects-mock-018",
+      "similarity": 0.1101,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 19,
+      "question_id": "june-five-subjects-mock-019",
+      "similarity": 0.1369,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 20,
+      "question_id": "june-five-subjects-mock-020",
+      "similarity": 0.1975,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 21,
+      "question_id": "june-five-subjects-mock-021",
+      "similarity": 0.1928,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 22,
+      "question_id": "june-five-subjects-mock-022",
+      "similarity": 1.0,
+      "status": "match"
+    },
+    {
+      "ordinal": 23,
+      "question_id": "june-five-subjects-mock-023",
+      "similarity": 1.0,
+      "status": "match"
+    },
+    {
+      "ordinal": 24,
+      "question_id": "june-five-subjects-mock-024",
+      "similarity": 0.1565,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 25,
+      "question_id": "june-five-subjects-mock-025",
+      "similarity": 0.1635,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 26,
+      "question_id": "june-five-subjects-mock-026",
+      "similarity": 0.0905,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 27,
+      "question_id": "june-five-subjects-mock-027",
+      "similarity": 0.9928,
+      "status": "match"
+    },
+    {
+      "ordinal": 28,
+      "question_id": "june-five-subjects-mock-028",
+      "similarity": 1.0,
+      "status": "match"
+    },
+    {
+      "ordinal": 29,
+      "question_id": "june-five-subjects-mock-029",
+      "similarity": 1.0,
+      "status": "match"
+    },
+    {
+      "ordinal": 30,
+      "question_id": "june-five-subjects-mock-030",
+      "similarity": 1.0,
+      "status": "match"
+    },
+    {
+      "ordinal": 31,
+      "question_id": "june-five-subjects-mock-031",
+      "similarity": 0.9686,
+      "status": "match"
+    },
+    {
+      "ordinal": 32,
+      "question_id": "june-five-subjects-mock-032",
+      "similarity": 1.0,
+      "status": "match"
+    },
+    {
+      "ordinal": 33,
+      "question_id": "june-five-subjects-mock-033",
+      "similarity": 0.22,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 34,
+      "question_id": "june-five-subjects-mock-034",
+      "similarity": 0.1282,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 35,
+      "question_id": "june-five-subjects-mock-035",
+      "similarity": 0.2391,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 36,
+      "question_id": "june-five-subjects-mock-036",
+      "similarity": 0.1695,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 37,
+      "question_id": "june-five-subjects-mock-037",
+      "similarity": 0.193,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 38,
+      "question_id": "june-five-subjects-mock-038",
+      "similarity": 0.1376,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 39,
+      "question_id": "june-five-subjects-mock-039",
+      "similarity": 0.1429,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 40,
+      "question_id": "june-five-subjects-mock-040",
+      "similarity": 0.1236,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 41,
+      "question_id": "june-five-subjects-mock-041",
+      "similarity": 0.1298,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 42,
+      "question_id": "june-five-subjects-mock-042",
+      "similarity": 0.1021,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 43,
+      "question_id": "june-five-subjects-mock-043",
+      "similarity": 0.0917,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 44,
+      "question_id": "june-five-subjects-mock-044",
+      "similarity": 0.0901,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 45,
+      "question_id": "june-five-subjects-mock-045",
+      "similarity": 0.2373,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 46,
+      "question_id": "june-five-subjects-mock-046",
+      "similarity": 0.1429,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 47,
+      "question_id": "june-five-subjects-mock-047",
+      "similarity": 0.169,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 48,
+      "question_id": "june-five-subjects-mock-048",
+      "similarity": 0.1707,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 49,
+      "question_id": "june-five-subjects-mock-049",
+      "similarity": 0.1569,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 50,
+      "question_id": "june-five-subjects-mock-050",
+      "similarity": 0.0945,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 51,
+      "question_id": "june-five-subjects-mock-051",
+      "similarity": 0.0797,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 52,
+      "question_id": "june-five-subjects-mock-052",
+      "similarity": 0.1209,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 53,
+      "question_id": "june-five-subjects-mock-053",
+      "similarity": 0.2083,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 54,
+      "question_id": "june-five-subjects-mock-054",
+      "similarity": 0.2474,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 55,
+      "question_id": "june-five-subjects-mock-055",
+      "similarity": 0.1931,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 56,
+      "question_id": "june-five-subjects-mock-056",
+      "similarity": 1.0,
+      "status": "match"
+    },
+    {
+      "ordinal": 57,
+      "question_id": "june-five-subjects-mock-057",
+      "similarity": 1.0,
+      "status": "match"
+    },
+    {
+      "ordinal": 58,
+      "question_id": "june-five-subjects-mock-058",
+      "similarity": 1.0,
+      "status": "match"
+    },
+    {
+      "ordinal": 59,
+      "question_id": "june-five-subjects-mock-059",
+      "similarity": 0.1468,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 60,
+      "question_id": "june-five-subjects-mock-060",
+      "similarity": 0.1333,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 61,
+      "question_id": "june-five-subjects-mock-061",
+      "similarity": 0.1503,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 62,
+      "question_id": "june-five-subjects-mock-062",
+      "similarity": 0.2261,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 63,
+      "question_id": "june-five-subjects-mock-063",
+      "similarity": 0.1353,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 64,
+      "question_id": "june-five-subjects-mock-064",
+      "similarity": 0.1069,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 65,
+      "question_id": "june-five-subjects-mock-065",
+      "similarity": 0.1395,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 66,
+      "question_id": "june-five-subjects-mock-066",
+      "similarity": 0.1013,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 67,
+      "question_id": "june-five-subjects-mock-067",
+      "similarity": 0.2097,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 68,
+      "question_id": "june-five-subjects-mock-068",
+      "similarity": 0.0972,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 69,
+      "question_id": "june-five-subjects-mock-069",
+      "similarity": 0.1046,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 70,
+      "question_id": "june-five-subjects-mock-070",
+      "similarity": 0.1957,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 71,
+      "question_id": "june-five-subjects-mock-071",
+      "similarity": 0.3009,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 72,
+      "question_id": "june-five-subjects-mock-072",
+      "similarity": 0.192,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 73,
+      "question_id": "june-five-subjects-mock-073",
+      "similarity": 0.2407,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 74,
+      "question_id": "june-five-subjects-mock-074",
+      "similarity": 0.1318,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 75,
+      "question_id": "june-five-subjects-mock-075",
+      "similarity": 0.239,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 76,
+      "question_id": "june-five-subjects-mock-076",
+      "similarity": 0.4,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 77,
+      "question_id": "june-five-subjects-mock-077",
+      "similarity": 0.11,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 78,
+      "question_id": "june-five-subjects-mock-078",
+      "similarity": 0.0667,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 79,
+      "question_id": "june-five-subjects-mock-079",
+      "similarity": 0.3529,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 80,
+      "question_id": "june-five-subjects-mock-080",
+      "similarity": 0.1797,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 81,
+      "question_id": "june-five-subjects-mock-081",
+      "similarity": 0.1313,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 82,
+      "question_id": "june-five-subjects-mock-082",
+      "similarity": 0.1871,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 83,
+      "question_id": "june-five-subjects-mock-083",
+      "similarity": 0.1404,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 84,
+      "question_id": "june-five-subjects-mock-084",
+      "similarity": 0.1382,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 85,
+      "question_id": "june-five-subjects-mock-085",
+      "similarity": 0.1522,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 86,
+      "question_id": "june-five-subjects-mock-086",
+      "similarity": 0.117,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 87,
+      "question_id": "june-five-subjects-mock-087",
+      "similarity": 0.1845,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 88,
+      "question_id": "june-five-subjects-mock-088",
+      "similarity": 0.1429,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 89,
+      "question_id": "june-five-subjects-mock-089",
+      "similarity": 0.1884,
+      "status": "mismatch"
+    },
+    {
+      "ordinal": 90,
+      "question_id": "june-five-subjects-mock-090",
+      "similarity": 0.1567,
+      "status": "mismatch"
+    }
+  ],
+  "summary": {
+    "matched": 12,
+    "mismatched": 78,
+    "unmatched_questions": 3
+  }
+}

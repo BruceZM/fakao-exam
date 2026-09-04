@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "status": "coverage_snapshot",
+  "subjects": {
+    "民法": {
+      "question_count": 338,
+      "planned_points": 14,
+      "covered_points": 14,
+      "uncovered_points": [],
+      "point_counts": {
+        "民法基本原则": 13,
+        "民事主体制度": 121,
+        "民事法律行为": 54,
+        "代理制度": 32,
+        "合同法": 151,
+        "物权法": 116,
+        "担保物权": 77,
+        "债权法": 54,
+        "侵权责任": 37,
+        "人格权": 2,
+        "婚姻家庭": 38,
+        "继承法": 19,
+        "法人制度": 16,
+        "诉讼时效": 17
+      }
+    },
+    "刑法": {
+      "question_count": 588,
+      "planned_points": 10,
+      "covered_points": 10,
+      "uncovered_points": [],
+      "point_counts": {
+        "刑法基本原则": 47,
+        "刑法效力与渊源": 15,
+        "犯罪构成": 465,
+        "犯罪形态与结果加重": 44,
+        "犯罪形态": 92,
+        "共同犯罪": 193,
+        "刑罚与量刑制度": 141,
+        "正当防卫与紧急避险": 100,
+        "财产犯罪": 196,
+        "刑法分则罪名": 306
+      }
+    },
+    "行政法": {
+      "question_count": 28,
+      "planned_points": 4,
+      "covered_points": 4,
+      "uncovered_points": [],
+      "point_counts": {
+        "行政许可": 5,
+        "行政复议": 8,
+        "行政诉讼": 15,
+        "行政处罚": 18
+      }
+    },
+    "民诉法": {
+      "question_count": 72,
+      "planned_points": 7,
+      "covered_points": 7,
+      "uncovered_points": [],
+      "point_counts": {
+        "民事纠纷解决机制": 48,
+        "民事诉讼基本原则": 18,
+        "民事审判组织与回避": 8,
+        "民事诉讼请求与反诉": 4,
+        "民事管辖": 19,
+        "民事诉讼当事人与第三人": 51,
+        "民事诉讼程序与救济": 20
+      }
+    },
+    "刑诉法": {
+      "question_count": 11,
+      "planned_points": 3,
+      "covered_points": 3,
+      "uncovered_points": [],
+      "point_counts": {
+        "刑事强制措施": 7,
+        "刑事辩护与法律帮助": 2,
+        "刑事侦查": 5
+      }
+    },
+    "理论法": {
+      "question_count": 7,
+      "planned_points": 3,
+      "covered_points": 3,
+      "uncovered_points": [],
+      "point_counts": {
+        "法治理论": 1,
+        "宪法基本权利": 1,
+        "法律职业伦理": 5
+      }
+    },
+    "商经知": {
+      "question_count": 73,
+      "planned_points": 4,
+      "covered_points": 4,
+      "uncovered_points": [],
+      "point_counts": {
+        "合伙企业法": 10,
+        "个人独资企业法": 1,
+        "外商投资法": 1,
+        "公司法": 65
+      }
+    },
+    "三国法": {
+      "question_count": 0,
+      "planned_points": 3,
+      "covered_points": 0,
+      "uncovered_points": [
+        "国际公法",
+        "国际私法",
+        "国际经济法"
+      ],
+      "point_counts": {}
+    },
+    "法考": {
+      "question_count": 0,
+      "planned_points": 3,
+      "covered_points": 0,
+      "uncovered_points": [
+        "综合科目归类",
+        "客观题基础",
+        "主观题基础"
+      ],
+      "point_counts": {}
+    }
+  }
+}

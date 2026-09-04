@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "status": "snapshot_manifest",
+  "scope": "entire_legal_exam_knowledge_base",
+  "scope_description": "客观题、主观题、参考资料、法条、解析、评分点及来源审校的统一数据知识库",
+  "generated_at": "2026-09-03T13:12:13.310241+00:00",
+  "files": [
+    {
+      "path": "data/fakao_knowledge_base.sqlite",
+      "sha256": "89c7cfdf6e9baaa745c5f14e3ea9b8c4945042243713a29ec64ddcf086898354",
+      "bytes": 14274560
+    },
+    {
+      "path": "data/provenance/answer_conflict_queue.json",
+      "sha256": "e20d0fc499c9a9ae07b367c5c90c364d0051e9389cd58fa57edea836b5b4bfe5",
+      "bytes": 96624
+    },
+    {
+      "path": "data/provenance/answer_explanation_gap_report.json",
+      "sha256": "552b5eb3515e116aace403f002fa0bb33b88d82d84f45c6f115b56a4af6e8f73",
+      "bytes": 17690
+    },
+    {
+      "path": "data/provenance/answer_type_candidates.json",
+      "sha256": "ace5e30b0663b22fe72dfd3c653d2e8710b581614dc962a53a501db3a5ce87d4",
+      "bytes": 45434
+    },
+    {
+      "path": "data/provenance/archive_mapping_audit.json",
+      "sha256": "8b64525f1ecb9783ee9783b4fd9673fd29b503bd6b82a901737f22edd3f8be6e",
+      "bytes": 164
+    },
+    {
+      "path": "data/provenance/canonical_question_map.json",
+      "sha256": "626aa32cf9a368b3384b8707e284d5c3419b863e116e80e082c07fcedaad2e83",
+      "bytes": 37143
+    },
+    {
+      "path": "data/provenance/canonical_question_map_candidates.json",
+      "sha256": "8bde4e127db82ee8373fab3331119b11238a07e46b7f72239aef87b624af0989",
+      "bytes": 57003
+    },
+    {
+      "path": "data/provenance/duplicate_question_candidates.json",
+      "sha256": "c431dceb798e04678c135e012956f8b2b4c1db1f20d82a36ffa4a64a798c71d1",
+      "bytes": 64982
+    },
+    {
+      "path": "data/provenance/enriched_integrity_report.json",
+      "sha256": "d4ccd4686538ed591c948484954bf8ede722c42dc097143f75f0a66857ef49f0",
+      "bytes": 216
+    },
+    {
+      "path": "data/provenance/explanation_acquisition_queue.json",
+      "sha256": "d0c3df7f49d197fc9fb61e73ccb50677e8b01d5dae1b539067f0533097efde83",
+      "bytes": 2460
+    },
+    {
+      "path": "data/provenance/explanation_ocr_overrides.json",
+      "sha256": "eed88865ccebc72afa0a8f93e538cef9f04100f56588b768cc13b617f33630e3",
+      "bytes": 979
+    },
+    {
+      "path": "data/provenance/explanation_provenance_audit.json",
+      "sha256": "a48fffa8890cbffc9523f528caaf88ad95bc6b1922f162038d35732fbca86e8c",
+      "bytes": 8652
+    },
+    {
+      "path": "data/provenance/external_answer_link_audit.json",
+      "sha256": "4aa99c1c224ba07bdd695bc571c77ba398b9a24a7102112e0960a739a133cad0",
+      "bytes": 151
+    },
+    {
+      "path": "data/provenance/external_answer_link_candidates.json",
+      "sha256": "7d2f6cc84870ca7a69a597250e0b6959570f5f0510d7563ff6488cabae39bb62",
+      "bytes": 6426
+    },
+    {
+      "path": "data/provenance/external_answer_sources.json",
+      "sha256": "db09c78eb4ed975f89ceb47a28eb4e26029e75c80fae7f353260c37bb6e5a137",
+      "bytes": 1590
+    },
+    {
+      "path": "data/provenance/field_coverage_report.json",
+      "sha256": "3449c2659029a4704f00bb1cd9d801852b19788a618673042797e5d8abef34ea",
+      "bytes": 2209
+    },
+    {
+      "path": "data/provenance/june-five-subjects-answer-merge.json",
+      "sha256": "b4a6fd44410ac1015311687c3cc27f413b08b6e9742ebf8fecf8a86c7f005564",
+      "bytes": 12819
+    },
+    {
+      "path": "data/provenance/knowledge_base_integrity_report.json",
+      "sha256": "7591d7390e6d4eac4b17f336c19607ca2826f6404ee497374b805c3a4405de4c",
+      "bytes": 363
+    },
+    {
+      "path": "data/provenance/knowledge_base_readiness_report.json",
+      "sha256": "b85fe9b550334d884785d280a8b9d831d031f6d9696c08f2a9b39434a92233e7",
+      "bytes": 3634
+    },
+    {
+      "path": "data/provenance/knowledge_coverage_report.json",
+      "sha256": "8a15669cb601bcdd617c71c3d43a06262393623cc1dc7865cf2644cdcaaded50",
+      "bytes": 3207
+    },
+    {
+      "path": "data/provenance/knowledge_point_review_queue.json",
+      "sha256": "4d0595c6337d88db6f13ed41a35629c2331f7261aca48baf74cf235995c1b91e",
+      "bytes": 293
+    },
+    {
+      "path": "data/provenance/material_ingestion_queue.json",
+      "sha256": "e2a07ce2bd81efbc17c2a2add4848c49fad03c2ccddbb669c22f728cee5a33fe",
+      "bytes": 20646
+    },
+    {
+      "path": "data/provenance/missing_answer_manifest.json",
+      "sha256": "3c022a6c2d96e15f8fe6c5f3de6ba9c0ca2e127cd446b0a50a680a723bc4ed7d",
+      "bytes": 22704
+    },
+    {
+      "path": "data/provenance/option_review_queue.json",
+      "sha256": "1d0c4110350c1e6f79320038586c5824718d135ce2424f18aa1011e8f72e2628",
+      "bytes": 289
+    },
+    {
+      "path": "data/provenance/product_admission_snapshot.json",
+      "sha256": "08c004c3162d7eda21fcd670c6ae3ba9ab9e962da39eddfab868042cae4853fc",
+      "bytes": 474
+    },
+    {
+      "path": "data/provenance/qiepeng_company_duplicates.json",
+      "sha256": "bc2d0e2656e14c93e09acf313c4510be2d67447bce433c11ebc2f69ecd2bf764",
+      "bytes": 78
+    },
+    {
+      "path": "data/provenance/question_quality_report.json",
+      "sha256": "edffe25657406b56eca4fcadf3763ea81b76832fb7d3ac2c6c1451bd5896d69b",
+      "bytes": 23409
+    },
+    {
+      "path": "data/provenance/reference_subject_catalog.json",
+      "sha256": "a5db32ecf156e3cc06d5eaad90159e59d55cc7d50b43f3d4c6db8c8267af24dc",
+      "bytes": 4251
+    },
+    {
+      "path": "data/provenance/review_batch_missing_answer_001.json",
+      "sha256": "f1e2feda4b6c913f01160f8cc937a7067e92123c988185fb18cb81a388cdf727",
+      "bytes": 82891
+    },
+    {
+      "path": "data/provenance/review_batch_missing_answer_002.json",
+      "sha256": "76eec1c18885b997594d48a66149d37af7e5a4c9b7d0f9f1c878898b868c0f12",
+      "bytes": 42764
+    },
+    {
+      "path": "data/provenance/review_batch_missing_answer_003.json",
+      "sha256": "525b1aa5db87617c9a7c9288d5f377ee344ce515f13044e846506ec9b5ea8c89",
+      "bytes": 149
+    },
+    {
+      "path": "data/provenance/review_batch_missing_answer_004.json",
+      "sha256": "01930d0937c5b0b804c700913e84960ee68cecf799e76f9e7f26db6d81260bbb",
+      "bytes": 149
+    },
+    {
+      "path": "data/provenance/review_batch_missing_answer_005.json",
+      "sha256": "ebe2010f6b39c3722d73c2ad1e8253adfe537df4d6370e9a18ac42a36cd816ea",
+      "bytes": 149
+    },
+    {
+      "path": "data/provenance/review_queue.json",
+      "sha256": "8f82195e7e50402a89bb0ba1555cd73e4ef3a8b35603d48da13f3edb9957f047",
+      "bytes": 43548
+    },
+    {
+      "path": "data/provenance/rubric_audit.json",
+      "sha256": "cd7845887d9cb0208d2777d06ff25b861f89e4251452410870d33b891be18074",
+      "bytes": 137
+    },
+    {
+      "path": "data/provenance/scan_archive_report.json",
+      "sha256": "69d824a569aead7746e0448b3022f854c7d596f67571dce309078fb94092424f",
+      "bytes": 32035
+    },
+    {
+      "path": "data/provenance/smoke_test_report.json",
+      "sha256": "423094878769851d4dc2158ab101cc30e795be1d4548d83558af5d656d540d30",
+      "bytes": 311
+    },
+    {
+      "path": "data/provenance/source_admission_report.json",
+      "sha256": "e04933e54ee7c37f3bf5df680a9e32cd56d4c8d41ffb76e1fdb34867b5d0b2ab",
+      "bytes": 16732
+    },
+    {
+      "path": "data/provenance/source_answer_availability.json",
+      "sha256": "64e3f7b4ee431695e3e802bd1c4a3c0e2fea2ac70f8638e9d3831281944e474f",
+      "bytes": 13705
+    },
+    {
+      "path": "data/provenance/source_catalog.json",
+      "sha256": "dd02e3b4776c6a2e880727414a05b47642b04d280a40a8b27030506e433986ff",
+      "bytes": 18265
+    },
+    {
+      "path": "data/provenance/source_page_review_queue.json",
+      "sha256": "1a4177c7e8192a8bd33ca4158f0ab35e8e0b58790aad6deeb1d93463c1b54745",
+      "bytes": 222
+    },
+    {
+      "path": "data/provenance/sources.json",
+      "sha256": "4c1b7f54e095dd4f2f330bf8725726ae04f1464b62c07fd36efac5670eaacc6a",
+      "bytes": 19164
+    },
+    {
+      "path": "data/provenance/statute_review_queue.json",
+      "sha256": "624da59fa8d12e79406ac1c79a46cdc962fa317e48fa7742762f586f61ca8d69",
+      "bytes": 89681
+    },
+    {
+      "path": "data/provenance/year_candidates.json",
+      "sha256": "a081f2187ea34a4b99b0d7e74eea06dff3dac203dec973869a558b1e1b6e6057",
+      "bytes": 33808
+    },
+    {
+      "path": "data/exports/canonical_objective_questions.jsonl",
+      "sha256": "17ab59bafc3a71e645b5ef4ae8a52b0d502b7c6d0241299a7e9ff1847cbfbc40",
+      "bytes": 2928674
+    },
+    {
+      "path": "data/exports/canonical_subjective_questions.jsonl",
+      "sha256": "1f6b386c51e5835db2efc58c406c5124a312fa64c51e02b29d2d900947912ba5",
+      "bytes": 157001
+    },
+    {
+      "path": "data/exports/objective_questions.jsonl",
+      "sha256": "dafd93078d5d4aedda6ca07074f478ade09e10ef29dfd03992b08a8d042f4bd3",
+      "bytes": 3533900
+    },
+    {
+      "path": "data/exports/subjective_questions.jsonl",
+      "sha256": "f32a7c5551d70a18c0ab57c241803cca2581b04a6136e64ffc88e48b77c8b18a",
+      "bytes": 185143
+    },
+    {
+      "path": "data/knowledge_points/taxonomy.json",
+      "sha256": "1963918b05a9504478ca36c370e7b758abb06eb766f759d4e5ad4d969cf966d6",
+      "bytes": 1589
+    }
+  ]
+}

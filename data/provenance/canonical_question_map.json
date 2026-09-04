@@ -1,0 +1,1086 @@
+{
+  "schema_version": 1,
+  "status": "canonical_question_map",
+  "summary": {
+    "groups": 51,
+    "mapped_questions": 134,
+    "duplicate_questions": 83
+  },
+  "items": [
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-001",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-001",
+      "duplicate_group_id": "dup-0001",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-001",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-001",
+      "duplicate_group_id": "dup-0001",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-001",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-001",
+      "duplicate_group_id": "dup-0001",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-001",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-001",
+      "duplicate_group_id": "dup-0001",
+      "is_canonical": false,
+      "rank": 4,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-002",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-002",
+      "duplicate_group_id": "dup-0002",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-002",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-002",
+      "duplicate_group_id": "dup-0002",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-002",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-002",
+      "duplicate_group_id": "dup-0002",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-002",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-002",
+      "duplicate_group_id": "dup-0002",
+      "is_canonical": false,
+      "rank": 4,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-003",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-003",
+      "duplicate_group_id": "dup-0003",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-003",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-003",
+      "duplicate_group_id": "dup-0003",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-003",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-003",
+      "duplicate_group_id": "dup-0003",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-003",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-003",
+      "duplicate_group_id": "dup-0003",
+      "is_canonical": false,
+      "rank": 4,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-004",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-questions-004",
+      "duplicate_group_id": "dup-0004",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-004",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-questions-004",
+      "duplicate_group_id": "dup-0004",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-004",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-questions-004",
+      "duplicate_group_id": "dup-0004",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-005",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-005",
+      "duplicate_group_id": "dup-0005",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-005",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-005",
+      "duplicate_group_id": "dup-0005",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-005",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-005",
+      "duplicate_group_id": "dup-0005",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-005",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-005",
+      "duplicate_group_id": "dup-0005",
+      "is_canonical": false,
+      "rank": 4,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-006",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-006",
+      "duplicate_group_id": "dup-0006",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-006",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-006",
+      "duplicate_group_id": "dup-0006",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-006",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-006",
+      "duplicate_group_id": "dup-0006",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-006",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-006",
+      "duplicate_group_id": "dup-0006",
+      "is_canonical": false,
+      "rank": 4,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-007",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-007",
+      "duplicate_group_id": "dup-0007",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-013",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-007",
+      "duplicate_group_id": "dup-0007",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-007",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-007",
+      "duplicate_group_id": "dup-0007",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-013",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-007",
+      "duplicate_group_id": "dup-0007",
+      "is_canonical": false,
+      "rank": 4,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-015",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-007",
+      "duplicate_group_id": "dup-0007",
+      "is_canonical": false,
+      "rank": 5,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-007",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-007",
+      "duplicate_group_id": "dup-0007",
+      "is_canonical": false,
+      "rank": 6,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-013",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-007",
+      "duplicate_group_id": "dup-0007",
+      "is_canonical": false,
+      "rank": 7,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-015",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-007",
+      "duplicate_group_id": "dup-0007",
+      "is_canonical": false,
+      "rank": 8,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-007",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-007",
+      "duplicate_group_id": "dup-0007",
+      "is_canonical": false,
+      "rank": 9,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-013",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-007",
+      "duplicate_group_id": "dup-0007",
+      "is_canonical": false,
+      "rank": 10,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-015",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-007",
+      "duplicate_group_id": "dup-0007",
+      "is_canonical": false,
+      "rank": 11,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-008",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-008",
+      "duplicate_group_id": "dup-0008",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-008",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-008",
+      "duplicate_group_id": "dup-0008",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-008",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-008",
+      "duplicate_group_id": "dup-0008",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-009",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-009",
+      "duplicate_group_id": "dup-0009",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-009",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-009",
+      "duplicate_group_id": "dup-0009",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-010",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-questions-010",
+      "duplicate_group_id": "dup-0010",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-010",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-questions-010",
+      "duplicate_group_id": "dup-0010",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-056",
+      "canonical_question_id": "xuguanghua-criminal-heavy-056",
+      "duplicate_group_id": "dup-0011",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-138",
+      "canonical_question_id": "xuguanghua-criminal-heavy-056",
+      "duplicate_group_id": "dup-0011",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-011",
+      "canonical_question_id": "xuguanghua-criminal-heavy-056",
+      "duplicate_group_id": "dup-0011",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-011",
+      "canonical_question_id": "xuguanghua-criminal-heavy-056",
+      "duplicate_group_id": "dup-0011",
+      "is_canonical": false,
+      "rank": 4,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-011",
+      "canonical_question_id": "xuguanghua-criminal-heavy-056",
+      "duplicate_group_id": "dup-0011",
+      "is_canonical": false,
+      "rank": 5,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-011",
+      "canonical_question_id": "xuguanghua-criminal-heavy-056",
+      "duplicate_group_id": "dup-0011",
+      "is_canonical": false,
+      "rank": 6,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-012",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-012",
+      "duplicate_group_id": "dup-0012",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-012",
+      "canonical_question_id": "bailangtao-criminal-daily-1-14-012",
+      "duplicate_group_id": "dup-0012",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-014",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-014",
+      "duplicate_group_id": "dup-0013",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-014",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-014",
+      "duplicate_group_id": "dup-0013",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-014",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-014",
+      "duplicate_group_id": "dup-0013",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-014",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-014",
+      "duplicate_group_id": "dup-0013",
+      "is_canonical": false,
+      "rank": 4,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-016",
+      "canonical_question_id": "bailangtao-criminal-daily-1-24-compiled-016",
+      "duplicate_group_id": "dup-0015",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-016",
+      "canonical_question_id": "bailangtao-criminal-daily-1-24-compiled-016",
+      "duplicate_group_id": "dup-0015",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-016",
+      "canonical_question_id": "bailangtao-criminal-daily-1-24-compiled-016",
+      "duplicate_group_id": "dup-0015",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-019",
+      "canonical_question_id": "bailangtao-criminal-daily-1-24-compiled-019",
+      "duplicate_group_id": "dup-0018",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-019",
+      "canonical_question_id": "bailangtao-criminal-daily-1-24-compiled-019",
+      "duplicate_group_id": "dup-0018",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-021",
+      "canonical_question_id": "bailangtao-criminal-daily-1-24-compiled-021",
+      "duplicate_group_id": "dup-0020",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-021",
+      "canonical_question_id": "bailangtao-criminal-daily-1-24-compiled-021",
+      "duplicate_group_id": "dup-0020",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-021",
+      "canonical_question_id": "bailangtao-criminal-daily-1-24-compiled-021",
+      "duplicate_group_id": "dup-0020",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-024",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-questions-024",
+      "duplicate_group_id": "dup-0023",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-024",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-questions-024",
+      "duplicate_group_id": "dup-0023",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-024",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-questions-024",
+      "duplicate_group_id": "dup-0023",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-009",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-009",
+      "duplicate_group_id": "dup-0026",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-009",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-009",
+      "duplicate_group_id": "dup-0026",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-017",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-017",
+      "duplicate_group_id": "dup-0029",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-017",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-017",
+      "duplicate_group_id": "dup-0029",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-018",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-018",
+      "duplicate_group_id": "dup-0030",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-018",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-018",
+      "duplicate_group_id": "dup-0030",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-020",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-020",
+      "duplicate_group_id": "dup-0031",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-020",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-020",
+      "duplicate_group_id": "dup-0031",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-022",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-022",
+      "duplicate_group_id": "dup-0032",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-022",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-022",
+      "duplicate_group_id": "dup-0032",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-023",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-023",
+      "duplicate_group_id": "dup-0033",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-023",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-023",
+      "duplicate_group_id": "dup-0033",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-025",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-025",
+      "duplicate_group_id": "dup-0034",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-025",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-025",
+      "duplicate_group_id": "dup-0034",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-026",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-026",
+      "duplicate_group_id": "dup-0035",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-026",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-026",
+      "duplicate_group_id": "dup-0035",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-027",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-027",
+      "duplicate_group_id": "dup-0036",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-027",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-027",
+      "duplicate_group_id": "dup-0036",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-028",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-028",
+      "duplicate_group_id": "dup-0037",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-028",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-028",
+      "duplicate_group_id": "dup-0037",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-029",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-029",
+      "duplicate_group_id": "dup-0038",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-029",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-029",
+      "duplicate_group_id": "dup-0038",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-030",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-030",
+      "duplicate_group_id": "dup-0039",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-030",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-030",
+      "duplicate_group_id": "dup-0039",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-031",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-031",
+      "duplicate_group_id": "dup-0040",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-031",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-031",
+      "duplicate_group_id": "dup-0040",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-033",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-033",
+      "duplicate_group_id": "dup-0042",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-033",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-033",
+      "duplicate_group_id": "dup-0042",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-034",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-034",
+      "duplicate_group_id": "dup-0043",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-034",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-034",
+      "duplicate_group_id": "dup-0043",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-035",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-035",
+      "duplicate_group_id": "dup-0044",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-035",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-035",
+      "duplicate_group_id": "dup-0044",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-037",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-037",
+      "duplicate_group_id": "dup-0046",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-037",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-037",
+      "duplicate_group_id": "dup-0046",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-expl-038",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-038",
+      "duplicate_group_id": "dup-0047",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-38-questions-038",
+      "canonical_question_id": "bailangtao-criminal-daily-1-38-expl-038",
+      "duplicate_group_id": "dup-0047",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "cuihongyu-73-truefalse-003",
+      "canonical_question_id": "cuihongyu-73-truefalse-003",
+      "duplicate_group_id": "dup-0054",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "cuihongyu-73-truefalse-006",
+      "canonical_question_id": "cuihongyu-73-truefalse-003",
+      "duplicate_group_id": "dup-0054",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "cuihongyu-73-truefalse-028",
+      "canonical_question_id": "cuihongyu-73-truefalse-028",
+      "duplicate_group_id": "dup-0077",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "cuihongyu-73-truefalse-027",
+      "canonical_question_id": "cuihongyu-73-truefalse-028",
+      "duplicate_group_id": "dup-0077",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-033",
+      "canonical_question_id": "luyao-criminal-general-033",
+      "duplicate_group_id": "dup-0337",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-034",
+      "canonical_question_id": "luyao-criminal-general-033",
+      "duplicate_group_id": "dup-0337",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-036",
+      "canonical_question_id": "luyao-criminal-general-033",
+      "duplicate_group_id": "dup-0337",
+      "is_canonical": false,
+      "rank": 3,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-039",
+      "canonical_question_id": "luyao-criminal-general-033",
+      "duplicate_group_id": "dup-0337",
+      "is_canonical": false,
+      "rank": 4,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-041",
+      "canonical_question_id": "luyao-criminal-general-041",
+      "duplicate_group_id": "dup-0342",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-202",
+      "canonical_question_id": "luyao-criminal-general-041",
+      "duplicate_group_id": "dup-0342",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-042",
+      "canonical_question_id": "luyao-criminal-general-042",
+      "duplicate_group_id": "dup-0343",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-050",
+      "canonical_question_id": "luyao-criminal-general-042",
+      "duplicate_group_id": "dup-0343",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-087",
+      "canonical_question_id": "xuguanghua-criminal-heavy-087",
+      "duplicate_group_id": "dup-0353",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-053",
+      "canonical_question_id": "xuguanghua-criminal-heavy-087",
+      "duplicate_group_id": "dup-0353",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-056",
+      "canonical_question_id": "luyao-criminal-general-056",
+      "duplicate_group_id": "dup-0356",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-059",
+      "canonical_question_id": "luyao-criminal-general-056",
+      "duplicate_group_id": "dup-0356",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-057",
+      "canonical_question_id": "luyao-criminal-general-057",
+      "duplicate_group_id": "dup-0357",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-063",
+      "canonical_question_id": "luyao-criminal-general-057",
+      "duplicate_group_id": "dup-0357",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-065",
+      "canonical_question_id": "luyao-criminal-general-065",
+      "duplicate_group_id": "dup-0363",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-071",
+      "canonical_question_id": "luyao-criminal-general-065",
+      "duplicate_group_id": "dup-0363",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-165",
+      "canonical_question_id": "luyao-criminal-general-165",
+      "duplicate_group_id": "dup-0460",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-169",
+      "canonical_question_id": "luyao-criminal-general-165",
+      "duplicate_group_id": "dup-0460",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-203",
+      "canonical_question_id": "luyao-criminal-general-203",
+      "duplicate_group_id": "dup-0496",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-212",
+      "canonical_question_id": "luyao-criminal-general-203",
+      "duplicate_group_id": "dup-0496",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "menggui-2026-civil-commercial-daily-025",
+      "canonical_question_id": "menggui-2026-civil-commercial-daily-025",
+      "duplicate_group_id": "dup-0583",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "menggui-2026-civil-commercial-daily-112",
+      "canonical_question_id": "menggui-2026-civil-commercial-daily-025",
+      "duplicate_group_id": "dup-0583",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "menggui-2026-civil-commercial-daily-131",
+      "canonical_question_id": "menggui-2026-civil-commercial-daily-131",
+      "duplicate_group_id": "dup-0687",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "menggui-civil-commercial-mock-001",
+      "canonical_question_id": "menggui-2026-civil-commercial-daily-131",
+      "duplicate_group_id": "dup-0687",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "menggui-2026-civil-common-sense-003",
+      "canonical_question_id": "menggui-2026-civil-common-sense-003",
+      "duplicate_group_id": "dup-0723",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "menggui-2026-civil-common-sense-022",
+      "canonical_question_id": "menggui-2026-civil-common-sense-003",
+      "duplicate_group_id": "dup-0723",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-007",
+      "canonical_question_id": "xuguanghua-criminal-heavy-007",
+      "duplicate_group_id": "dup-0860",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-010",
+      "canonical_question_id": "xuguanghua-criminal-heavy-007",
+      "duplicate_group_id": "dup-0860",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-058",
+      "canonical_question_id": "xuguanghua-criminal-heavy-058",
+      "duplicate_group_id": "dup-0909",
+      "is_canonical": true,
+      "rank": 1,
+      "review_status": "needs_human_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-060",
+      "canonical_question_id": "xuguanghua-criminal-heavy-058",
+      "duplicate_group_id": "dup-0909",
+      "is_canonical": false,
+      "rank": 2,
+      "review_status": "needs_human_review"
+    }
+  ],
+  "notes": [
+    "主记录是自动排序建议，需人工确认后才能用于正式组卷。"
+  ]
+}

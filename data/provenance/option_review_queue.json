@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "status": "option_review_queue",
+  "summary": {
+    "items": 0
+  },
+  "items": [],
+  "notes": [
+    "仅列出客观题选项数不是 2、3 或 4 的记录。",
+    "应回看扫描原文恢复选项边界；不得根据答案字母猜测选项文本。"
+  ]
+}

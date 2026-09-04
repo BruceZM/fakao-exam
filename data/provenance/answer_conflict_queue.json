@@ -1,0 +1,2238 @@
+{
+  "schema_version": 1,
+  "status": "answer_conflict_queue",
+  "summary": {
+    "items": 171,
+    "single_type_but_multiple_raw_choices": 159,
+    "answer_differs_from_clean_raw": 12,
+    "answer_raw_residue": 0
+  },
+  "items": [
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-009",
+      "source_id": "bailangtao-criminal-daily-1-14",
+      "subject": "刑法",
+      "question_type": "multiple_choice",
+      "answer": "B",
+      "answer_raw": "BC",
+      "stem_preview": "甲怀疑乙在追求自己的女友，便约上丙丁来找乙。在乙的宿舍门前，丙见到乙就上前殴打，被甲拦住。 甲声称：“在没搞清事实之前，先别动手。”乙从地上爬起来后进入宿舍，将一把水果刀揣进口袋，然后 出来。在门口，甲乙二人又发生争执。甲问道：“真要干架吗？”乙答道：“怕你啊！”二人便厮打起来。 此时，两丁便一起上来殴打乙。乙见对方人多势众，便逃跑。甲两丁便一路将乙追打至持",
+      "flags": [
+        "answer_differs_from_clean_raw"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-14-012",
+      "source_id": "bailangtao-criminal-daily-1-14",
+      "subject": "刑法",
+      "question_type": "multiple_choice",
+      "answer": "B",
+      "answer_raw": "BCD",
+      "stem_preview": "甲与乙因琐事产生矛盾，乙想教训甲，因此约自己的朋友丙、丁二人至甲住处，三人一同对甲进行殴打， 将甲打伤，鲜血直流。乙、丙、丁三人离去后，丁感觉对甲的教训太轻，不能使乙解气，于是唆使乙两二 人回住处拿了西瓜刀、钢筋返回，乙用钢筋抽打甲时，甲便用随身携带的匕首刺中乙及持西瓜刀朝其冲过 来的丙，致乙轻伤，丙失血过多死亡。戊上前劝架，被甲当作乙的同伙，甲遂挥刀刺向戊",
+      "flags": [
+        "answer_differs_from_clean_raw"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-009",
+      "source_id": "bailangtao-criminal-daily-1-24-compiled",
+      "subject": "刑法",
+      "question_type": "multiple_choice",
+      "answer": "B",
+      "answer_raw": "BC",
+      "stem_preview": "甲怀疑乙在追求自己的女友，便约上丙丁来找乙。在乙的宿舍门前，丙见到乙就上前殴打，被甲拦住。 甲声称：“在没搞清事实之前，先别动手。”乙从地上爬起来后进入宿舍，将一把水果刀揣进口袋，然后 出来。在门口，甲乙二人又发生争执。甲问道：“真要干架吗？”乙答道：“怕你啊！”二人便厮打起来。 此时，两丁便一起上来殴打乙。乙见对方人多势众，便逃跑。甲两丁便一路将乙追打至持",
+      "flags": [
+        "answer_differs_from_clean_raw"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-012",
+      "source_id": "bailangtao-criminal-daily-1-24-compiled",
+      "subject": "刑法",
+      "question_type": "multiple_choice",
+      "answer": "B",
+      "answer_raw": "BCD",
+      "stem_preview": "甲与乙因琐事产生矛盾，乙想教训甲，因此约自己的朋友丙、丁二人至甲住处，三人一同对甲进行殴打， 将甲打伤，鲜血直流。乙、丙、丁三人离去后，丁感觉对甲的教训太轻，不能使乙解气，于是唆使乙两二 人回住处拿了西瓜刀、钢筋返回，乙用钢筋抽打甲时，甲便用随身携带的匕首刺中乙及持西瓜刀朝其冲过 来的丙，致乙轻伤，丙失血过多死亡。戊上前劝架，被甲当作乙的同伙，甲遂挥刀刺向戊",
+      "flags": [
+        "answer_differs_from_clean_raw"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "bailangtao-criminal-daily-1-24-compiled-017",
+      "source_id": "bailangtao-criminal-daily-1-24-compiled",
+      "subject": "刑法",
+      "question_type": "multiple_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "甲（男）与乙（女）是研究生师兄妹关系。甲殷勤追求乙，但乙未答应，给甲颁发了“好人卡”。日久， 甲不想再做“好人”。某晚，甲欲与乙发生性关系，向乙语言暗示，没有采取任何强制手段。但乙非常警 觉，大喊“有人强奸啦”。甲担心有口难辩，便决定灭口，捂住乙的嘴巴，掐住乙的脖子.乙晕倒后，甲 以为乙已经死亡，便拔掉衣服，实施了“奸尸”行为。事毕，甲离开现场，由于乙衣衫裸",
+      "flags": [
+        "answer_differs_from_clean_raw"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-055",
+      "source_id": "june-five-subjects-mock",
+      "subject": "理论法",
+      "question_type": "multiple_choice",
+      "answer": "B",
+      "answer_raw": "B,C， D",
+      "stem_preview": "【多选题】 胡某因涉嫌诈骗被检察院向法院提起公诉，胡某委托了辩护律师黄某。法院在审理 过程中，黄某对公诉人出具的一份书证鉴定意见产生质疑，下列表述正确的有？",
+      "flags": [
+        "answer_differs_from_clean_raw"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-059",
+      "source_id": "june-five-subjects-mock",
+      "subject": "民法",
+      "question_type": "multiple_choice",
+      "answer": "A",
+      "answer_raw": "A，B，C,D",
+      "stem_preview": "【多选题】 孟某将自己的房屋出租给李某，双方约定：租期1年，自2021年5月1日起至2022 年5月1日止；月租金1万元，每月10日支付租金。李某均按时交付租金，但2022 年3月10日，由于公司未按时发放工资，导致李某未按时付清当月租金。3月12日， 孟某将房屋卖给曹某，并办理了过户登记手续。现曹某要求李某搬离。关于本案，下 列说法不正确的有？",
+      "flags": [
+        "answer_differs_from_clean_raw"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-067",
+      "source_id": "june-five-subjects-mock",
+      "subject": "刑诉法",
+      "question_type": "multiple_choice",
+      "answer": "C",
+      "answer_raw": "C,D",
+      "stem_preview": "【多选题】 关于刑事诉讼活动中回避制度的适用，下列表述正确的是？",
+      "flags": [
+        "answer_differs_from_clean_raw"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-068",
+      "source_id": "june-five-subjects-mock",
+      "subject": "民法",
+      "question_type": "multiple_choice",
+      "answer": "A",
+      "answer_raw": "A,B",
+      "stem_preview": "【多选题】 大山公司欠五岳公司5000万元，海伦公司提供抵押担保，因到期未支付，五岳公 司向法院申请对大山公司发出支付令。支付令发出后，五岳公司将海伦公司起诉至 法院，要求其履行担保责任，以下哪些选项正确？",
+      "flags": [
+        "answer_differs_from_clean_raw"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-097",
+      "source_id": "xuguanghua-criminal-heavy",
+      "subject": "刑法",
+      "question_type": "multiple_choice",
+      "answer": "A",
+      "answer_raw": "A、C",
+      "stem_preview": "甲曾经是一名快递员，收集了乙的个人信息和快递收货地址。甲将实际价值只有5 元的香薰包标价60元，并在快递包裹上贴上乙的收件人信息和地址，付款方式设置为“货到付款”。快 递小哥丙明知甲要利用该包裹骗取财物，但是认为自己只负责送货，不要多管闲事，于是依旧送货上门。 乙的家人开门收货时，以为是乙购买的香黨包，于是乙的家人进行了签收，并支付了60元的价款和10 元的",
+      "flags": [
+        "answer_differs_from_clean_raw"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-114",
+      "source_id": "xuguanghua-criminal-heavy",
+      "subject": "刑法",
+      "question_type": "multiple_choice",
+      "answer": "A",
+      "answer_raw": "A,B",
+      "stem_preview": "甲销售公司的司机徐某负责把货物运送到乙公司之后，乙公司就将货款当面交付甲 公司的司机带回交给甲公司的老板。后来，徐某从甲公司辞职了，甲公司遂聘请A为新的司机。但甲公 司老板对新司机 A 不太放心，就对A说：“你把货物运到乙公司之后，就不要带货款回来了，我让乙公 司直接把货款汇到咱们公司的账户来。”。但甲公司的老板忘了和乙公司的老板说明这一情况。A将货物 运到",
+      "flags": [
+        "answer_differs_from_clean_raw"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-173",
+      "source_id": "xuguanghua-criminal-heavy",
+      "subject": "刑法",
+      "question_type": "multiple_choice",
+      "answer": "A",
+      "answer_raw": "A,D",
+      "stem_preview": "甲系某国有公司董事长，民营企业家乙为获取甲所在国有公司的合作项目，与甲 达成私下约定：甲利用职务便利将该项目交由乙承接；同时，甲先将其个人的300万元借给乙，双方约 定借款到期后，乙需按法定贷款利率三倍的标准向甲支付利息。后乙的公司因经营不善破产，无力偿还 ① 参见《刑事审判参考》指子案例第312号。 249 完晓法考 26年州法历年重难真题200题 甲的个",
+      "flags": [
+        "answer_differs_from_clean_raw"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-001",
+      "source_id": "deen-2025-recalled",
+      "subject": "行政法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "李某向某烟草公司提出烟草专卖零售许可申请，烟草公司受理并组织工作人员进行考察， 后以李某所经营商业区已持证户数量饱和为由作出不予许可的决定，李某不服申请行政复议， 对此，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-002",
+      "source_id": "deen-2025-recalled",
+      "subject": "行政法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BD",
+      "stem_preview": "某市不动产登记中心根据法院作出的行政协助通知书和合法的已生效判决，依照合法的程 序和协助通知书的要求，将甲公司名下的一处房产转移登记到另一家公司名下，甲公司不服 该转移登记行为，向法院提起行政诉讼要求撤销不动产登记中心作出的登记行为，随后法院 立案。对此，下列说法正确的是？ A法院应当确认不动产登记中心作出的行政行为违法",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-004",
+      "source_id": "deen-2025-recalled",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "醉酒行人陈某在步行回家途中，因饮酒过量处于严重醉酒状态，且小区门口光线昏暗，能 见度较低。陈某误将正在该处执行抓捕任务的便衣警察王某和辅警刘某认作小区保安，并无 故对王某和刘某破口大骂。王某和刘某见状，欲对陈某采取约束措施以控制事态，但在此期 间，两人始终未向陈某表明其警察身份，也未说明正在执行公务的目的。陈某因误认对方身 份，在反抗约束过程中，先殴打了辅警",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-005",
+      "source_id": "deen-2025-recalled",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "B、D",
+      "stem_preview": "王某与李某预谋后共同实施抢劫，二人在街头将陈某劫持并夺走部分财物。二人发现陈某 家境富裕，便威胁其交出家庭住址，准备进一步实施抢劫。在离开现场前，王某出于个人原 因，擅自将陈某杀害（李某未参与该行为）。之后，王某和李某基于共同抢劫的意思联络， 一同前往陈某家中继续抢劫。途中，王某因身体不适主动中途离开，未进入陈某家。李某单 独持陈某的钥匙进入陈某家中，控制陈",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-006",
+      "source_id": "deen-2025-recalled",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "C",
+      "answer_raw": "CD",
+      "stem_preview": "甲是国有企业的经理（属于国家工作人员），民营企业老板乙找到甲想要获取工程。甲利 用职务便利，以个人名义将国有企业的资金200万元借给乙，约定利息按3倍LPR计算。后 债务期限届满，乙公司经营不善无法偿还。甲与乙商量，让乙向甲的国有企业借款300万元， 甲利用职务便利促使国有企业借款给乙，乙随后用这300万元偿还了欠甲的个人债务（本金 和利息）。此后，乙公司因",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-007",
+      "source_id": "deen-2025-recalled",
+      "subject": "理论法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AC",
+      "stem_preview": "近年来，我国依法治理酒驾、醉驾行为，综合运用法律、科技、教育等多种手段，成效显 著。数据显示，2024年全国因涉酒导致的交通死亡人数同比下降3.2%，刑事立案数同比下 降 43.8%。与此同时，社会上也出现了一些讨论：有观点认为，当前醉驾入刑的血液酒精含 量标准（80mg/100ml）过于刚性，应适当提高以节约司法资源；也有观点认为，各地对“情 节显著轻微”",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-009",
+      "source_id": "deen-2025-recalled",
+      "subject": "理论法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "李某与孙某协议离婚，双方在《离婚协议书》中约定：“为保障女方孙某的情绪稳定及孩 子成长环境，男方李某承诺自离婚之日起5年内不得再婚。若男方违反此承诺，需向女方支 付人民币20万元作为赔偿。”离婚3年后，李某再婚。孙某遂依据该协议条款，向人民法院 提起诉讼，要求李某支付赔偿金20万元。法院经审理认为，婚姻自由是宪法和法律赋予公 民的基本权利，任何人不得干涉。涉",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-070",
+      "source_id": "june-five-subjects-mock",
+      "subject": "民法",
+      "question_type": "single_choice",
+      "answer": "C",
+      "answer_raw": "C,D",
+      "stem_preview": "【不定项选择题】 王某、周某共同贩卖海洛因2000g，被M省L市中级法院以贩卖毒品罪分别判处死 刑立即执行和死刑缓期2年执行。经最高人民法院和M省高级法院各自核准后，二 人被交付执行。关于本案的处理，下列表述正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-071",
+      "source_id": "june-five-subjects-mock",
+      "subject": "行政法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "A,B",
+      "stem_preview": "【不定项选择题】 国家数据局于2023年10月成立，为国家发展和改革委员会管理的国家局。关于国 家数据局，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-072",
+      "source_id": "june-five-subjects-mock",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "B,D",
+      "stem_preview": "【不定项选择题】 下列关于行为人的定性，说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-073",
+      "source_id": "june-five-subjects-mock",
+      "subject": "民法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "B,D",
+      "stem_preview": "【不定项选择题】 甲、乙公司签订买卖合同，在合同履行过程中，甲公司认为乙公司存在严重的违约 行为，甲公司起诉乙公司请求解除合同。诉讼中，甲公司增加诉讼请求，请求判令 乙公司支付违约金。下列表述正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-075",
+      "source_id": "june-five-subjects-mock",
+      "subject": "民法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "B,C， D",
+      "stem_preview": "【不定项选择题】 姜某和外国人珍妮因买卖合同纠纷诉至荔城区人民法院，一审法院适用简易程序审 理依法判决姜某败诉。姜某不服上诉至莆田市中级人民法院，二审法院合议庭由审 判员杨某、王某和人民陪审员苏某组成。关于本案，下列说法错误的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-076",
+      "source_id": "june-five-subjects-mock",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "C",
+      "answer_raw": "C，D",
+      "stem_preview": "【不定项选择题】 关于立功的认定，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-079",
+      "source_id": "june-five-subjects-mock",
+      "subject": "刑诉法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "A,B，D",
+      "stem_preview": "【不定项选择题】 下列哪些选项属于刑事诉讼中的证明对象？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-080",
+      "source_id": "june-five-subjects-mock",
+      "subject": "民法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "A,B,C，D",
+      "stem_preview": "【不定项选择题】 甲在乡下的老房子年久失修，邻居乙曾多次催促其加固，但甲一直未采取措施。某日 因暴雨甲家一面院墙倒塌了一半，砸到了乙家的摩托车。因甲在外地，乙雇人清理了 院子里残砖废料，并修理了摩托车，另外半截墻也快要倒塌。关于本案，下列说法正 确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-081",
+      "source_id": "june-five-subjects-mock",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "A,B,C,D",
+      "stem_preview": "【不定项选择题】 甲公司通过竞标取得了乙国有公司的保洁项目。后乙公司换了负责人，新负责人是 钱某（国家工作人员）。钱某对甲公司负责人王某表示，要提前终止协议，更换保洁公 司。实际上，甲公司没有违约或不合格的行次。王某向钱某送了20万元，希望继续 履行协议。钱某收钱后表示可以。一周后，钱某的亲戚赵某想承包乙公司的保洁项 目，钱某便强行终止了与甲公司的保洁协议。",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-082",
+      "source_id": "june-five-subjects-mock",
+      "subject": "民诉法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "B,C",
+      "stem_preview": "【不定项选择题】 对于原告起诉的下列案件，法院应当依法受理的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-083",
+      "source_id": "june-five-subjects-mock",
+      "subject": "行政法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "B,C,D",
+      "stem_preview": "【不定项选择题】 县林业局发现某公司在未取得合法林地征用手续的情况下用挖掘机开挖公路、破坏 森林，责令其恢复原状并罚款20万元，该公司缴纳罚款后，县林业局予以结案。县检 察院发现这一情况后，向县林业局发出检察建议，建议采取有效措施，恢复森林植 被。后县检察院以县林业局未履行法定职责为由向县法院提起诉讼。对此，下列说 法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-085",
+      "source_id": "june-five-subjects-mock",
+      "subject": "民法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "B,C",
+      "stem_preview": "【不定项选择题】 某生态环境局对一公司进行现场检查，并对职员罗某进行询问。生态环境局以公司 的案涉沥青搅拌机未有环境影响评价报告由，对该公司罚款20万元。该公司不服 提起行政诉讼。生态环境局向法院提交询问笔录、现场检查笔录等证据。下列选项 正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-087",
+      "source_id": "june-five-subjects-mock",
+      "subject": "行政法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "A, D",
+      "stem_preview": "【不定项选择题】 某住建局接到举报称，豆腐渣建筑公司在未取得建筑规划许可证的前提下，私自从 事住宅楼建设。经调查后认定举报属实，住建局遂扣押了该公司从事建筑作业的相 关生产工具。关于扣押程序，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-088",
+      "source_id": "june-five-subjects-mock",
+      "subject": "民诉法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "A,B,D",
+      "stem_preview": "【不定项选择题】 张三、李四共同经营一个饭店，因为经营理念不和，二人发生矛盾，张三唆使王五 将李四打伤，李四起诉王五要求赔偿医疗费5000元、误工费3000元，并赔礼道 歉。一审法院判决王五赔偿医疗费、误工费共计8000元。王五不服该判决，提起 上诉，在二审中王五承认是受到张三唆使，李四要求二审法院追加张三参加诉讼， 并要求法院判决退伙析产。关于本案，二审法",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-091",
+      "source_id": "june-five-subjects-mock",
+      "subject": "民法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "A，B",
+      "stem_preview": "【不定项选择题】 某房地产公司向银行借款，后逾期未归还。双方另行签订了以房抵债协议，但未办理 过户登记手续，且经催告后在合理期限内仍不办理。关于本案，下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "june-five-subjects-mock-092",
+      "source_id": "june-five-subjects-mock",
+      "subject": "民法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "A,D",
+      "stem_preview": "【不定项选择题】 甲和乙之间有车辆租赁协议，到期后甲依约定将车卖给乙，约定价款20万元，3个月 内完成分期付款。丙知道后，向甲表示愿意以25万元的价格购买此辆车，并且一个 星期内付全款，甲同意，并让丙直接去找乙提车。关于本案，下列选项正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "lijia-admin-daily-003",
+      "source_id": "lijia-admin-daily",
+      "subject": "行政法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "马某未经批准擅自在小区中搭建了储藏室，区规划局责令限期自行拆除。马某逾期未拆除。区 政府责成区规划局将违法建筑拆除，马某认为拆除行为违反法定程序，于是提起诉讼，下列说 法不正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "lijia-admin-daily-005",
+      "source_id": "lijia-admin-daily",
+      "subject": "行政法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BD",
+      "stem_preview": "马某未经批准擅自在小区中搭建了储藏室，区规划局责令马某限期拆除，期限届满，马某期满 不履行义务，下列说法是正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "lijia-admin-daily-007",
+      "source_id": "lijia-admin-daily",
+      "subject": "行政法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "区规划局扣押了马某储藏室的物品，而后对其罚款500元，马某履行期内不缴纳罚款，下列说 法正确是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "lijia-admin-daily-008",
+      "source_id": "lijia-admin-daily",
+      "subject": "行政法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AC",
+      "stem_preview": "马某未经批准擅自在小区中搭建了储藏室，区自然资源与规划局对其罚款50000元，马某履行 期内不缴纳罚款，区自然资源与规划局向法院申请强制执行，下列说法正确是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "lijia-admin-daily-010",
+      "source_id": "lijia-admin-daily",
+      "subject": "行政法",
+      "question_type": "single_choice",
+      "answer": "C",
+      "answer_raw": "CD",
+      "stem_preview": "区规划局查封了马某储藏室，并扣押了储藏室的物品，下列说法正确是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-007",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "①对于同一刑法条中的同一概念，既可以进行文理解释， 也可以进行论理解释 缩小解释 ②一个解释者对于同一刑法条文的同一概念，不可能同时既作扩大解释又作 ③刑法中类推解释被禁止，扩大解释被允许，但扩大解释的结论也可能是错 误的 ④当然解释追求结论的合理性，但并不必然符合罪刑法定原则 关于上述4句话的判断，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-008",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BCD",
+      "stem_preview": "关于刑法解释，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-010",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "下列哪些选项不违反罪刑法定原则？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-011",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BCD",
+      "stem_preview": "关于刑法解释，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-012",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "关于罪刑法定原则与刑法解释，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-013",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "下列关于刑法的解释，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-015",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BC",
+      "stem_preview": "关于刑法解释，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-016",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AC",
+      "stem_preview": "下列哪些犯罪行为应实行属地管辖原则？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-017",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABD",
+      "stem_preview": "关于刑事管辖权，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-018",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AC",
+      "stem_preview": "中国公民林某担任中国某总公司经理，后被委派至该公司 驻A国的分公司工作。A 国公民江某明知林某已在中国登记结婚，仍与林某在 A 国办理结婚登记。此外，林某利用其负责A 国分公司工作的职务便利，侵吞中国 某总公司驻A国分公司的500万元存款。经查，A 国刑法规定重婚、侵占均为犯 罪。下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-020",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "关于刑法及司法解释的时间效力，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-021",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BD",
+      "stem_preview": "2021年2月28 日晚上11 点，甲从三楼向下扔厨余垃圾， 正好砸在自家车上。司法机关在2021年3月1日后处理本案。下列说法正确的 是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-023",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "关于单位犯罪，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-025",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "关于单位犯罪，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-027",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "某电器公司与某物流公司是母公司与子公司的关系。两个 公司共同实施吸收公众存款行为，涉嫌非法吸收公众存款罪，共吸收存款5亿元。 关于单位犯罪，下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-030",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "甲女得知男友乙移情，怨恨中送其一双滚轴旱冰鞋，企盼 其运动时摔伤。乙穿此鞋运动时，果真摔成重伤。关于本案的分析，下列哪些选 项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-033",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BCD",
+      "stem_preview": "关于不作为犯罪，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-034",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "关于不作为犯罪，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-036",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BD",
+      "stem_preview": "关于不作为犯罪，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-039",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "关于不作为犯罪，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-041",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "关于不作为犯，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-042",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "关于不作为犯罪，下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-044",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BD",
+      "stem_preview": "关于不作为犯罪，下列选项正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-045",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BD",
+      "stem_preview": "关于不作为犯罪，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-047",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "C",
+      "answer_raw": "CD",
+      "stem_preview": "关于不作为方式的犯罪（假定行为人具有作为可能性和结 果回避可能性），下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-048",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABD",
+      "stem_preview": "关于不作为方式的犯罪，下列选项说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-049",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "在有作为可能性和结果回避可能性的前提下，下列哪些选 项构成不作为犯罪？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-050",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BC",
+      "stem_preview": "关于不作为犯罪，下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-055",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "关于结果加重犯的判断，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-057",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BCD",
+      "stem_preview": "关于因果关系，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-061",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "关于因果关系的判断，下列哪些说法是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-063",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "关于因果关系，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-065",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "关于因果关系，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-066",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BC",
+      "stem_preview": "关于因果关系，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-067",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "关于因果关系的认定，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-068",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AC",
+      "stem_preview": "关于因果关系的判断，下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-069",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "关于刑法上的因果关系，下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-070",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "甲以杀人故意将乙击倒在地，甲以为乙死亡，但乙只是陷 入昏迷，后甲离开，关于甲的后续行为，下列选项说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-071",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BD",
+      "stem_preview": "关于因果关系，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-072",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "关于因果关系，下列选项正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-077",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "严重精神病患者乙正在对多名儿童实施重大暴力侵害，甲明 知乙是严重精神病患者，仍使用暴力制止了乙的侵害行为，虽然造成乙重伤，但 保护了多名儿童的生命。 观点： 57 路遥刑法真金题 @路逼的刑法空间 ①正当防卫针对的“不法侵害”不以侵害者具有责任能力为前提 ②正当防卫针对的“不法侵害”以侵害者具有责任能力为前提 ③正当防卫针对的“不法侵害”不以防卫人是否明知侵",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-079",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AC",
+      "stem_preview": "张某和李某因互抢摊位发生争执，张某愤怒中操起菜刀欲 杀死李某，李某慌乱中拿起扁担抵抗，击中张某小腿，致其摔倒在地。李某担心 张某起身继续攻击自己，赶紧上前用扁担继续击打张某头部，致其死亡。事后查 明，张某倒地后便陷入昏迷。关于本案的分析，下列选项正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-081",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "C",
+      "answer_raw": "CD",
+      "stem_preview": "甲杀害乙，乙被迫防卫。路过的丙看到了，以为乙在侵害 甲，想起甲是自己的仇人，就故去帮乙一起伤害甲。乙以为丙是见义勇为，出来 协助自己。两人共同把甲打成了重伤。以下说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-090",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BC",
+      "stem_preview": "关于排除犯罪事由，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-096",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AC",
+      "stem_preview": "关于不作为犯、正当防卫及紧急避险，说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-099",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABD",
+      "stem_preview": "关于被害人承诺理论，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-103",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "关于故意犯罪的情形界定，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-107",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "甲和乙是菜市场的小商贩，在菜市场嬉笑打闹，互相追逐， 甲用尖刀挥舞阻止乙的前进时，不小心刺中乙，造成乙重伤。关于甲的行为，下 列说法错误的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-115",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "关于故意、过失，下列论述正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-116",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "甲欲杀乙，便向乙开枪，但开枪的结果是将乙和丙都打死。 关于本業，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-117",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BCD",
+      "stem_preview": "关于犯罪故意、过失与认识错误的认定，下列哪些选项是 错误的？ 80 路遥刑法真金趑 @路逼的刑法空间",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-119",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "C",
+      "answer_raw": "CD",
+      "stem_preview": "甲、乙共同对丙实施严重伤害行为时，甲误打中乙致乙重 伤，丙乘机逃走。关于本案，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-120",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "甲、乙合谋杀害丙，计划由甲对丙实施砍杀，乙持枪埋伏 于远方暗处，若丙逃跑则伺机射杀。案发时，丙不知道乙的存在。为防止甲的不 法侵害丙开枪射杀甲，子弹与甲擦肩而过，击中远处的乙，致乙死亡。关于本案， 下列哪些选项是正确的？ 82 路遥刑法真金题 @路逼的刑法空间",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-123",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "关于刑法上的故意、过失的认定，下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-124",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "甲、乙共同实施暴力，以抢劫丙的财物，丙极力反抗。甲 特刀想刺杀丙，慌乱中不慎刺中了乙，导致乙重伤，丙趁机逃跑。下列哪些选项 是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-125",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "关于事实认识错误，下列哪些选项是正确的？ 85 路遥刑法真金题 @路逼的刑法空间",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-127",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "甲意图杀乙。甲在黑暗中误将丙当作乙开枪，子弹打中两 致丙重伤之后，又打中了附近经过的乙，致乙死亡。关于甲的行为，应当如何定 性？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-130",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "甲乘坐长途公共汽车时，误以为司机座位后的提包內身边 的己所有（实为司机所有），乙中途下车后，甲误以为乙忘了拿走提包。为了非 法占有该提包内的财物（内有司机为他人代购的13部手机，价值2.6万元），甲 提前下车，并将提包拿走。司机到站后发现自己的手提包丢失便报案。公安人员 发现甲有重大嫌疑，便询问甲，但甲拒不承认，也不交出提包。关于本案，下列 说法正确的是：",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-138",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "关于刑事责任认定，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-140",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-142",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "C",
+      "answer_raw": "CD",
+      "stem_preview": "关于故意与违法性的认识，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-144",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "关于法律认识错误和事实错误，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-145",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-147",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BC",
+      "stem_preview": "关于犯罪未遂的认定，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-149",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "①犯意表露被发现时为着手 ②开始实施刑法分则规定的构成要件时为着手 ③开始实施具有现实危险的行为时为着手 ④开始实施具有紧迫危险的行为时为着手 a 为盗窃仓库，开始撬仓库窗户 b为保险诈骗而故意制造交通事故 c 甲指使儿童：“你去把邻居家的电脑偷来” d甲为杀害外地仇人，给其邮寄毒药，将毒药交付给邮局 下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-150",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BC",
+      "stem_preview": "甲欲枪杀仇人乙，但早有防备的乙当天穿着防弹背心，甲 的子弹刚好打在防弹背心上，乙毫发无损。甲见状一边逃离现场，一边气呼呼地 大声说：“我就不信你天天穿防弹背心，看我改天不收拾你！” 关于本業，下列 哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-151",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "因乙移情别恋，甲将硫酸倒入水杯带到学校欲报复乙。课 间，甲、乙激烈争吵，甲欲以硫酸泼乙，但情急之下未能拧开杯盖，后甲因追乙 离开教室。丙到教室，误将甲的水杯当作自己的杯子，拧开杯盖时硫酸淋酒一身 造成重伤。关于本案，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-153",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BCD",
+      "stem_preview": "根据犯罪主观要件、犯罪形态的理论分析，下列关于犯罪 中止的表述哪些是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-156",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "下列哪些选项不构成犯罪中止？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-158",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "甲为杀乙，对乙下毒。甲见乙中毒后极度痛苦，顿生怜意， 开车带乙前往医院。但因车速过快，车右側撞上电线杆，坐在副驾驶位的乙被撞 死。关于本案的分析，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-160",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "①基于同情、后悔而放弃犯罪，可以成立犯罪中止 ②客观上能继续犯罪，主观上放弃犯罪，即使从伦理角度看不能继续犯罪， 也能成立犯罪中止 ③犯罪人经过理性判断，认为不能继续犯罪而放弃犯罪，属于犯罪未逐；犯 罪人基于感性因素（同情、后悔、恐惧等非理性因素）而放弃犯罪，属于犯罪中止 ④若从社会一般人的角度看，当时不能继续犯罪，那么可以认为，犯罪人也 是在不能继续犯罪的",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-161",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "宋某杀害刘某，致刘某重伤昏迷，生命垂危。宋某心生怜 悯，想要抱起刘某送去医院救治，不料脚下一滑，和刘某一起摔倒在地，刘某原 本已经生命垂危，加上摔倒，很快死亡。下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-165",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "关于犯罪停止形态的论述，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-166",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AC",
+      "stem_preview": "关于故意犯罪形态的认定，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-168",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "下列哪些选项中的甲不属于犯罪未遂？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-169",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AC",
+      "stem_preview": "关于犯罪停止形态的论述，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-172",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABD",
+      "stem_preview": "关于故意犯罪形态，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-173",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BCD",
+      "stem_preview": "下列哪些选项中的双方行为人构成共同犯罪？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-174",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "下列哪些情形成立共同犯罪？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-181",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "关于过失犯罪，下列选项正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-182",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BC",
+      "stem_preview": "甲将头痛粉冒充海洛因欺骗乙，让乙出卖“海洛因”，然 后二人均分所得款项。乙出卖后获款4000元，但在未来得及分赃时，被公安机 关查获。关于本案，下列哪些说法是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-184",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "C",
+      "answer_raw": "CD",
+      "stem_preview": "乙是具有辨认能力但行为不受控制（没有控制能力）的精 神病人。甲教唆乙去把丙的眼睛弄瞎。乙遂攻击丙，但因不能控制自己的行为而 打死了丙。关于甲、乙二人的行为，下列选项说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-185",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "周某为抢劫财物在某昏暗场所将王某打昏。周某的朋友高 某正好经过此地，高某得知真相后应周某的要求提供照明，使周某顺利地将王某 钱包拿走。关于本案，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-186",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "C",
+      "answer_raw": "CD",
+      "stem_preview": "甲欲去乙的别墅盗窃，担心乙别墅结构复杂难以找到贵重 财物，就请熟悉乙家的丙为其标图。甲入室后未使用丙提供的图纸就找到乙价值 100万元的珠宝，即携珠宝逃离现场。关于本案，下列哪些说法是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-187",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABD",
+      "stem_preview": "关于共同犯罪的判断，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-189",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "《刑法》第29条第1款规定：“教唆他人犯罪的，应当按 照他在共同犯罪中所起的作用处罚。教唆不满十八周岁的人犯罪的，应当从重处 罚。”对于本规定的理解，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-192",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABD",
+      "stem_preview": "甲是间歌性精神病患者，某日与妻子乙来到自己的父母家 里。甲因琐事与父母发生争吵。争吵中甲的精神病发作，在这种状态下，甲持刀 砍杀父母。乙在旁边，既不阻拦，也不呼救他人。甲砍了几刀后，清醒过来，匆 忙与乙离开现场。二人回到家中，乙将二人身上的带血的衣服、鞋子全部洗掉了。 父母因被砍而死亡。下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-193",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "甲男喝醉酒后，女友乙要求甲开车送其回家。甲男表示自 己醉酒了，不能开车，但是拗不过乙的坚持，只好同意。甲男驾车有十公里时， 由于醉酒原因，不慎撞伤行人丙，致其重伤。下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-194",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BC",
+      "stem_preview": "关于共同犯罪和认识错误，下列选项正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-196",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "甲、乙二人均与丁存在矛盾，后二人得知两计划对丁实施 伤害行为（意图致丁重伤）。甲遂向丙提供一把刀，乙则向丙提供一根木棒。其 后，丙对丁动手时，因担心使用刀可能致人死亡，最终使用木棒将丁打成重伤。 关于甲、乙行为的性质，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-197",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "甲知道乙计划前往丙家抢劫，为帮助乙取得财物，便暗中 先赶到丙家，将丙打昏后离去（丙受轻伤）。乙来到丙家时，发现丙已昏迷，以 为是丙疾病发作晕倒遂从丙家取走价值5万元的财物。关于本案的分析，下列哪 些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-198",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "乙请甲为自己的盗窃望风，仅要求甲看到主人丙回家就打 电话告知自己。乙在户内盗窃时，甲看到丙回家，使用暴力阻拦，将丙打成重伤。 乙顺利窃得4000元后出门，甲告知乙自己殴打了丙，乙没表示异议。甲、乙一 同离去。关于本案，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-199",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "关于共同犯罪，下列哪些选项说法是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-201",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "丁某教唆17岁的肖某抢夺他人手机，肖某在抢夺得手后， 为抗拒抓捕将追赶来的被害人打成重伤。关于本案，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-202",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "关于不作为犯，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-204",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BCD",
+      "stem_preview": "关于共同犯罪，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-206",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BD",
+      "stem_preview": "甲、乙共谋入户抢劫，由甲入户抢劫，由己望风。甲入户 后，乙看外面人流较多，心生胆怯，打电话劝甲放弃。但甲执意继续，乙便声明 离去。甲对主人丙实施暴力时，见丙穿着破烂，很可怜，便放弃暴力，没有拿走 财物而离去。下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-207",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AC",
+      "stem_preview": "甲、乙共谋运输毒品，并且约定“如果被查，就开枪拒捕”。 后二人在运输毒品时遇到警察抓捕，乙见此情景，当场举手投降，甲看到乙投降， 仍决定开枪，打死一名警察。下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-208",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "甲、乙相约去丙家抢劫丙的财物，甲去踩点的时候发现丙 是自己的初中同学，所以觉得很惭愧，就把甲和乙的打算告诉了丙。丙为了抓住 乙，就告诉甲继续假装执行抢劫，等到了当天甲进入丙的家中，乙在外望风，甲 将乙具体的位置告诉了丙，丙报警，把乙抓获。关于甲、乙的行为性质，下列哪 些说法是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-209",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BCD",
+      "stem_preview": "关于共同犯罪与犯罪形态，下列说法正确的有？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-210",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "C",
+      "answer_raw": "CD",
+      "stem_preview": "四位学生在课堂上讨论共同犯罪时先后发表了以下观点， 其中正确的选项是",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-211",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "甲、乙共谋教训其共同的仇人丙。由于乙对丙有夺妻之 恨，暗藏杀丙之心，但未将此意告诉甲。某日，甲、乙二人共同去丙处。为确保 万无一失，甲、乙以入室盗窃为由邀请不知情的丁在楼下望风。进入丙的房间后， 甲、乙同时对丙奉打脚踢，致丙受伤死亡。甲、乙二人旋即逃离现场。在逃离现 场前甲在乙不知情的情况下从丙家的箱子里拿走人民币5万元。出门后，甲背着 乙向丁谎称从丙家窃取",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-213",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "关于共犯理论，下列哪些说法是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-216",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "下列哪些情形属于吸收犯？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-218",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BC",
+      "stem_preview": "下列哪些情形不能数罪并罚？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-219",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "关于想象竞合犯的认定，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-221",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BD",
+      "stem_preview": "关于罪数，下列哪些选项是正确的（不考虑数额或情节）？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-224",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "C",
+      "answer_raw": "CD",
+      "stem_preview": "关于法条竞合，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-226",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "关于禁止令，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-229",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "关于没收财产，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-234",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "关于刑法中的“减轻处罚”，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-238",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "关于数罪并罚，下列哪些选项是《刑法》规定的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-240",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "关于数罪并罚，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-242",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "关于自首中的“如实供述”，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-247",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ACD",
+      "stem_preview": "下列哪些选项不构成立功？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-249",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "关于立功的认定，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-251",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "甲交通肇事后，其父协助公安机关抓获甲。下列说法正确 的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-252",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AD",
+      "stem_preview": "甲涉嫌诈骗罪被抓获归案，在刑事拘留期间潜逃出去。在 潜逃期间，无业游民乙向甲称自己有他人犯罪的线索，3万元卖给甲。甲花3万 元买到该犯罪线索。甲打电话将该犯罪线索提供给公安机关。该犯罪线索是某国 有公司总经理的受贿罪事实，经查证属实。然后甲自动投案，如实供述了诈骗罪 和潜逃的事实。下列说法正确的有？ 159 路遥刑法真金题 @路逼的刑法空间",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-253",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "关于缓刑的适用，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-254",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABD",
+      "stem_preview": "关于缓刑的适用，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-256",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABC",
+      "stem_preview": "关于假释，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-260",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABD",
+      "stem_preview": "1980年初，张某强奸某妇女并将其杀害。1996年末，张某 因酒后驾车致人重伤。两案在 2007年初被发现。关于张某的犯罪行为，下列哪 些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-261",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "ABCD",
+      "stem_preview": "1999年11月，甲（17周岁）因邻里纠纷，将邻居杀害后逃 往外地。2004年7月，甲诈骗他人 5000元现金。2014年8月，甲因扒窃 3000 元现金，被公安机关抓获。在讯问阶段，甲主动供述了杀人、诈骗罪行。关于本 案的分析，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-262",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AC",
+      "stem_preview": "关于追诉时效，下列哪些选项是正确的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-266",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "BCD",
+      "stem_preview": "关于追诉时效，下列哪些选项是错误的？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-267",
+      "source_id": "luyao-criminal-general",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "AB",
+      "stem_preview": "关于追诉时效，下列说法正确的是？",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-031",
+      "source_id": "xuguanghua-criminal-heavy",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "A,B.C",
+      "stem_preview": "关于刑事责任认定，下列选项正确的是？（）",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-050",
+      "source_id": "xuguanghua-criminal-heavy",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "A,C,D",
+      "stem_preview": "严重精神病患者乙正在对多名儿童实施重大暴力侵害，甲明知乙是严重精神病患者， 仍使用暴力制止了乙的侵害行为，虽然造成乙重伤，但保护了多名儿童的生命。观点： 72 第八章 排除犯罪性的事由（违法性阻却事由）」 ①正当防卫针对的“不法侵害” 不以侵害者具有责任能力为前提 ②正当防卫针对的“不法侵害”以侵害者具有责任能力为前提 ③正当防卫针对的“不法侵害”不以防卫人",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-101",
+      "source_id": "xuguanghua-criminal-heavy",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "B",
+      "answer_raw": "B，C",
+      "stem_preview": "关于财产犯罪的认定，下列选项中正确的是（不考虑情节或数额）？（）（多 选）",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-115",
+      "source_id": "xuguanghua-criminal-heavy",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "A,B",
+      "stem_preview": "某快递公司快递员甲在分拣包裹的过程中，把不属于自己负责的传送带上的包裹， 放入自己的快递车内，然后离开公司送货途中，拆开包裹，据为己有。下列说法正确的是？（）（多 选）",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    },
+    {
+      "question_id": "xuguanghua-criminal-heavy-172",
+      "source_id": "xuguanghua-criminal-heavy",
+      "subject": "刑法",
+      "question_type": "single_choice",
+      "answer": "A",
+      "answer_raw": "A,B,C",
+      "stem_preview": "甲送给国有收费站站长吴某3万元，与其约定：甲在高速公路另开出口帮货车司机 逃费，吴某想办法让人对此不予查处，所得由二人分成。后甲组织数十人，锯断高速公路一侧隔离栏、 填平隔离沟（恢复原状需3万元），形成一条出口。路过的很多货车司机知道经过收费站要收300元，而 给甲100元即可绕过收费站继续前行。甲以此方式共得款30万元，但骗吴某仅得20万元，并按此数额 分",
+      "flags": [
+        "single_type_but_multiple_raw_choices"
+      ],
+      "status": "needs_manual_answer_review"
+    }
+  ],
+  "notes": [
+    "队列仅提示字段冲突，不自动判断标准答案；需结合原始题册和题型说明人工确认。"
+  ]
+}

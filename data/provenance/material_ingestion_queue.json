@@ -1,0 +1,491 @@
+{
+  "schema_version": 1,
+  "status": "material_ingestion_queue",
+  "items": [
+    {
+      "path": "reference/daily/26法考每日一题汇总/26孟献贵民商法每日一题汇总/孟献贵-2026民商法每日一题（1-160）.pdf",
+      "extension": ".pdf",
+      "sha256": "717dfbaf6a82a8035431915c20b448f4ca7e9141eae8b20b2ab64d080018f15c",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/26柏浪涛刑法每日一题汇总（更新中）/(答题版)26柏浪涛刑法每日一题(01-38)-适合打印.pdf",
+      "extension": ".pdf",
+      "sha256": "b4924c23e24ba4dff947c1deec3748a65c210fbf6da0bce7f2b9610eb47d9c3a",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/26柏浪涛刑法每日一题汇总（更新中）/(解析版)26柏浪涛刑法每日一题(01-38)-适合打印.pdf",
+      "extension": ".pdf",
+      "sha256": "961ebdb8d067adfb43ba76459e7ec91270631c8291a3a7e778923856ab171534",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/26柏浪涛刑法每日一题汇总（更新中）/柏浪涛-刑法每日一题（1-24）.pdf",
+      "extension": ".pdf",
+      "sha256": "26a37e31c18bb2d667d796cb41aa111b8a19b3b126a56e122c99c7beabd56e21",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/26韩心怡民诉每日一问合集/(填空版)26韩心怡民诉每日一问-电脑答题.docx",
+      "extension": ".docx",
+      "sha256": "a8dfa536c9da212f14d3509062ea36d6aa0ed50c0e86616714d8e5e7ac5abdaf",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/26韩心怡民诉每日一问合集/(答案版)26韩心怡民诉每日一问-电脑订正.docx",
+      "extension": ".docx",
+      "sha256": "0a184398fa81dac670ea2df975079f29c9c4266fa276be05638d9e9d44c1e2d0",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/26韩心怡民诉每日一问合集/(答题版)26韩心怡民诉每日一问-适合打印.pdf",
+      "extension": ".pdf",
+      "sha256": "2639c6b2a4b30a99e2d2707da775fb7dc43d14bd0e7883778467c8f5c1757a92",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/26韩心怡民诉每日一问合集/(解析版)26韩心怡民诉每日一问-适合打印.pdf",
+      "extension": ".pdf",
+      "sha256": "1deb21ed85d9f11d0cf50ebbbe4e7df749f70b009312c8a02ea56a55cad31dd9",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/26韩心怡民诉每日一问合集/2026年法考民诉每日一问合集（韩心怡）.pdf",
+      "extension": ".pdf",
+      "sha256": "a416ebae72b115f9e9f813a73f163ecb7c51be6dbf912bb5bb046a5191aad4b9",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/【完结】郄鹏恩-公司法每日一题.pdf",
+      "extension": ".pdf",
+      "sha256": "cb02be9050b84056ef6fc23edf32a72742904044dac58c0c269b8a41754696ea",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/孟献贵-26民商法模拟考试卷+答案解析.pdf",
+      "extension": ".pdf",
+      "sha256": "d00af2a8a2de4eb8c1798edd4ea03d24020d782e032dae9ec69fc2b7e0a66941",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/崔崔61题.pdf",
+      "extension": ".pdf",
+      "sha256": "5a6c6378cf1b5f1c1dbb276e33cce547dbd7aceb2d6e776aed35edf61e84f8f9",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/崔红玉主客一体73题.pdf",
+      "extension": ".pdf",
+      "sha256": "d9bc47656d8bb2ff32d209cfdbd69b68d7bf9936cab1e193699f31231bdaa706",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/崔红玉每日一题54题.pdf",
+      "extension": ".pdf",
+      "sha256": "1d77a373c7bbf120c6d7198194da2cb678549a90fb87b3db364e89d12a18d667",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/李劲松38题.pdf",
+      "extension": ".pdf",
+      "sha256": "73ca356718d7fdd107196e9f4a1d1bbf2e9840b2b1450682de5399b950b25d43",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/李劲松每日一题21题.pdf",
+      "extension": ".pdf",
+      "sha256": "7ee4027afbd06a851a94ff4cf95918a9c3371fd7b2316dbe0c3784741989b92f",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/韩心怡43题.pdf",
+      "extension": ".pdf",
+      "sha256": "8cfb2d4902c8816d2eb24c4f9e7b6bfb685229fdc83dbe003c4913fb4af38d4c",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/daily/26法考每日一题汇总/韩心怡主客一体60题.pdf",
+      "extension": ".pdf",
+      "sha256": "5c1813d1f54ef2cfe22510c140f68ce07ff1d0a7bb723f8dd37d1edab00a7e36",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/notes/三色笔记/2026年三国法笔记完整.pdf",
+      "extension": ".pdf",
+      "sha256": "7affc6f8a492451d75cf2947d972d28ab9e5596e6d328abfb07111eb16f8465c",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/notes/三色笔记/2026年刑事诉讼法笔记完整.pdf",
+      "extension": ".pdf",
+      "sha256": "a9e574279bbe362ecd5389bb359f45181702e16a7b22fdee5f6fe3ecd0a75453",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/notes/三色笔记/2026年刑法笔记完整.pdf",
+      "extension": ".pdf",
+      "sha256": "959aa12d970200624a169e8551d6908f069a8cf8efb57c7f41ab0e071ebd61bd",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/notes/三色笔记/2026年商经知笔记完整.pdf",
+      "extension": ".pdf",
+      "sha256": "3a7c745e8976b0b7951defb32fe4e17e68a2f1a9e320c60c14f0d85c5199f23c",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/notes/三色笔记/2026年民事诉讼法笔记完整.pdf",
+      "extension": ".pdf",
+      "sha256": "9aa53bacd33735b19c1ab1fb897b001f9e8f482ffee140dac9c6c0a942e04884",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/notes/三色笔记/2026年民法笔记完整.pdf",
+      "extension": ".pdf",
+      "sha256": "4f62665133def668aa250d03396b81722a4465c6658b69faf3837f2d4ae55f56",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/notes/三色笔记/2026年理论法笔记完整.pdf",
+      "extension": ".pdf",
+      "sha256": "bb423a4577df28730fa8a061b19c34002044e732848dd83549f8d39f1d548a4c",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "reference/notes/三色笔记/2026年行政法笔记完整.pdf",
+      "extension": ".pdf",
+      "sha256": "e1af4c3bc4945e537db9d7c5fffcfa0aeb62fe48ebbe43fa32247f03467e1cf0",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "review/duplicates/26法考刑法客观真题(1).pdf",
+      "extension": ".pdf",
+      "sha256": "6df36bf26563caa8c716cb40d87109e90dd9a16d0620802d4160a90a59a9b3c5",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "review/duplicates/【得恩法考】2025年法考客观题考试回忆版真题(1).pdf",
+      "extension": ".pdf",
+      "sha256": "d3768eacbe8383bdc92bd9fdb0ca39d54fb446dac406e6259c97ad31902e5dd6",
+      "status": "duplicate_of_scanned"
+    },
+    {
+      "path": "review/scanned/2026年三国法笔记完整/original.pdf",
+      "extension": ".pdf",
+      "sha256": "7affc6f8a492451d75cf2947d972d28ab9e5596e6d328abfb07111eb16f8465c",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/2026年刑事诉讼法笔记完整/original.pdf",
+      "extension": ".pdf",
+      "sha256": "a9e574279bbe362ecd5389bb359f45181702e16a7b22fdee5f6fe3ecd0a75453",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/2026年刑法笔记完整/original.pdf",
+      "extension": ".pdf",
+      "sha256": "959aa12d970200624a169e8551d6908f069a8cf8efb57c7f41ab0e071ebd61bd",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/2026年商经知笔记完整/original.pdf",
+      "extension": ".pdf",
+      "sha256": "3a7c745e8976b0b7951defb32fe4e17e68a2f1a9e320c60c14f0d85c5199f23c",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/2026年民事诉讼法笔记完整/original.pdf",
+      "extension": ".pdf",
+      "sha256": "9aa53bacd33735b19c1ab1fb897b001f9e8f482ffee140dac9c6c0a942e04884",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/2026年民法笔记完整/original.pdf",
+      "extension": ".pdf",
+      "sha256": "4f62665133def668aa250d03396b81722a4465c6658b69faf3837f2d4ae55f56",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/2026年法考民诉每日一问合集/original.pdf",
+      "extension": ".pdf",
+      "sha256": "a416ebae72b115f9e9f813a73f163ecb7c51be6dbf912bb5bb046a5191aad4b9",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/2026年理论法笔记完整/original.pdf",
+      "extension": ".pdf",
+      "sha256": "bb423a4577df28730fa8a061b19c34002044e732848dd83549f8d39f1d548a4c",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/2026年行政法笔记完整/original.pdf",
+      "extension": ".pdf",
+      "sha256": "e1af4c3bc4945e537db9d7c5fffcfa0aeb62fe48ebbe43fa32247f03467e1cf0",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/26法考刑法客观真题/26法考刑法客观真题.pdf",
+      "extension": ".pdf",
+      "sha256": "6df36bf26563caa8c716cb40d87109e90dd9a16d0620802d4160a90a59a9b3c5",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/26法考刑法客观真题/original.pdf",
+      "extension": ".pdf",
+      "sha256": "6df36bf26563caa8c716cb40d87109e90dd9a16d0620802d4160a90a59a9b3c5",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/6月五大实体法模考-答案/6月五大实体法模考-答案.pdf",
+      "extension": ".pdf",
+      "sha256": "cb4bd78912a7d5f166dc48a88d09750ca5e8633ef1ef8e84ccd0c7c19a791089",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/6月五大实体法模考-答案/original.pdf",
+      "extension": ".pdf",
+      "sha256": "cb4bd78912a7d5f166dc48a88d09750ca5e8633ef1ef8e84ccd0c7c19a791089",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/6月五大实体法模考-题目/6月五大实体法模考-题目.pdf",
+      "extension": ".pdf",
+      "sha256": "51e7368512aa9c14d148b16dee22c6a3336569438f39663296a10585c99e0056",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/6月五大实体法模考-题目/original.pdf",
+      "extension": ".pdf",
+      "sha256": "51e7368512aa9c14d148b16dee22c6a3336569438f39663296a10585c99e0056",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/【得恩法考】2025年法考客观题考试回忆版真题/original.pdf",
+      "extension": ".pdf",
+      "sha256": "d3768eacbe8383bdc92bd9fdb0ca39d54fb446dac406e6259c97ad31902e5dd6",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/【得恩法考】2025年法考客观题考试回忆版真题/【得恩法考】2025年法考客观题考试回忆版真题.pdf",
+      "extension": ".pdf",
+      "sha256": "d3768eacbe8383bdc92bd9fdb0ca39d54fb446dac406e6259c97ad31902e5dd6",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/刑法历年重难真题200题（2026版，徐光华）/original.pdf",
+      "extension": ".pdf",
+      "sha256": "b24a159e32e69a85c3f69a5e45f68903162b78bb649c75d533b9e7ff5c3444c5",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/刑法历年重难真题200题（2026版，徐光华）/刑法历年重难真题200题（2026版，徐光华）.pdf",
+      "extension": ".pdf",
+      "sha256": "b24a159e32e69a85c3f69a5e45f68903162b78bb649c75d533b9e7ff5c3444c5",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/孟献贵-2026民商法每日一题-1至160/original.pdf",
+      "extension": ".pdf",
+      "sha256": "717dfbaf6a82a8035431915c20b448f4ca7e9141eae8b20b2ab64d080018f15c",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/孟献贵-2026民法常识选择题（1-38题）/original.pdf",
+      "extension": ".pdf",
+      "sha256": "d4b9057e5df2f1c1d52643a40359922cfaaa7039e24854abd76f86bc480cbadc",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/孟献贵-2026民法常识选择题（1-38题）/孟献贵-2026民法常识选择题（1-38题）.pdf",
+      "extension": ".pdf",
+      "sha256": "d4b9057e5df2f1c1d52643a40359922cfaaa7039e24854abd76f86bc480cbadc",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/孟献贵-26民商法模拟考试卷-答案解析/original.pdf",
+      "extension": ".pdf",
+      "sha256": "d00af2a8a2de4eb8c1798edd4ea03d24020d782e032dae9ec69fc2b7e0a66941",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/崔崔61题/original.pdf",
+      "extension": ".pdf",
+      "sha256": "5a6c6378cf1b5f1c1dbb276e33cce547dbd7aceb2d6e776aed35edf61e84f8f9",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/崔红玉主客一体73题/original.pdf",
+      "extension": ".pdf",
+      "sha256": "d9bc47656d8bb2ff32d209cfdbd69b68d7bf9936cab1e193699f31231bdaa706",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/崔红玉每日一题54题/original.pdf",
+      "extension": ".pdf",
+      "sha256": "1d77a373c7bbf120c6d7198194da2cb678549a90fb87b3db364e89d12a18d667",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/李佳每日一题-题目版/original.pdf",
+      "extension": ".pdf",
+      "sha256": "8aa49c663036d06fcd1db945d83f08aff73f42c5745d8895ffb97e2541100a66",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/李佳每日一题-题目版/李佳每日一题-题目版.pdf",
+      "extension": ".pdf",
+      "sha256": "8aa49c663036d06fcd1db945d83f08aff73f42c5745d8895ffb97e2541100a66",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/李佳每日一题-题目解析版/original.pdf",
+      "extension": ".pdf",
+      "sha256": "4c448db11557c91fccf2d85adb2114c00ba64150ccb665a44023ac5e4a79e2e5",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/李佳每日一题-题目解析版/李佳每日一题-题目解析版.pdf",
+      "extension": ".pdf",
+      "sha256": "4c448db11557c91fccf2d85adb2114c00ba64150ccb665a44023ac5e4a79e2e5",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/李劲松38题/original.pdf",
+      "extension": ".pdf",
+      "sha256": "73ca356718d7fdd107196e9f4a1d1bbf2e9840b2b1450682de5399b950b25d43",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/李劲松每日一题21题/original.pdf",
+      "extension": ".pdf",
+      "sha256": "7ee4027afbd06a851a94ff4cf95918a9c3371fd7b2316dbe0c3784741989b92f",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/柏浪涛-刑法每日一题-1至14/original.pdf",
+      "extension": ".pdf",
+      "sha256": "4d7cca66dfd11a16e5bf53bd4de69aecd306c7fa87317bc80713f357c9f51a35",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/柏浪涛-刑法每日一题-1至14/柏浪涛-刑法每日一题-1至14.pdf",
+      "extension": ".pdf",
+      "sha256": "4d7cca66dfd11a16e5bf53bd4de69aecd306c7fa87317bc80713f357c9f51a35",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/柏浪涛-刑法每日一题-1至24汇编/original.pdf",
+      "extension": ".pdf",
+      "sha256": "26a37e31c18bb2d667d796cb41aa111b8a19b3b126a56e122c99c7beabd56e21",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/柏浪涛-刑法每日一题-答题版-1至38/original.pdf",
+      "extension": ".pdf",
+      "sha256": "b4924c23e24ba4dff947c1deec3748a65c210fbf6da0bce7f2b9610eb47d9c3a",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/柏浪涛-刑法每日一题-解析版-1至38/original.pdf",
+      "extension": ".pdf",
+      "sha256": "961ebdb8d067adfb43ba76459e7ec91270631c8291a3a7e778923856ab171534",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/路遥刑法真金题（总则）/original.pdf",
+      "extension": ".pdf",
+      "sha256": "c998a1821ee8e308757b51301f0c5f8b46f6badf5b7b48d48ce66662f4525236",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/路遥刑法真金题（总则）/路遥刑法真金题（总则）.pdf",
+      "extension": ".pdf",
+      "sha256": "c998a1821ee8e308757b51301f0c5f8b46f6badf5b7b48d48ce66662f4525236",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/郄鹏恩-公司法每日一题-完结/original.pdf",
+      "extension": ".pdf",
+      "sha256": "cb02be9050b84056ef6fc23edf32a72742904044dac58c0c269b8a41754696ea",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/郄鹏恩-合伙企业法个独外商法每日一题/original.pdf",
+      "extension": ".pdf",
+      "sha256": "5592ca40e886f7e93efec04d9de6b1bda50f50c70a2eb1852aeb7da557330f36",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/郄鹏恩-合伙企业法个独外商法每日一题/郄鹏恩-合伙企业法个独外商法每日一题.pdf",
+      "extension": ".pdf",
+      "sha256": "5592ca40e886f7e93efec04d9de6b1bda50f50c70a2eb1852aeb7da557330f36",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/韩心怡-民诉每日一题-22题/original.pdf",
+      "extension": ".pdf",
+      "sha256": "1bb430b2d666e15246d0d61ef45031f2751aba1c4dd7ce8d8eb009b5f11b14c4",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/韩心怡-民诉每日一题-22题/韩心怡-民诉每日一题-22题.pdf",
+      "extension": ".pdf",
+      "sha256": "1bb430b2d666e15246d0d61ef45031f2751aba1c4dd7ce8d8eb009b5f11b14c4",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/韩心怡43题/original.pdf",
+      "extension": ".pdf",
+      "sha256": "8cfb2d4902c8816d2eb24c4f9e7b6bfb685229fdc83dbe003c4913fb4af38d4c",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/韩心怡主客一体60题/original.pdf",
+      "extension": ".pdf",
+      "sha256": "5c1813d1f54ef2cfe22510c140f68ce07ff1d0a7bb723f8dd37d1edab00a7e36",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/韩心怡民诉每日一问-填空版DOCX/original.docx",
+      "extension": ".docx",
+      "sha256": "a8dfa536c9da212f14d3509062ea36d6aa0ed50c0e86616714d8e5e7ac5abdaf",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/韩心怡民诉每日一问-填空版DOCX/rendered.pdf",
+      "extension": ".pdf",
+      "sha256": "a45772bb9967026c9b631b5a0740342e8d20fd7c4ea6503573ef8d83491b4bc1",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/韩心怡民诉每日一问-答案版DOCX/original.docx",
+      "extension": ".docx",
+      "sha256": "0a184398fa81dac670ea2df975079f29c9c4266fa276be05638d9e9d44c1e2d0",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/韩心怡民诉每日一问-答案版DOCX/rendered.pdf",
+      "extension": ".pdf",
+      "sha256": "62736360c426472a81fe231df76e82a298c51ed85c5a05457ddbc67418645365",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/韩心怡民诉每日一问-答题版PDF/original.pdf",
+      "extension": ".pdf",
+      "sha256": "2639c6b2a4b30a99e2d2707da775fb7dc43d14bd0e7883778467c8f5c1757a92",
+      "status": "scanned_archive"
+    },
+    {
+      "path": "review/scanned/韩心怡民诉每日一问-解析版/original.pdf",
+      "extension": ".pdf",
+      "sha256": "1deb21ed85d9f11d0cf50ebbbe4e7df749f70b009312c8a02ea56a55cad31dd9",
+      "status": "scanned_archive"
+    }
+  ],
+  "summary": {
+    "pending_scan": 0,
+    "scanned_archive": 52,
+    "duplicate_of_scanned": 28
+  }
+}

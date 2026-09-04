@@ -1,0 +1,1033 @@
+{
+  "schema_version": 1,
+  "status": "duplicate_candidates",
+  "groups": [
+    {
+      "duplicate_group_id": "dup-0001",
+      "normalized_stem": "下列情形属于结果加重犯的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-001",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "下列情形，属于结果加重犯的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-001",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "下列情形，属于结果加重犯的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-001",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "下列情形，属于结果加重犯的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-001",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "下列情形，属于结果加重犯的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0002",
+      "normalized_stem": "下列说法错误的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-002",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "下列说法错误的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-002",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "下列说法错误的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-002",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "下列说法错误的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-002",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "下列说法错误的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0003",
+      "normalized_stem": "关于因果关系下列说法正确的有单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-003",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "关于因果关系，下列说法正确的有？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-003",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "关于因果关系，下列说法正确的有？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-003",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "关于因果关系，下列说法正确的有？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-003",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "关于因果关系，下列说法正确的有？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0004",
+      "normalized_stem": "甲女一直怀疑乙女是丈夫的小三某日甲在大街上撞见乙便拿起小手包打乙乙赶紧躲避在躲避过程中乙闯红灯逃向马路对面被一辆越野车撞倒乙死亡下列说法正确的有单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-004",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "甲（女）一直怀疑乙（女）是丈夫的小三。某日，甲在大街上撞见乙，便拿起小手包打乙，乙赶紧躲避。 在躲避过程中，乙闯红灯逃向马路对面，被一辆越野车撞倒，乙死亡。下列说法正确的有？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-004",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "甲（女）一直怀疑乙（女）是丈夫的小三。某日，甲在大街上撞见乙，便拿起小手包打乙，乙赶紧躲避。 在躲避过程中，乙闯红灯逃向马路对面，被一辆越野车撞倒，乙死亡。下列说法正确的有？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-004",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "甲（女）一直怀疑乙（女）是丈夫的小三。某日，甲在大街上撞见乙，便拿起小手 包打乙，乙赶紧躲避。在躲避过程中，乙闯红灯逃向马路对面，被一辆越野车撞倒， 乙死亡。下列说法正确的有？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0005",
+      "normalized_stem": "下列说法错误的是单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-005",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "下列说法错误的是？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-005",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "下列说法错误的是？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-005",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "下列说法错误的是？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-005",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "下列说法错误的是？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0006",
+      "normalized_stem": "以下关于刑法中因果关系的说法错误的是多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-006",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "以下关于刑法中因果关系的说法，错误的是？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-006",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "以下关于刑法中因果关系的说法，错误的是？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-006",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "以下关于刑法中因果关系的说法，错误的是？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-006",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "以下关于刑法中因果关系的说法，错误的是？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0007",
+      "normalized_stem": "下列说法正确的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-007",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-013",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-007",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-013",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-015",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-007",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-013",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-015",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-007",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-013",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-015",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "下列说法正确的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0008",
+      "normalized_stem": "女青年王某被拐卖到李某家欲逃走但被李某监控毒打某日王某为了逃脱别无他法便给李某投毒李某死亡王某逃脱王某的行为构成单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-008",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "女青年王某被拐卖到李某家，欲逃走，但被李某监控、毒打。某日，王某为了逃脱，别无他法，便给李 某投毒，李某死亡。王某逃脱。王某的行为构成？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-008",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "女青年王某被拐卖到李某家，欲逃走，但被李某监控、毒打。某日，王某为了逃脱，别无他法，便给李 某投毒，李某死亡。王某逃脱。王某的行为构成？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-008",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "女青年王某被拐卖到李某家，欲逃走，但被李某监控、毒打。某日，王某为了逃脱， 别无他法，便给李某投毒，李某死亡。王某逃脱。王某的行为构成？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0009",
+      "normalized_stem": "甲怀疑乙在追求自己的女友便约上丙丁来找乙在乙的宿舍门前丙见到乙就上前殴打被甲拦住甲声称在没搞清事实之前先别动手乙从地上爬起来后进入宿舍将一把水果刀揣进口袋然后出来在门口甲乙二人又发生争执甲问道真要干架吗乙答道怕你啊二人便厮打起来此时两丁便一起上来殴打乙乙见对方人多势众便逃跑甲两丁便一路将乙追打至持续10余米的地方乙为了摆脱被群殴拔出水果刀奋力刺向距离自己最近的甲甲当场倒地被送往医院不治身亡下列说法正确的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-009",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "甲怀疑乙在追求自己的女友，便约上丙丁来找乙。在乙的宿舍门前，丙见到乙就上前殴打，被甲拦住。 甲声称：“在没搞清事实之前，先别动手。”乙从地上爬起来后进入宿舍，将一把水果刀揣进口袋，然后 出来。在门口，甲乙二人又发生争执。甲问道：“真要干架吗？”乙答道：“怕你啊！”二人便厮打起来。 此时，两丁便一起上来殴打乙。乙见对方人多势众，便逃跑。甲两丁便一路将乙追打至持续10余米的地方， 乙为了摆脱被群殴，拔出水果刀奋力刺向距离自己最近的甲。甲当场倒地，被送往医院不治身亡。下列说 法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-009",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "甲怀疑乙在追求自己的女友，便约上丙丁来找乙。在乙的宿舍门前，丙见到乙就上前殴打，被甲拦住。 甲声称：“在没搞清事实之前，先别动手。”乙从地上爬起来后进入宿舍，将一把水果刀揣进口袋，然后 出来。在门口，甲乙二人又发生争执。甲问道：“真要干架吗？”乙答道：“怕你啊！”二人便厮打起来。 此时，两丁便一起上来殴打乙。乙见对方人多势众，便逃跑。甲两丁便一路将乙追打至持续10余米的地方， 乙为了摆脱被群殴，拔出水果刀奋力刺向距离自己最近的甲。甲当场倒地，被送往医院不治身亡。下列说 法正确的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0010",
+      "normalized_stem": "医生甲悄悄溜进病人乙的病房手里藏着毒针准备给乙打欲杀害乙甲看到乙背对门口侧身躺在床上睡着了轻手轻脚来到床边朝着乙裸露出来的一只手臂正准备注射突然乙翻身用刀刺向甲致甲重伤倒地原来乙对甲的前期治疗很不满意认为自己的后遗症就是甲的疏忽造成的一直伺机报复知道每到此时甲会进来给自己打针便实施突然袭击但乙不知道甲这次要打的是毒针下列说法正确的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-010",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "医生甲悄悄溜进病人乙的病房，手里藏着毒针，准备给乙打，欲杀害乙。甲看到乙背对门口侧身躺在床 上睡着了，轻手轻脚来到床边，朝着乙裸露出来的一只手臂正准备注射，突然，乙翻身用刀刺向甲，致甲 重伤倒地。原来，乙对甲的前期治疗很不满意，认为自己的后遗症就是甲的疏忽造成的，一直伺机报复， 知道每到此时甲会进来给自己打针，便实施突然袭击。但乙不知道甲这次要打的是毒针。下列说法正确的 有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-010",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "医生甲悄悄溜进病人乙的病房，手里藏着毒针，准备给乙打，欲杀害乙。甲看到乙 背对门口侧身躺在床上睡着了，轻手轻脚来到床边，朝着乙裸露出来的一只手臂正 准备注射，突然，乙翻身用刀刺向甲，致甲重伤倒地。原来，乙对甲的前期治疗很 不满意，认为自己的后遗症就是甲的疏忽造成的，一直伺机报复，知道每到此时甲 会进来给自己打针，便实施突然袭击。但乙不知道甲这次要打的是毒针。下列说法 正确的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0011",
+      "normalized_stem": "下列说法正确的是多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-011",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "下列说法正确的是？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-011",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "下列说法正确的是？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-011",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "下列说法正确的是？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-011",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "下列说法正确的是？（多选）"
+        },
+        {
+          "question_id": "xuguanghua-criminal-heavy-056",
+          "source_id": "xuguanghua-criminal-heavy",
+          "stem": "下列说法正确的是？（）（多选）"
+        },
+        {
+          "question_id": "xuguanghua-criminal-heavy-138",
+          "source_id": "xuguanghua-criminal-heavy",
+          "stem": "下列说法正确的是？（）（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0012",
+      "normalized_stem": "甲与乙因琐事产生矛盾乙想教训甲因此约自己的朋友丙丁二人至甲住处三人一同对甲进行殴打将甲打伤鲜血直流乙丙丁三人离去后丁感觉对甲的教训太轻不能使乙解气于是唆使乙两二人回住处拿了西瓜刀钢筋返回乙用钢筋抽打甲时甲便用随身携带的匕首刺中乙及持西瓜刀朝其冲过来的丙致乙轻伤丙失血过多死亡戊上前劝架被甲当作乙的同伙甲遂挥刀刺向戊致戊重伤关于甲的行为下列哪些选项是错误的多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-012",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "甲与乙因琐事产生矛盾，乙想教训甲，因此约自己的朋友丙、丁二人至甲住处，三人一同对甲进行殴打， 将甲打伤，鲜血直流。乙、丙、丁三人离去后，丁感觉对甲的教训太轻，不能使乙解气，于是唆使乙两二 人回住处拿了西瓜刀、钢筋返回，乙用钢筋抽打甲时，甲便用随身携带的匕首刺中乙及持西瓜刀朝其冲过 来的丙，致乙轻伤，丙失血过多死亡。戊上前劝架，被甲当作乙的同伙，甲遂挥刀刺向戊，致戊重伤。关 于甲的行为，下列哪些选项是错误的？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-012",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "甲与乙因琐事产生矛盾，乙想教训甲，因此约自己的朋友丙、丁二人至甲住处，三人一同对甲进行殴打， 将甲打伤，鲜血直流。乙、丙、丁三人离去后，丁感觉对甲的教训太轻，不能使乙解气，于是唆使乙两二 人回住处拿了西瓜刀、钢筋返回，乙用钢筋抽打甲时，甲便用随身携带的匕首刺中乙及持西瓜刀朝其冲过 来的丙，致乙轻伤，丙失血过多死亡。戊上前劝架，被甲当作乙的同伙，甲遂挥刀刺向戊，致戊重伤。关 于甲的行为，下列哪些选项是错误的？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0013",
+      "normalized_stem": "某航道由于地形复杂多暗礁因此设置了许多航标船用以标示特定水域的水下深度和暗礁概貌以及船只航行的侧面界限从而保障过往船只的通行安全一日常年在该航道打渔的甲驾驶机动渔船载着其妻和帮工至某航标船附近时见同村几个渔民不小心使网上浮标挂住了固定该航标船的钢缆绳即驾船前往帮助摘取浮标不料靠近航标船时甲的渔船螺旋桨被该航标船的钢缆绳缠住使渔船失去动力该河段水流湍急渔船存在翻沉的危险情况甲为使渔船摆脱困境持刀砍钢缆绳未果于是解开航标船的钢缆绳然后驶离现场致使脱离钢缆绳的航标船顺流而下漂流两公里工作人员接到群众报案后才将航标船复位造成直接经济损失干余元且此时航标船已经流失两小时下列选项正确的有单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-14-014",
+          "source_id": "bailangtao-criminal-daily-1-14",
+          "stem": "某航道由于地形复杂，多暗礁，因此设置了许多航标船，用以标示特定水域的水下深度和暗礁概貌以及 船只航行的侧面界限，从而保障过往船只的通行安全。一日，常年在该航道打渔的甲驾驶机动渔船载着其 妻和帮工至某航标船附近时，见同村几个渔民不小心使网上浮标挂住了固定该航标船的钢缆绳，即驾船前 往帮助摘取浮标。不料，靠近航标船时，甲的渔船螺旋桨被该航标船的钢缆绳缠住，使渔船失去动力，该 河段水流湍急，渔船存在翻沉的危险情况。甲为使渔船摆脱困境，持刀砍钢缆绳未果，于是解开航标船的 钢缆绳，然后驶离现场，致使脱离钢缆绳的航标船顺流而下，漂流两公里，工作人员接到群众报案后才将 航标船复位，造成直接经济损失干余元，且此时航标船已经流失两小时。下列选项正确的有？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-014",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "某航道由于地形复杂，多暗礁，因此设置了许多航标船，用以标示特定水域的水下深度和暗礁概貌以及 船只航行的侧面界限，从而保障过往船只的通行安全。一日，常年在该航道打渔的甲驾驶机动渔船载着其 妻和帮工至某航标船附近时，见同村几个渔民不小心使网上浮标挂住了固定该航标船的钢缆绳，即驾船前 往帮助摘取浮标。不料，靠近航标船时，甲的渔船螺旋桨被该航标船的钢缆绳缠住，使渔船失去动力，该 河段水流湍急，渔船存在翻沉的危险情况。甲为使渔船摆脱困境，持刀砍钢缆绳未果，于是解开航标船的 钢缆绳，然后驶离现场，致使脱离钢缆绳的航标船顺流而下，漂流两公里，工作人员接到群众报案后才将 航标船复位，造成直接经济损失干余元，且此时航标船已经流失两小时。下列选项正确的有？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-014",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "某航道由于地形复杂，多暗礁，因此设置了许多航标船，用以标示特定水域的水下 深度和暗礁概貌以及船只航行的侧面界限，从而保障过往船只的通行安全。一日， 常年在该航道打渔的甲驾驶机动渔船载着其妻和帮工至某航标船附近时，见同村几 个渔民不小心使网上浮标挂住了固定该航标船的钢缆绳，即驾船前往帮助摘取浮 标。不料，靠近航标船时，甲的渔船螺旋桨被该航标船的钢缆绳缠住，使渔船失去 动力，该河段水流湍急，渔船存在翻沉的危险情况。甲为使渔船摆脱困境，持刀砍 钢缆绳未果，于是解开航标船的钢缆绳，然后驶离现场，致使脱离钢缆绳的航标船 顺流而下，漂流两公里，工作人员接到群众报案后才将航标船复位，造成直接经济 损失干余元，且此时航标船已经流失两小时。下列选项正确的有？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-014",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "某航道由于地形复杂，多暗礁，因此设置了许多航标船，用以标示特定水域的水下 深度和暗礁概貌以及船只航行的侧面界限，从而保障过往船只的通行安全。一日， 常年在该航道打渔的甲驾驶机动渔船载着其妻和帮工至某航标船附近时，见同村几 个渔民不小心使网上浮标挂住了固定该航标船的钢缆绳，即驾船前往帮助摘取浮 标。不料，靠近航标船时，甲的渔船螺旋桨被该航标船的钢缆绳缠住，使渔船失去 动力，该河段水流湍急，渔船存在翻沉的危险情况。甲为使渔船摆脱困境，持刀砍 钢缆绳未果，于是解开航标船的钢缆绳，然后驶离现场，致使脱离钢缆绳的航标船 顺流而下，漂流两公里，工作人员接到群众报案后才将航标船复位，造成直接经济 损失干余元，且此时航标船已经流失两小时。下列选项正确的有？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0015",
+      "normalized_stem": "下列说法正确的有单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-016",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "下列说法正确的有？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-016",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "下列说法正确的有？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-016",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "下列说法正确的有？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0018",
+      "normalized_stem": "甲乙合伙开娱乐场所经营卖淫业务甲的父亲丙和乙的父亲丁商量对策丙说如果乙被抓能找关系使乙免于处罚前提是乙不能供出甲丁同意并劝乙同意乙也同意此后乙因涉嫌组织卖淫罪被抓捕乙谎称是自己一个人开的娱乐场所使甲逃避了刑事追究关于本案下列说法正确的有2023金题-1-2-19多",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-019",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "甲、乙合伙开娱乐场所，经营卖淫业务。甲的父亲丙和乙的父亲丁商量对策。丙说，如果乙被抓，能找关系 使乙免于处罚，前提是乙不能供出甲。丁同意，并劝乙同意，乙也同意。此后，乙因涉嫌组织卖淫罪被抓捕，乙 谎称是自己一个人开的娱乐场所，使甲逃避了刑事追究。关于本案，下列说法正确的有？（2023 金题 -1-2-19，多）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-019",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "甲、乙合伙开娱乐场所，经营卖淫业务。甲的父亲丙和乙的父亲丁商量对策。丙说， 如果乙被抓，能找关系使乙免于处罚，前提是乙不能供出甲。丁同意，并劝乙同意， 乙也同意。此后，乙因涉嫌组织卖淫罪被抓捕，乙谎称是自己一个人开的娱乐场所， 使甲逃避了刑事追究。关于本案，下列说法正确的有？（2023金题-1-2-19，多）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0020",
+      "normalized_stem": "王某穿着林业机关工作人员的衣服假装自己是林业机关工作者带着非法占有目的采伐林木引起路人围观路人以为他是工作人员故未制止后王某将林木运走不考虑数量下列说法正确的是2023金题-1-2-21多",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-021",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "王某穿着林业机关工作人员的衣服，假装自己是林业机关工作者，带着非法占有目的采伐林木，引起路人 围观。路人以为他是工作人员，故未制止。后王某将林木运走。不考虑数量，下列说法正确的是？（2023 金题 -1-2-21，多）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-021",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "王某穿着林业机关工作人员的衣服，假装自己是林业机关工作者，带着非法占有目 的采伐林木，引起路人围观。路人以为他是工作人员，故未制止。后王某将林木运 走。不考虑数量，下列说法正确的是？（2023金题-1-2-21，多）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-021",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "王某穿着林业机关工作人员的衣服，假装自己是林业机关工作者，带着非法占有目 的采伐林木，引起路人围观。路人以为他是工作人员，故未制止。后王某将林木运 走。不考虑数量，下列说法正确的是？（2023金题-1-2-21，多）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0023",
+      "normalized_stem": "甲想找官员丁办一件违规的事情不认识丁知道乙非国家工作人员的儿子丙是市长秘书国家工作人员给乙300万元请乙全权处理想办法办成事乙答应办事乙给丙说了此事给丙150万元丙答应办事丙找到丁请求办事但没有告知自己收了钱也没给丁钱丁觉得以后还需要丙办事就答应了并办成了事关于本案下列说法正确的是多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-24-compiled-024",
+          "source_id": "bailangtao-criminal-daily-1-24-compiled",
+          "stem": "甲想找官员丁办一件违规的事情，不认识丁，知道乙（非国家工作人员）的儿子丙是市长秘书（国家工作人员）， 给乙300万元，请乙全权处理、想办法办成事。乙答应办事。乙给丙说了此事，给丙150万元，丙答应办事。 丙找到丁，请求办事，但没有告知自己收了钱，也没给丁钱。丁觉得以后还需要丙办事，就答应了，并办成了事。 关于本案，下列说法正确的是？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-024",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "甲想找官员丁办一件违规的事情，不认识丁，知道乙（非国家工作人员）的儿子丙 是市长秘书（国家工作人员），给乙300万元，请乙全权处理、想办法办成事。 乙答应办事。乙给丙说了此事，给丙 150万元，丙答应办事。丙找到丁，请求办 事，但没有告知自己收了钱，也没给丁钱。丁觉得以后还需要丙办事，就答应了， 并办成了事。关于本案，下列说法正确的是？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-024",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "甲想找官员丁办一件违规的事情，不认识丁，知道乙（非国家工作人员）的儿子丙 是市长秘书（国家工作人员），给乙 300万元，请乙全权处理、想办法办成事。 乙答应办事。乙给丙说了此事，给丙 150万元，丙答应办事。丙找到丁，请求办 事，但没有告知自己收了钱，也没给丁钱。丁觉得以后还需要丙办事，就答应了， 并办成了事。关于本案，下列说法正确的是？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0026",
+      "normalized_stem": "甲怀疑乙在追求自己的女友便约上丙丁来找乙在乙的宿舍门前丙见到乙就上前殴打被甲拦住甲声称在没搞清事实之前先别动手乙从地上爬起来后进入宿舍将一把水果刀揣进口袋然后出来在门口甲乙二人又发生争执甲问道真要干架吗乙答道怕你啊二人便厮打起来此时丙丁便一起上来殴打乙乙见对方人多势众便逃跑甲丙丁便一路追打至持续10余米的地方乙为了摆脱被群殴拔出水果刀奋力刺向距离自己最近的甲甲当场倒地被送往医院不治身亡下列说法正确的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-009",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "甲怀疑乙在追求自己的女友，便约上丙丁来找乙。在乙的宿舍门前，丙见到乙就上 前殴打，被甲拦住。甲声称：“在没搞清事实之前，先别动手。”乙从地上爬起来 后进入宿舍，将一把水果刀揣进口袋，然后出来。在门口，甲乙二人又发生争执。 甲问道：“真要干架吗？”乙答道：“怕你啊！”二人便厮打起来。此时，丙丁便 一起上来殴打乙。乙见对方人多势众，便逃跑。甲丙丁便一路追打至持续10余米 的地方，乙为了摆脱被群殴，拔出水果刀奋力刺向距离自己最近的甲。甲当场倒地， 被送往医院不治身亡。下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-009",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "甲怀疑乙在追求自己的女友，便约上丙丁来找乙。在乙的宿舍门前，丙见到乙就上 前殴打，被甲拦住。甲声称：“在没搞清事实之前，先别动手。”乙从地上爬起来 后进入宿舍，将一把水果刀揣进口袋，然后出来。在门口，甲乙二人又发生争执。 甲问道：“真要干架吗？”乙答道：“怕你啊！”二人便厮打起来。此时，丙丁便 一起上来殴打乙。乙见对方人多势众，便逃跑。甲丙丁便一路追打至持续10余米 的地方，乙为了摆脱被群殴，拔出水果刀奋力刺向距离自己最近的甲。甲当场倒地， 被送往医院不治身亡。下列说法正确的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0029",
+      "normalized_stem": "甲男与乙女是研究生师兄妹关系甲殷勤追求乙但乙未答应给甲颁发了好人卡日久甲不想再做好人某晚甲欲与乙发生性关系向乙语言暗示没有采取任何强制手段但乙非常警觉大喊有人强奸啦甲担心有口难辩便决定灭口捂住乙的嘴巴掐住乙的脖子乙晕倒后甲以为乙已经死亡便拔掉衣服实施了奸尸行为事毕甲离开现场由于乙衣衫裸露一直昏迷被冻死下列说法正确的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-017",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "甲（男）与乙（女）是研究生师兄妹关系。甲殷勤追求乙，但乙未答应，给甲颁发 了“好人卡”。日久，甲不想再做“好人”。某晚，甲欲与乙发生性关系，向乙语 言暗示，没有采取任何强制手段。但乙非常警觉，大喊“有人强奸啦”。甲担心有 口难辩，便决定灭口，捂住乙的嘴巴，掐住乙的脖子。乙晕倒后，甲以为乙已经死 亡，便拔掉衣服，实施了“奸尸”行为。事毕，甲离开现场。由于乙衣衫裸露，一 直昏迷，被冻死。下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-017",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "甲（男）与乙（女）是研究生师兄妹关系。甲殷勤追求乙，但乙未答应，给甲颁发 了“好人卡”。日久，甲不想再做“好人”。某晚，甲欲与乙发生性关系，向乙语 言暗示，没有采取任何强制手段。但乙非常警觉，大喊“有人强奸啦”。甲担心有 口难辩，便决定灭口，捂住乙的嘴巴，掐住乙的脖子。乙晕倒后，甲以为乙已经死 亡，便拔掉衣服，实施了“奸尸”行为。事毕，甲离开现场。由于乙衣衫裸露，一 直昏迷，被冻死。下列说法正确的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0030",
+      "normalized_stem": "关于帮助信息网络犯罪活动罪下列说法正确的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-018",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "关于帮助信息网络犯罪活动罪，下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-018",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "关于帮助信息网络犯罪活动罪，下列说法正确的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0031",
+      "normalized_stem": "关于窝臧罪下列说法正确的有2023金题-1-2-20多",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-020",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "关于窝臧罪，下列说法正确的有？（2023金题-1-2-20，多）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-020",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "关于窝臧罪，下列说法正确的有？（2023金题-1-2-20，多）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0032",
+      "normalized_stem": "甲是某国有公司的工作人员属于国家工作人员负责管理并销售本公司的矿石乙是某私营企业的老板经常购买矿石甲与乙共谋在乙购买矿石时甲故意少记矿石重量让乙多拿到矿石然后二人将多拿到的矿石平分二人如此照办关于本案下列说法正确的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-022",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "甲是某国有公司的工作人员，属于国家工作人员，负责管理并销售本公司的矿石。 乙是某私营企业的老板，经常购买矿石。甲与乙共谋，在乙购买矿石时，甲故意少 记矿石重量，让乙多拿到矿石，然后二人将多拿到的矿石平分。二人如此照办。关 于本案，下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-022",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "甲是某国有公司的工作人员，属于国家工作人员，负责管理并销售本公司的矿石。 乙是某私营企业的老板，经常购买矿石。甲与乙共谋，在乙购买矿石时，甲故意少 记矿石重量，让乙多拿到矿石，然后二人将多拿到的矿石平分。二人如此照办。关 于本案，下列说法正确的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0033",
+      "normalized_stem": "甲以自己的名义办理银行卡存入100万元将该卡和密码交给国家工作人员乙向乙行贿乙收下次日甲为帮在银行工作的朋友完成业绩又将该卡中的100万元资金全部转为定期存款等朋友的事情结束甲会转回活期存款在定期存款到期前须持有甲的身份证才能使用该笔资金案发时该笔存款尚未到期关于本案下列哪一选项的说法是正确的单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-023",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "甲以自己的名义办理银行卡，存入100万元，将该卡和密码交给国家工作人员乙， 向乙行贿，乙收下。次日，甲为帮在银行工作的朋友完成业绩，又将该卡中的100 万元资金全部转为定期存款，等朋友的事情结束，甲会转回活期存款。在定期存款 到期前，须持有甲的身份证才能使用该笔资金。案发时，该笔存款尚未到期。关于 本案，下列哪一选项的说法是正确的？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-023",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "甲以自己的名义办理银行卡，存入100万元，将该卡和密码交给国家工作人员乙， 向乙行贿，乙收下。次日，甲为帮在银行工作的朋友完成业绩，又将该卡中的100 万元资金全部转为定期存款，等朋友的事情结束，甲会转回活期存款。在定期存款 到期前，须持有甲的身份证才能使用该笔资金。案发时，该笔存款尚未到期。关于 本案，下列哪一选项的说法是正确的？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0034",
+      "normalized_stem": "张某涉嫌抢劫被侦查机关刑事拘留由办案人员王某负责看守在看守时王某接到朋友电话便离开监室出去接电话20分钟后返回监室发现张某竟自杀身亡下列说法正确的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-025",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "张某涉嫌抢劫被侦查机关刑事拘留，由办案人员王某负责看守。在看守时，王某接 到朋友电话，便离开监室出去接电话，20分钟后返回监室，发现张某竟自杀身亡。 下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-025",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "张某涉嫌抢劫被侦查机关刑事拘留，由办案人员王某负责看守。在看守时，王某接 到朋友电话，便离开监室出去接电话，20分钟后返回监室，发现张某竟自杀身亡。 下列说法正确的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0035",
+      "normalized_stem": "甲驾驶货车在路边早点摊吃完早点后不付钱便要上车摊主乙女60岁爬进驾驶室抓甲甲很生气便用手将乙往外推乙摔倒在车下倒在地上甲见乙身上没有流血认为乙在耍赖便驾车离去乙因摔倒致心脏病发作送医院不治身亡甲对乙的死亡所持心理态度是单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-026",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "甲驾驶货车，在路边早点摊吃完早点后，不付钱便要上车。摊主乙（女，60岁） 爬进驾驶室抓甲。甲很生气，便用手将乙往外推。乙摔倒在车下，倒在地上。甲见 乙身上没有流血，认为乙在耍赖，便驾车离去。乙因摔倒致心脏病发作，送医院不 治身亡。甲对乙的死亡所持心理态度是？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-026",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "甲驾驶货车，在路边早点摊吃完早点后，不付钱便要上车。摊主乙（女，60岁） 爬进驾驶室抓甲。甲很生气，便用手将乙往外推。乙摔倒在车下，倒在地上。甲见 乙身上没有流血，认为乙在耍赖，便驾车离去。乙因摔倒致心脏病发作，送医院不 治身亡。甲对乙的死亡所持心理态度是？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0036",
+      "normalized_stem": "关于刑法的解释下列说法错误的是单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-027",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "关于刑法的解释，下列说法错误的是？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-027",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "关于刑法的解释，下列说法错误的是？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0037",
+      "normalized_stem": "关于刑法渊源下列说法正确的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-028",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "关于刑法渊源，下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-028",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "关于刑法渊源，下列说法正确的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0038",
+      "normalized_stem": "关于罪刑法定原则下列说法正确的是单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-029",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "关于罪刑法定原则，下列说法正确的是？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-029",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "关于罪刑法定原则，下列说法正确的是？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0039",
+      "normalized_stem": "关于刑法的基本原则下列说法正确的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-030",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "关于刑法的基本原则，下列说法正确的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-030",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "关于刑法的基本原则，下列说法正确的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0040",
+      "normalized_stem": "关于刑法的效力下列说法错误的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-031",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "关于刑法的效力，下列说法错误的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-031",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "关于刑法的效力，下列说法错误的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0042",
+      "normalized_stem": "甲和朋友乙一同吃夜宵聊天中甲戏称乙是肥猪200斤乙气不过用身体压制瘦小的甲致甲呼吸困难无法动弹有生命危险甲为了活命用酒瓶砸乙致乙重伤关于本案下列说法正确的是单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-033",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "甲和朋友乙一同吃夜宵，聊天中，甲戏称乙是肥猪200斤，乙气不过，用身体压 制瘦小的甲，致甲呼吸困难、无法动弹，有生命危险。甲为了活命，用酒瓶砸乙， 致乙重伤。关于本案，下列说法正确的是？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-033",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "甲和朋友乙一同吃夜宵，聊天中，甲戏称乙是肥猪200斤，乙气不过，用身体压 制瘦小的甲，致甲呼吸困难、无法动弹，有生命危险。甲为了活命，用酒瓶砸乙， 致乙重伤。关于本案，下列说法正确的是？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0043",
+      "normalized_stem": "在有作为可能性和结果避免可能性的情况下关于不作为犯的判断下列说法正确的有多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-034",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "在有作为可能性和结果避免可能性的情况下，关于不作为犯的判断，下列说法正确 的有？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-034",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "在有作为可能性和结果避免可能性的情况下，关于不作为犯的判断，下列说法正确 的有？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0044",
+      "normalized_stem": "甲故意伤害乙乙为了防卫向甲扔了一个火把火把刚好掉入稻草堆里乙趁甲转移注意力时立马逃离甲见起火能够灭火不灭火离开现场火势变大烧毁邻居家酿成严重火灾关于本案下列说法错误的是单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-035",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "甲故意伤害乙，乙为了防卫，向甲扔了一个火把，火把刚好掉入稻草堆里。乙趁甲 转移注意力时立马逃离。甲见起火，能够灭火，不灭火，离开现场。火势变大，烧 毁邻居家，酿成严重火灾。关于本案，下列说法错误的是？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-035",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "甲故意伤害乙，乙为了防卫，向甲扔了一个火把，火把刚好掉入稻草堆里。乙趁甲 转移注意力时立马逃离。甲见起火，能够灭火，不灭火，离开现场。火势变大，烧 毁邻居家，酿成严重火灾。关于本案，下列说法错误的是？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0046",
+      "normalized_stem": "关于犯罪形态下列说法正确的有单选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-037",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "关于犯罪形态，下列说法正确的有？（单选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-037",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "关于犯罪形态，下列说法正确的有？（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0047",
+      "normalized_stem": "关于立功的认定下列说法正确的是多选",
+      "items": [
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-expl-038",
+          "source_id": "bailangtao-criminal-daily-1-38-expl",
+          "stem": "关于立功的认定，下列说法正确的是？（多选）"
+        },
+        {
+          "question_id": "bailangtao-criminal-daily-1-38-questions-038",
+          "source_id": "bailangtao-criminal-daily-1-38-questions",
+          "stem": "关于立功的认定，下列说法正确的是？（多选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0054",
+      "normalized_stem": "png=====",
+      "items": [
+        {
+          "question_id": "cuihongyu-73-truefalse-003",
+          "source_id": "cuihongyu-73-truefalse",
+          "stem": "png ====="
+        },
+        {
+          "question_id": "cuihongyu-73-truefalse-006",
+          "source_id": "cuihongyu-73-truefalse",
+          "stem": "png ====="
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0077",
+      "normalized_stem": "判断某公司的董事长崔崔在宴会上醉酒看有人递来一个东西以为是酒水单而签字实际上该文本是一份价格合理的红酒买卖商务合同则该合同属于重大误解可撤销",
+      "items": [
+        {
+          "question_id": "cuihongyu-73-truefalse-027",
+          "source_id": "cuihongyu-73-truefalse",
+          "stem": "【判断】某公司的董事长崔崔在宴会上醉酒，看有人递来一个东西，以为是酒水单而签字，实际上该文本是一份价 格合理的红酒买卖商务合同，则该合同属于重大误解，可撤销。"
+        },
+        {
+          "question_id": "cuihongyu-73-truefalse-028",
+          "source_id": "cuihongyu-73-truefalse",
+          "stem": "【判断】某公司的董事长崔崔在宴会上醉酒，看有人递来一个东西，以为是 酒水单而签字，实际上该文本是一份价格合理的红酒买卖商务合同，则该合同属 于重大误解，可撤销。"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0337",
+      "normalized_stem": "关于不作为犯罪下列哪些选项是正确的",
+      "items": [
+        {
+          "question_id": "luyao-criminal-general-033",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于不作为犯罪，下列哪些选项是正确的？"
+        },
+        {
+          "question_id": "luyao-criminal-general-034",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于不作为犯罪，下列哪些选项是正确的？"
+        },
+        {
+          "question_id": "luyao-criminal-general-036",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于不作为犯罪，下列哪些选项是正确的？"
+        },
+        {
+          "question_id": "luyao-criminal-general-039",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于不作为犯罪，下列哪些选项是正确的？"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0342",
+      "normalized_stem": "关于不作为犯下列哪些选项是正确的",
+      "items": [
+        {
+          "question_id": "luyao-criminal-general-041",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于不作为犯，下列哪些选项是正确的？"
+        },
+        {
+          "question_id": "luyao-criminal-general-202",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于不作为犯，下列哪些选项是正确的？"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0343",
+      "normalized_stem": "关于不作为犯罪下列说法正确的有",
+      "items": [
+        {
+          "question_id": "luyao-criminal-general-042",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于不作为犯罪，下列说法正确的有？"
+        },
+        {
+          "question_id": "luyao-criminal-general-050",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于不作为犯罪，下列说法正确的有？"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0353",
+      "normalized_stem": "关于结果加重犯下列哪一选项是正确的",
+      "items": [
+        {
+          "question_id": "luyao-criminal-general-053",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于结果加重犯，下列哪一选项是正确的？"
+        },
+        {
+          "question_id": "xuguanghua-criminal-heavy-087",
+          "source_id": "xuguanghua-criminal-heavy",
+          "stem": "关于结果加重犯，下列哪一选项是正确的？（）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0356",
+      "normalized_stem": "关于因果关系下列哪一选项是错误的",
+      "items": [
+        {
+          "question_id": "luyao-criminal-general-056",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于因果关系，下列哪一选项是错误的？"
+        },
+        {
+          "question_id": "luyao-criminal-general-059",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于因果关系，下列哪一选项是错误的？"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0357",
+      "normalized_stem": "关于因果关系下列哪些选项是错误的",
+      "items": [
+        {
+          "question_id": "luyao-criminal-general-057",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于因果关系，下列哪些选项是错误的？"
+        },
+        {
+          "question_id": "luyao-criminal-general-063",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于因果关系，下列哪些选项是错误的？"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0363",
+      "normalized_stem": "关于因果关系下列哪些选项是正确的",
+      "items": [
+        {
+          "question_id": "luyao-criminal-general-065",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于因果关系，下列哪些选项是正确的？"
+        },
+        {
+          "question_id": "luyao-criminal-general-071",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于因果关系，下列哪些选项是正确的？"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0460",
+      "normalized_stem": "关于犯罪停止形态的论述下列哪些选项是正确的",
+      "items": [
+        {
+          "question_id": "luyao-criminal-general-165",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于犯罪停止形态的论述，下列哪些选项是正确的？"
+        },
+        {
+          "question_id": "luyao-criminal-general-169",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于犯罪停止形态的论述，下列哪些选项是正确的？"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0496",
+      "normalized_stem": "关于共同犯罪的论述下列哪一选项是正确的",
+      "items": [
+        {
+          "question_id": "luyao-criminal-general-203",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于共同犯罪的论述，下列哪一选项是正确的？"
+        },
+        {
+          "question_id": "luyao-criminal-general-212",
+          "source_id": "luyao-criminal-general",
+          "stem": "关于共同犯罪的论述，下列哪一选项是正确的？"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0583",
+      "normalized_stem": "牛某住小区1楼经过本栋楼其他19户邻居商议拟加装电梯因加装电梯影响牛某房屋采光且产生噪音牛某不同意安装后牛某与其他19户邻居达成协议同意加装电梯牛某无需支付费用且免费使用一年后牛某将房屋卖给王某其他19户邻居向王某主张电梯安装费关于本案下列选项正确的是不定项",
+      "items": [
+        {
+          "question_id": "menggui-2026-civil-commercial-daily-025",
+          "source_id": "menggui-2026-civil-commercial-daily",
+          "stem": "牛某住小区1楼，经过本栋楼其他19户邻居商议，拟加装电梯。因加装电梯影响牛某房屋采光且产生噪 音，牛某不同意安装。后牛某与其他19户邻居达成协议，同意加装电梯，牛某无需支付费用且免费使用。 一年后，牛某将房屋卖给王某，其他19户邻居向王某主张电梯安装费。关于本案，下列选项正确的是？（不 定项）"
+        },
+        {
+          "question_id": "menggui-2026-civil-commercial-daily-112",
+          "source_id": "menggui-2026-civil-commercial-daily",
+          "stem": "牛某住小区1楼，经过本栋楼其他19户邻居商议，拟加装电梯。因加装电梯影响牛某房屋采光且产生 噪音，牛某不同意安装。后牛某与其他19户邻居达成协议，同意加装电梯，牛某无需支付费用且免费使用。 一年后，牛某将房屋卖给王某，其他19户邻居向王某主张电梯安装费。关于本案，下列选项正确的是？（不 定项）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0687",
+      "normalized_stem": "下列诉讼请求中不能得到法院支持的有不定项",
+      "items": [
+        {
+          "question_id": "menggui-2026-civil-commercial-daily-131",
+          "source_id": "menggui-2026-civil-commercial-daily",
+          "stem": "下列诉讼请求中，不能得到法院支持的有？（不定项）"
+        },
+        {
+          "question_id": "menggui-civil-commercial-mock-001",
+          "source_id": "menggui-civil-commercial-mock",
+          "stem": "下列诉讼请求中，不能得到法院支持的有？（不定项）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0723",
+      "normalized_stem": "动产抵押权何时设立",
+      "items": [
+        {
+          "question_id": "menggui-2026-civil-common-sense-003",
+          "source_id": "menggui-2026-civil-common-sense",
+          "stem": "动产抵押权何时设立？"
+        },
+        {
+          "question_id": "menggui-2026-civil-common-sense-022",
+          "source_id": "menggui-2026-civil-common-sense",
+          "stem": "动产抵押权何时设立？"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0860",
+      "normalized_stem": "关于不作为犯下列说法正确的是单选",
+      "items": [
+        {
+          "question_id": "xuguanghua-criminal-heavy-007",
+          "source_id": "xuguanghua-criminal-heavy",
+          "stem": "关于不作为犯，下列说法正确的是？（）（单选）"
+        },
+        {
+          "question_id": "xuguanghua-criminal-heavy-010",
+          "source_id": "xuguanghua-criminal-heavy",
+          "stem": "关于不作为犯，下列说法正确的是？（）（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    },
+    {
+      "duplicate_group_id": "dup-0909",
+      "normalized_stem": "关于犯罪中止下列说法正确的是单选",
+      "items": [
+        {
+          "question_id": "xuguanghua-criminal-heavy-058",
+          "source_id": "xuguanghua-criminal-heavy",
+          "stem": "关于犯罪中止，下列说法正确的是？（）（单选）"
+        },
+        {
+          "question_id": "xuguanghua-criminal-heavy-060",
+          "source_id": "xuguanghua-criminal-heavy",
+          "stem": "关于犯罪中止，下列说法正确的是？（）（单选）"
+        }
+      ],
+      "review_status": "needs_human_review"
+    }
+  ]
+}

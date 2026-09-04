@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "status": "validated",
+  "errors": [],
+  "metrics": {
+    "questions": 1117,
+    "fts_rows": 1117,
+    "reference_documents": 38,
+    "reference_documents_fts_rows": 38,
+    "sources": 37,
+    "materials": 80,
+    "orphan_options": 0,
+    "orphan_knowledge_links": 0,
+    "orphan_statute_links": 0,
+    "missing_archive_paths": 0
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "status": "reference_subject_catalog",
+  "summary": {
+    "documents": 38,
+    "characters": 1370117
+  },
+  "subjects": {
+    "民法": {
+      "documents": 2,
+      "characters": 26768,
+      "paths": [
+        "docs_materials/review/scanned/2026年民法笔记完整/ocr.txt",
+        "docs_materials/review/scanned/孟献贵-2026民法常识选择题（1-38题）/ocr.txt"
+      ]
+    },
+    "刑法": {
+      "documents": 8,
+      "characters": 709532,
+      "paths": [
+        "docs_materials/review/scanned/2026年刑法笔记完整/ocr.txt",
+        "docs_materials/review/scanned/26法考刑法客观真题/ocr.txt",
+        "docs_materials/review/scanned/刑法历年重难真题200题（2026版，徐光华）/ocr.txt",
+        "docs_materials/review/scanned/柏浪涛-刑法每日一题-1至14/ocr.txt",
+        "docs_materials/review/scanned/柏浪涛-刑法每日一题-1至24汇编/ocr.txt",
+        "docs_materials/review/scanned/柏浪涛-刑法每日一题-答题版-1至38/ocr.txt",
+        "docs_materials/review/scanned/柏浪涛-刑法每日一题-解析版-1至38/ocr.txt",
+        "docs_materials/review/scanned/路遥刑法真金题（总则）/ocr.txt"
+      ]
+    },
+    "民事诉讼法": {
+      "documents": 1,
+      "characters": 32073,
+      "paths": [
+        "docs_materials/review/scanned/2026年民事诉讼法笔记完整/ocr.txt"
+      ]
+    },
+    "刑事诉讼法": {
+      "documents": 1,
+      "characters": 38443,
+      "paths": [
+        "docs_materials/review/scanned/2026年刑事诉讼法笔记完整/ocr.txt"
+      ]
+    },
+    "行政法": {
+      "documents": 1,
+      "characters": 27333,
+      "paths": [
+        "docs_materials/review/scanned/2026年行政法笔记完整/ocr.txt"
+      ]
+    },
+    "商经知": {
+      "documents": 1,
+      "characters": 47335,
+      "paths": [
+        "docs_materials/review/scanned/2026年商经知笔记完整/ocr.txt"
+      ]
+    },
+    "三国法": {
+      "documents": 1,
+      "characters": 28609,
+      "paths": [
+        "docs_materials/review/scanned/2026年三国法笔记完整/ocr.txt"
+      ]
+    },
+    "理论法": {
+      "documents": 1,
+      "characters": 43433,
+      "paths": [
+        "docs_materials/review/scanned/2026年理论法笔记完整/ocr.txt"
+      ]
+    },
+    "其他": {
+      "documents": 22,
+      "characters": 416591,
+      "paths": [
+        "docs_materials/review/scanned/2026年法考民诉每日一问合集/ocr.txt",
+        "docs_materials/review/scanned/6月五大实体法模考-答案/ocr.txt",
+        "docs_materials/review/scanned/6月五大实体法模考-题目/ocr.txt",
+        "docs_materials/review/scanned/【得恩法考】2025年法考客观题考试回忆版真题/ocr.txt",
+        "docs_materials/review/scanned/孟献贵-2026民商法每日一题-1至160/ocr.txt",
+        "docs_materials/review/scanned/孟献贵-26民商法模拟考试卷-答案解析/ocr.txt",
+        "docs_materials/review/scanned/崔崔61题/ocr.txt",
+        "docs_materials/review/scanned/崔红玉主客一体73题/ocr.txt",
+        "docs_materials/review/scanned/崔红玉每日一题54题/ocr.txt",
+        "docs_materials/review/scanned/李佳每日一题-题目版/ocr.txt",
+        "docs_materials/review/scanned/李佳每日一题-题目解析版/ocr.txt",
+        "docs_materials/review/scanned/李劲松38题/ocr.txt",
+        "docs_materials/review/scanned/李劲松每日一题21题/ocr.txt",
+        "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结/ocr.txt",
+        "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题/ocr.txt",
+        "docs_materials/review/scanned/韩心怡-民诉每日一题-22题/ocr.txt",
+        "docs_materials/review/scanned/韩心怡43题/ocr.txt",
+        "docs_materials/review/scanned/韩心怡主客一体60题/ocr.txt",
+        "docs_materials/review/scanned/韩心怡民诉每日一问-填空版DOCX/ocr.txt",
+        "docs_materials/review/scanned/韩心怡民诉每日一问-答案版DOCX/ocr.txt",
+        "docs_materials/review/scanned/韩心怡民诉每日一问-答题版PDF/ocr.txt",
+        "docs_materials/review/scanned/韩心怡民诉每日一问-解析版/ocr.txt"
+      ]
+    }
+  }
+}

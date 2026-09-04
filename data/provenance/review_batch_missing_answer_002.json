@@ -1,0 +1,894 @@
+{
+  "schema_version": 1,
+  "status": "open_review_batch",
+  "issue": "missing_answer",
+  "limit": 50,
+  "offset": 50,
+  "count": 26,
+  "items": [
+    {
+      "question_id": "qiepeng-en-company-law-daily-047",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 10,
+      "stem": "海航投资公司的股东为海航控股公司和赵小海，持股比例分别为60%、40%。皇城酒店公司系海航投资 公司的全资子公司，被海航控股实际运营。海航投资公司及皇城酒店的董事、总经理等均为海航控股委派。 皇城酒店在运营期间，董事会将76 间客房处于闲置状态长达4年，造成损失4000余万元。法定代表人张 某违反公司章程，未经股东会决议擅自转让了皇城酒店的重要资产。赵小海欲为了皇城酒店的利益提起股 东代位诉讼。下列有关说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "赵小海不是皇城酒店的股东，无权为了皇城酒店的利益提起股东代位诉讼"
+        },
+        {
+          "option_key": "B",
+          "option_text": "赵小海应先请求海航投资公司的监事会提起诉讼，被拒绝或不予答复的，才能以自己的名义提起诉讼"
+        },
+        {
+          "option_key": "C",
+          "option_text": "赵小海应先请求皇城酒店的监事会提起诉讼，被拒绝或不予答复的，才能以自己的名义提起诉讼"
+        },
+        {
+          "option_key": "D",
+          "option_text": "张某代表皇城酒店转让资产的行为无效"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-048",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 10,
+      "stem": "盈东公司由张盈和刘东出资设立，分别持股 70%和30%。公司成立前五年，经营顺利，并按照公司章程 对各股东分配利润。第六年，张盈主张用公司的盈利来做技术革新，所以当年利润不分配，并作出股东会 决议。刘东反对，打算向第三人转让其股权退出盈东公司，为了股权被准确估值，向公司书面提出查阅会 计账簿及原始凭证的请求。下列说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "刘东有权要求公司以合理的价格回购其股权"
+        },
+        {
+          "option_key": "B",
+          "option_text": "刘东有权向法院起诉要求公司分配第六年的利润"
+        },
+        {
+          "option_key": "C",
+          "option_text": "因涉及商业秘密，刘东无权要求查阅公司的原始凭证"
+        },
+        {
+          "option_key": "D",
+          "option_text": "公司不应以刘东查账目的不正当为由拒绝其请求"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-049",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 10,
+      "stem": "希希和李某出资设立甲公司，希希持股 5%，李某持股 95%。希希数次提出参与公司经营到公司任职， 均被李某以种种借口拒绝，李某却安排自己的诸多裙带占据公司的要职，并设置高额薪酬。因为业务的发 展，甲公司于 2021年设立了全资子公司乙公司，乙公司成立以来业务一直持续向好，但从未向股东分红， 希希向乙公司书面申请查阅其会计账簿及会计凭证，被乙公司拒绝。下列有关希希主张的权利，说法正确 的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "希希无权向甲公司主张以合理的价格回购其股权"
+        },
+        {
+          "option_key": "B",
+          "option_text": "希希有权向甲公司主张以合理的价格回购其股权"
+        },
+        {
+          "option_key": "C",
+          "option_text": "希希不是乙公司的股东，无权查阅乙公司的财务会计账簿及会计凭证"
+        },
+        {
+          "option_key": "D",
+          "option_text": "希希有权查阅乙公司的会计账簿，但无权查阅会计凭证"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-050",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 10,
+      "stem": "福瑞德公司由9名股东出资设立，其中甲持股 23%，乙持股10%，丙持股 7%，丁持股 5%，戊持股 6%。 董事会提前三天通知全体股东召开股东会。甲、乙、丙、丁等8名股东出席了股东会，戊委托丁代为投票。 股东会形成了两项决议：一是利润分配决议；二是甲和乙将股权转让给瑞盛公司。一年以后，福瑞德公司 一直未向各股东分红。甲和乙的股权已经转让给瑞盛公司并办理了变更登记，但瑞盛公司一直未向甲支付 股权受让款。据查，福瑞德公司章程规定，股东会需由过半数的股东出席方可召开。甲如何救济自己的权 利？（单） APP",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "持分红决议向法院起诉福瑞德公司要求分配利润"
+        },
+        {
+          "option_key": "B",
+          "option_text": "要求瑞盛公司退回转让的股权"
+        },
+        {
+          "option_key": "C",
+          "option_text": "因股东会的到会人数不足章程约定的数额请求确认该股东会决议不成立"
+        },
+        {
+          "option_key": "D",
+          "option_text": "因股东会提前三天通知不符合法律规定主张撒销该股东会决议"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-051",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 11,
+      "stem": "李某、左某、戴某共同出资设立甲公司，李某持股52%，左某持股 34%，戴某持股14%。李某为娶娇妻 需贷款购置婚房，准备向银行贷款300万元，要求甲公司为其贷款提供担保。甲公司并未就此事项召开股 东会，而李某伪造了左某、戴某签字同意担保的股东会决议提供给银行，并向银行出具了担保函。现甲公 司经营不善被法院受理了破产程序，下列说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "甲公司股东会作出的为李某担保的决议无效"
+        },
+        {
+          "option_key": "B",
+          "option_text": "甲公司股东会作出的为李某担保的决议不成立"
+        },
+        {
+          "option_key": "C",
+          "option_text": "银行不得向甲公司申报破产债权"
+        },
+        {
+          "option_key": "D",
+          "option_text": "银行有权向甲公司申报破产债权"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-052",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 11,
+      "stem": "乙公司由甲公司和李某、王某出资设立，甲公司持有95%的股权。甲公司基于战略扩张，准备吸收合并 乙公司。对此，下列说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "合并应经甲公司和乙公司的股东会决议"
+        },
+        {
+          "option_key": "B",
+          "option_text": "合并无需甲公司和乙公司的股东会决议"
+        },
+        {
+          "option_key": "C",
+          "option_text": "乙公司不需经股东会决议，但应经董事会决议，并通知其他股东"
+        },
+        {
+          "option_key": "D",
+          "option_text": "乙公司的其他股东有权请求公司按照合理的价格收购其股权"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-053",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 11,
+      "stem": "大星公司由刘某和陈某出资成立。刘某出资 51%，陈某出资 49%。公司章程规定，股东对外转让全部股 权需全体股东同意。刘某欲转让全部股权给孟某，陈某不同意，刘某提出转让 0.1%的股权给孟某，陈某同 意。于是孟某被登记为公司的股东，后刘某以相同的条件将剩余 50.9%的股权悉数转让给孟某，陈某反对。 以下说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "公司章程的内容违反公司法而无效"
+        },
+        {
+          "option_key": "B",
+          "option_text": "刘某两次转让股权给孟某均有效"
+        },
+        {
+          "option_key": "C",
+          "option_text": "刘某第二次转让 50.9%的股权给孟某，陈某在 30日内可于同等条件下主张优先购买权"
+        },
+        {
+          "option_key": "D",
+          "option_text": "刘某第二次转让 50.9%的股权给孟某，因未经陈某同意而无效"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-054",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 11,
+      "stem": "张某、李某、王某共同出资设立甲公司，分别持股40%、30%和30%。2024年8月，张某将股权转让 给赵某退出公司。2025年3月，甲公司全体股东承诺：已经清偿了所有债务，通过简易程序将公司注销登 记。2025年5月，乙公司提出，甲公司拖欠其货款 200万元并未清偿。下列有关说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "张某转让股权给赵某时，应经李某或王某的同意"
+        },
+        {
+          "option_key": "B",
+          "option_text": "张某转让股权给赵某时，其他股东自接到书面通知之日起三十日内未答复的，视为放弃优先购买权"
+        },
+        {
+          "option_key": "C",
+          "option_text": "甲公司的股东承诺不实，注销登记无效"
+        },
+        {
+          "option_key": "D",
+          "option_text": "甲公司的股东应对乙公司承担连带责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-055",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 11,
+      "stem": "甲股份公司是非上市股份公司（以下简称甲公司），已公开发行股份1亿元，由9名董事组成董事会。 2025年9月，甲公司董事会按照公司章程的授权作出决议，为董事和部分员工提供借款，以购买公司的新 增股份。该董事会决议有两名董事因故未到场，一名董事投了反对票，其余董事均赞成。下列哪一说法是 正确的？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "董事会决议为董事提供借款，违法无效"
+        },
+        {
+          "option_key": "B",
+          "option_text": "董事会决议为部分员工提供借款符合法律规定的通过比例，合法有效"
+        },
+        {
+          "option_key": "C",
+          "option_text": "董事会决议为董事提供借款，不能超过2000万元"
+        },
+        {
+          "option_key": "D",
+          "option_text": "因两名董事未到场，该董事会决议不成立"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-056",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 12,
+      "stem": "泰昌有限公司共有6个股东，公司成立两年后，决定增加注册资本500万元。下列哪一表述是正确的？ （单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "股东会关于新增注册资本的决议，须经三分之二以上股东同意"
+        },
+        {
+          "option_key": "B",
+          "option_text": "股东认缴的新增出资额可分期缴纳"
+        },
+        {
+          "option_key": "C",
+          "option_text": "股东有权要求按照认缴出资比例来认缴新增注册资本的出资"
+        },
+        {
+          "option_key": "D",
+          "option_text": "一股东未履行其新增注册资本出资义务时，公司董事长须承担连带责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-057",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 12,
+      "stem": "三剑客公司注册资本5000万元，由甲公司和李某出资设立，持股比例分别为60%和 40%。2025年3月， 三剑客公司股东会决定减资，随后未通知债权人便将公司的注册资本减少为2000万元，且办理了变更登记。 2026年1月，甲公司经营不善，用公积金弥补亏损后，仍有亏损。甲公司准备减少注册资本弥补亏损。下 列说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "三剑客公司的减资行为未通知债权人，故减资行为无效"
+        },
+        {
+          "option_key": "B",
+          "option_text": "乙公司对三剑客公司的债权未到期，不能向三剑客公司主张清偿债务"
+        },
+        {
+          "option_key": "C",
+          "option_text": "甲公司减资需通知债权人并满足其清偿债务或提供担保的请求"
+        },
+        {
+          "option_key": "D",
+          "option_text": "甲公司减资不能免除股东缴纳出资或者股款的义务"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-058",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 12,
+      "stem": "盈东公司注册资本500万元，由甲、乙、丙三位股东出资设立。三位股东分别认缴出资100万元、250 万元、150万元，甲、乙在公司成立时缴足了出资，丙按公司章程的规定应于公司成立5年内缴足出资。公 司成立 3年时，经营遇到困境，使用公积金弥补亏损后仍有80万元亏损，公司决定减少注册资本弥补亏损。 下列哪些说法是正确的？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "盈东公司应编制资产负债表和财产清单"
+        },
+        {
+          "option_key": "B",
+          "option_text": "盈东公司应在减资决议作出之日起30日内公告"
+        },
+        {
+          "option_key": "C",
+          "option_text": "丙在80万元范围内按照出资比例减少出资义务"
+        },
+        {
+          "option_key": "D",
+          "option_text": "盈东公司应通知债权人"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-059",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 12,
+      "stem": "因公司章程所规定的营业期限届满，蒙玛有限公司进入清算程序。关于该公司的清算，下列哪些选项是 错误的？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "在公司逾期不成立清算组时，公司股东可直接申请法院指定组成清算组"
+        },
+        {
+          "option_key": "B",
+          "option_text": "公司在清算期间，由清算组代表公司参加诉讼"
+        },
+        {
+          "option_key": "C",
+          "option_text": "债权人未在规定期限内申报债权的，则不得补充申报"
+        },
+        {
+          "option_key": "D",
+          "option_text": "法院组织清算的，清算方案报法院备案后，清算组即可执行"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-060",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 12,
+      "stem": "甲、乙、丙共同出资设立捷光公司，持股比例分别为56%、43%、1%。甲、乙和外聘的张某组成董事会， 甲担任董事长和法定代表人，乙兼任总经理，两没有任何职务。因为不能即时完成战略转型，捷光公司经 营陷入困境，拖欠丁的巨额款项无力清偿。捷光公司股东会决议解散公司，下列有关说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "甲有义务组织清算"
+        },
+        {
+          "option_key": "B",
+          "option_text": "乙有义务组织清算"
+        },
+        {
+          "option_key": "C",
+          "option_text": "丙有义务组织清算"
+        },
+        {
+          "option_key": "D",
+          "option_text": "丁有权加入清算组"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-061",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 12,
+      "stem": "张某和王某共同出资设立云柔公司，云柔公司拖欠甲公司货款100万元，张某和王某打算将云柔公司简 友園众合教意 APP 易注销。下列有关说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "张某和王某应召开股东会作出解散公司的决议"
+        },
+        {
+          "option_key": "B",
+          "option_text": "张某和王某应承诺，云柔公司没有债务"
+        },
+        {
+          "option_key": "C",
+          "option_text": "云柔公司的简易注销程序应提前通知甲公司"
+        },
+        {
+          "option_key": "D",
+          "option_text": "如果云柔公司未清偿甲公司的债务而被简易注销，甲公司有权要求张某和王某承担连带责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-partnership-001",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 1,
+      "stem": "绿园水果店（普通合伙企业）由希希、李某、左某、戴某四个合伙人出资设立，合伙协议约定希希、李某 执行合伙事务，并聘请皮蛋作经营管理人员，下列说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "左某以合伙企业的名义签订的合同无效"
+        },
+        {
+          "option_key": "B",
+          "option_text": "皮蛋有权以合伙企业的名义，代表合伙企业签订合同"
+        },
+        {
+          "option_key": "C",
+          "option_text": "皮蛋经希希和李某同意，有权以水果店的名义向银行借款并以水果店的店面设定抵押"
+        },
+        {
+          "option_key": "D",
+          "option_text": "希希和李某擅自决议聘请皮蛋，左某和戴某知情后不置可否，皮蛋依法成为水果店的经营管理人员"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-partnership-002",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 1,
+      "stem": "王某、张某、田某、朱某共同出资于 2022年8月成立绿园水果店（普通合伙企业）。就合伙事务的执行， 合伙协议未特别约定。2023年1月，鉴于王某、张某业务能力不足，经合伙人会议决定，王某不再享有对 外签约权，而张某的对外签约权仅限于每笔交易额3万元以下。关于该合伙人决议，下列选项正确的是？ （多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "因违反合伙人平等原则，剥夺王某对外签约权的决议应为无效"
+        },
+        {
+          "option_key": "B",
+          "option_text": "王某可以此为由向其他合伙人主张赔偿其损失"
+        },
+        {
+          "option_key": "C",
+          "option_text": "张某此后对外签约的标的额超过3万元时，须事先征得王某、田某、朱某的同意"
+        },
+        {
+          "option_key": "D",
+          "option_text": "对张某的签约权限制，不得对抗善意相对人"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-partnership-004",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 1,
+      "stem": "杨某、段某、郭某、黄某、周某是某有限合伙企业的合伙人，其中杨某是普通合伙人，段某、郭某、黄 某、周某是有限合伙人。合伙协议对合伙份额的转让、质押等处分行为未做约定。下列说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "杨某死亡后，其合法继承人有权继承杨某在该合伙企业中的份额"
+        },
+        {
+          "option_key": "B",
+          "option_text": "段某的债权人申请法院执行段某的合伙份额还债，其他合伙人不能主张优先购买权"
+        },
+        {
+          "option_key": "C",
+          "option_text": "郭某对外转让其合伙份额时，其他合伙人无权主张优先购买权"
+        },
+        {
+          "option_key": "D",
+          "option_text": "黄某可随时转让其合伙份额给周某"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-partnership-005",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 1,
+      "stem": "甲、乙、丙是某普通合伙企业的合伙人，以房屋所有权入伙的甲打算退伙，但得知合伙企业无法向其退还 入伙时提供的房屋，便打算转让其份额变现。甲与丁沟通并确认了转让的条件，对于甲的份额转让，乙表 示同意，丙表示反对。关于此事下列说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "甲退伙时，有权要求合伙企业退还其出资的房屋"
+        },
+        {
+          "option_key": "B",
+          "option_text": "丙不同意甲转让份额给丁，则推定其同意购买甲的份额"
+        },
+        {
+          "option_key": "C",
+          "option_text": "如果甲将份额转让给丁，其他合伙人于同等条件下享有优先购买权"
+        },
+        {
+          "option_key": "D",
+          "option_text": "如果丁加入了合伙企业，经过乙、丙同意，可以继续从事与合伙企业相竞争的业务"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-partnership-006",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 2,
+      "stem": "明天砖厂是一有限合伙企业，王某和李某是有限合伙人，林某和郑某是普通合伙人。2022年7月，段某 入伙成为有限合伙人，其他合伙人一致同意，但在合伙协议中约定段某只对入伙后债务承担责任。此外， 合伙人会议还决定由王某为本合伙企业向银行的一笔借款提供保证，保证方式没有约定。2022年8月，红 星建材厂的一名业务员来到砖厂希望购买墙砖10万块。此时其他合伙人都出差在外，王某为揽住生意就以 普通合伙人的名义与红星建材厂的业务员签订了合同。2022年9月，因为墙砖质量不合格，红星建材厂向 明天砖厂索赔5万元。对上述该企业的经营活动，以下哪些叙述是正确的？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "王某是有限合伙人，不得执行合伙事务，王某的担保行为是违法的"
+        },
+        {
+          "option_key": "B",
+          "option_text": "王某是有限合伙人，不得执行合伙事务，王某代表合伙企业与红星建材厂签订的合同无效"
+        },
+        {
+          "option_key": "C",
+          "option_text": "王某应当对红星建材厂和银行的债务承担无限连带责任"
+        },
+        {
+          "option_key": "D",
+          "option_text": "段某对入伙前合伙企业的债务，以其认缴的出资额为限承担责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-partnership-007",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 2,
+      "stem": "甲、乙、丙、丁四人设立合一科技（普通合伙企业），合伙协议约定，担任合一科技的合伙人需取得博士 学位。甲、乙、丙缴足出资，丁认缴出资100万元，到期后未缴纳。甲、乙、丙一致决议同意将丁除名。 后丙死亡，丙的儿子戊打算继承丙的份额成为合一科技的合伙人，但戊只有本科学历。下列哪些说法是正 确的？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "戊不能取得合一科技的合伙人资格，合一科技应向戊退还丙的财产份额"
+        },
+        {
+          "option_key": "B",
+          "option_text": "应对合一科技进行清算后，才能向戊退还丙的财产份额"
+        },
+        {
+          "option_key": "C",
+          "option_text": "丁接到除名通知之日，除名生效，丁退伙"
+        },
+        {
+          "option_key": "D",
+          "option_text": "甲、乙、两作出对丁的除名决议之日起30日内，合一科技应进行公告"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-partnership-008",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 2,
+      "stem": "全兴面粉加工厂（普通合伙企业）的合伙人是甲公司、乙公司、丙公司、丁公司。在合伙协议中，规定了 合伙事务的执行规则，以下哪些规则符合法律规定？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "甲公司可以委派代表执行合伙事务"
+        },
+        {
+          "option_key": "B",
+          "option_text": "不执行合伙事务的合伙人有权监督执行事务合伙人执行合伙事务的情况"
+        },
+        {
+          "option_key": "C",
+          "option_text": "不执行合伙事务的合伙人无权查阅合伙企业的财务会计账簿"
+        },
+        {
+          "option_key": "D",
+          "option_text": "受委托执行合伙事务的合伙人不按照合伙协议或者全体合伙人的决定执行事务的，其他合伙人可以决定 撤销该委托"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-partnership-009",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 2,
+      "stem": "甲、乙、丙共同出资设立绿园水果店（普通合伙企业），甲的出资比例为25%。甲因购房向丁借款150 万元，到期无力清偿，丁起诉甲并胜诉。合伙协议约定各合伙人按出资比例分取利润。关于丁的权利下列 说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "丁有权申请法院执行绿园水果店的全部利润"
+        },
+        {
+          "option_key": "B",
+          "option_text": "甲可以以其应分取的绿园水果店全部利润的25%用于清偿丁的债务"
+        },
+        {
+          "option_key": "C",
+          "option_text": "丁有权申请法院执行甲的合伙份额"
+        },
+        {
+          "option_key": "D",
+          "option_text": "如果法院强制执行甲的财产份额，丁有优先购买权"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-partnership-010",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 2,
+      "stem": "调味厂（普通合伙企业）由甲、乙、两三名合伙人出资设立，合伙协议约定：全体合伙人均可执行合伙 事务，并且共享利润、共担风险，合伙协议的修改应经2/3以上合伙人同意。乙未做市场调查擅自代表调 味厂与A公司签署了包装合同，不仅价格远高于市场价，而且 A公司提供的包装质量有瑕疵，给调味厂造 成巨额损失。甲、丙知悉后，召开合伙人会议，修改合伙协议，决议由乙承担合伙企业的全部亏损，乙反 对。下列哪些说法是正确的？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "合伙人决议由乙承担全部亏损，该决议无效"
+        },
+        {
+          "option_key": "B",
+          "option_text": "合伙人决议按照合伙协议的约定由2/3的合伙人同意，合法有效"
+        },
+        {
+          "option_key": "C",
+          "option_text": "乙与A公司签署的包装合同，未经甲、丙同意，无效"
+        },
+        {
+          "option_key": "D",
+          "option_text": "经甲、丙一致同意可将乙除名"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-partnership-011",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 3,
+      "stem": "希希个人投资设立粮食加工厂（个人独资企业），甲是粮食加工厂的重要供货商，2019年粮食加工厂经 营出现问题，拖欠甲货款50余万元，无力清偿。下列有关说法不正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "如果希希死亡，由一子一女共同继承其遗产，则该粮食加工厂需分立为两个单独的个人独资企业"
+        },
+        {
+          "option_key": "B",
+          "option_text": "如果希希决定解散该粮食加工厂，希希可以自己担任清算人对企业进行清算，还应该聘请中介机构的人 员担任清算人"
+        },
+        {
+          "option_key": "C",
+          "option_text": "如果该粮食加工厂清算时，通知了甲，甲未进行债权申报，则清算结束后，希希对甲的责任消灭"
+        },
+        {
+          "option_key": "D",
+          "option_text": "希希对甲的债权责任期间为5年，从希希决定解散该粮食加工厂之日开始计算 【外商法】"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-partnership-012",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 3,
+      "stem": "美国的 M公司准备来华投资，在河东省滨海市寻找项目，据查，M公司准备投资的项目属于负面清单中 限制外商投资的领域。下列有关说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "如果M公司的投资模式为取得中国境内合伙企业的合伙份额也适用《外商投资法》"
+        },
+        {
+          "option_key": "B",
+          "option_text": "因该业务为负面清单中限制外商投资的领域，所以 M公司的投资合同无效"
+        },
+        {
+          "option_key": "C",
+          "option_text": "如果M 公司成功投资并在滨海市设立项目公司甲公司，我国对甲公司不得实行国有化征收"
+        },
+        {
+          "option_key": "D",
+          "option_text": "如果M公司成功投资并在滨海市设立项目公司甲公司，甲公司取得的利润，应以外汇形式汇出 视频"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    }
+  ]
+}

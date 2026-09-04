@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "status": "rubric_audit",
+  "ok": true,
+  "summary": {
+    "items": 25,
+    "errors": 0
+  },
+  "errors": []
+}

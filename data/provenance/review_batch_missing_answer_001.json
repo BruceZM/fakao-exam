@@ -1,0 +1,1710 @@
+{
+  "schema_version": 1,
+  "status": "open_review_batch",
+  "issue": "missing_answer",
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "items": [
+    {
+      "question_id": "menggui-2026-civil-commercial-daily-161",
+      "source_id": "menggui-2026-civil-commercial-daily",
+      "subject": "民法",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 30,
+      "stem": "A公司长期委托B公司进行汽车维护。一次送来15辆总价值50万的汽车，并支付了2万元维护费，B 公司收费并进行了维护。但拒绝归还维护好的车辆，主张 A公司之前欠 20万维护费未还。下列说法正确的 是？（不定项）",
+      "answer_raw": "",
+      "source_title": "孟献贵-2026民商法每日一题（1-160）",
+      "archive_path": "docs_materials/review/scanned/孟献贵-2026民商法每日一题-1至160",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": ".公司可以进行留置"
+        },
+        {
+          "option_key": "B",
+          "option_text": ".公司不可以进行留置"
+        },
+        {
+          "option_key": "C",
+          "option_text": ".公司可以全部留置"
+        },
+        {
+          "option_key": "D",
+          "option_text": ".公司仅可以就一辆汽车进行留置"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "menggui-2026-civil-commercial-daily-162",
+      "source_id": "menggui-2026-civil-commercial-daily",
+      "subject": "民法",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 30,
+      "stem": "飞扬租车公司将一辆汽车租给尤某长期使用，某日尤某将车驶入某大厦地下停车场，未及时取车，便因 违法被行政拘留，期满后尤某前往取车，因不交费，停车场锁住了车轮胎。数日后，尤某趁人不备砸开锁 冲破关卡开走该车，对此下列选项正确的是？（不定项）",
+      "answer_raw": "",
+      "source_title": "孟献贵-2026民商法每日一题（1-160）",
+      "archive_path": "docs_materials/review/scanned/孟献贵-2026民商法每日一题-1至160",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "该停车场的锁车行为合法"
+        },
+        {
+          "option_key": "B",
+          "option_text": "该停车场有权基于留置权请求尤某返还车辆"
+        },
+        {
+          "option_key": "C",
+          "option_text": "尤某强行开走汽车的行为侵害了该停车场的物权"
+        },
+        {
+          "option_key": "D",
+          "option_text": "该停车场有权请求飞扬租车公司支付停车费"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "menggui-2026-civil-commercial-daily-163",
+      "source_id": "menggui-2026-civil-commercial-daily",
+      "subject": "民法",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 30,
+      "stem": "2019年7月8日，M市甲因摩托车遭台风损坏，送至乙处修理，二人约定7月10日付款取车。不久， 甲因工作调离M市，忘了取车。2022月7月13日，甲回M市取车，乙要求支付修理费，否则不还。甲诉 至法院。关于本案，下列说法正确的是？（不定项）",
+      "answer_raw": "",
+      "source_title": "孟献贵-2026民商法每日一题（1-160）",
+      "archive_path": "docs_materials/review/scanned/孟献贵-2026民商法每日一题-1至160",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "乙的修理费诉讼时效已届满，但其可以行使留置权"
+        },
+        {
+          "option_key": "B",
+          "option_text": "乙的修理费诉讼时效已届满，甲有权请求乙返还摩托车"
+        },
+        {
+          "option_key": "C",
+          "option_text": "乙的修理费诉讼时效已届满，该请求权消灭"
+        },
+        {
+          "option_key": "D",
+          "option_text": "乙的修理费诉讼时效已届满，其从权利留置权消灭"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "menggui-2026-civil-commercial-daily-164",
+      "source_id": "menggui-2026-civil-commercial-daily",
+      "subject": "民法",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 30,
+      "stem": "2021年5月，张某向李某短期借款，将其一辆豪车抵押给李某作为担保，但未办理抵押登记。同年6 月，张某与王某订立买卖合同，将该车所有权转让给王某，未实际交付，也未办理登记，而是约定张某能 继续有偿使用2个月，同年7月，张某驾车发生剐蹭事故，遂将车送周某的修车行修车，修理完毕后，张 某未前来取车，也未付修理费。下列选项正确的是？（不定项）",
+      "answer_raw": "",
+      "source_title": "孟献贵-2026民商法每日一题（1-160）",
+      "archive_path": "docs_materials/review/scanned/孟献贵-2026民商法每日一题-1至160",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "未办理登记，不影响李某依生效抵押合同取得抵押权"
+        },
+        {
+          "option_key": "B",
+          "option_text": "修车费与豪车价值相差太大，周某不能行使留置权"
+        },
+        {
+          "option_key": "C",
+          "option_text": "未实际交付，也未登记，不影响王某取得该车所有权"
+        },
+        {
+          "option_key": "D",
+          "option_text": "该车已不是张某所有的财产，周某不能享有留置权 第30页共88页 民商法每日一题"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-001",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 1,
+      "stem": "乙公司由甲公司和丁公司出资设立，甲公司持股 70%，丁公司持股 30%。甲公司委派张某全权负责乙公 司的经营管理与日常运作。甲公司授意张某将乙公司的资产分批转移至丙公司，而丁公司一直未发现此事。 据查，丙公司由甲公司独资设立。现乙公司的债权人戊公司发现乙公司资产不足以清偿其债务，对此，下 列哪一说法是正确的？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "戊公司只能通过乙公司的破产程序受偿"
+        },
+        {
+          "option_key": "B",
+          "option_text": "应由甲、乙、丁公司对戊公司承担连带责任"
+        },
+        {
+          "option_key": "C",
+          "option_text": "应由甲、乙、丙公司对戊公司承担连带责任"
+        },
+        {
+          "option_key": "D",
+          "option_text": "应由乙、丙公司对戊公司承担连带责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-002",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 1,
+      "stem": "甲公司、乙公司、丙公司均代理销售徐工集团的机械配件，王某分别持有甲公司和乙公司 95%的股权， 丙公司持股92%的股东为王某的妻子赵某。王某担任三家公司的总经理，且三家公司共用一个结算账户， 资金的进出仅凭王某一个人签字。2022年度，三家公司对徐工集团的货款1062万元，全部计入甲公司名下， 甲公司无力清偿。同时期，王某因赌博、个人的奢华消费、购车等行为，经常自公司账户提取资金，且对 小贷公司欠下 800万元的巨额债务，无力清偿。下列说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "徐工集团有权要求王某承担连带责任"
+        },
+        {
+          "option_key": "B",
+          "option_text": "徐工集团无权要求乙公司和丙公司承担连带责任"
+        },
+        {
+          "option_key": "C",
+          "option_text": "甲公司、乙公司、丙公司应按实际的销售量对徐工集团承担责任"
+        },
+        {
+          "option_key": "D",
+          "option_text": "小贷公司有权要求甲公司、乙公司、丙公司承担连带责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-003",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 1,
+      "stem": "李某独资设立甲公司，甲公司经营状况不好，李某还雪上加霜，将甲公司的全部资产投入李某夫人的一 个项目中。乙公司对甲公司有200万元的货款，到期索要时，甲公司无力清偿。乙公司发现李某的所作所 为，遂将李某告上法庭，关于本案，法院的下列哪一做法是正确的？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "法院应该依职权变更甲公司为被告"
+        },
+        {
+          "option_key": "B",
+          "option_text": "法院应依职权把甲公司列为第三人"
+        },
+        {
+          "option_key": "C",
+          "option_text": "法院应当依职权把甲公司追加为共同被告"
+        },
+        {
+          "option_key": "D",
+          "option_text": "法院应向乙公司释明，告知其追加甲公司为共同被告"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-004",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 1,
+      "stem": "鸿毛公司是 2004年注册于北京的餐饮公司，主营饺子，经过十几年的发展，积累了一定的影响力和实力。 为了进一步扩大业务和影响力，鸿毛公司决定在上海设立全资子公司东方公司，在成都开办分公司。下列 有关说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "东方公司经批准后，可以在证券交易所自由转让股权"
+        },
+        {
+          "option_key": "B",
+          "option_text": "东方公司是鸿毛公司的全资子公司，所以东方公司与鸿毛公司财产共有，责任共担"
+        },
+        {
+          "option_key": "C",
+          "option_text": "成都分公司对外欠债，无力偿付，债权人有权申请执行鸿毛公司的财产"
+        },
+        {
+          "option_key": "D",
+          "option_text": "东方公司以其全部的资产对债权人承担独立偿付责任，体现了人合属性"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-005",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 1,
+      "stem": "关于公司的财务行为，下列哪些选项是正确的？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "在会计年度终了时，公司须编制财务会计报告，并自行审计"
+        },
+        {
+          "option_key": "B",
+          "option_text": "公司的法定公积金不足以弥补以前年度亏损时，则在提取本年度法定公积金之前，应先用当年利润弥补 亏损"
+        },
+        {
+          "option_key": "C",
+          "option_text": "公司可用其资本公积金来弥补公司的亏损"
+        },
+        {
+          "option_key": "D",
+          "option_text": "公司可将法定公积金转为公司资本，但所留存的该项公积金不得少于转增前公司注册资本的百分之二十"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-006",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 2,
+      "stem": "甲股份公司注册资本1000万元，公司设立时发行了面额股。2023年股东会作出决议，把2022年的利润 向股东分配，但决议中没载明利润分配的期限。2024年，公司经营遇到困境，公司将已经发行的面额股转 为无面额股，并增发200万股新的无面额股进行融资，获得股款500万元。下列有关说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "2023年股东会作出分红决议后，应在一年内完成利润分配"
+        },
+        {
+          "option_key": "B",
+          "option_text": "甲股份公司可以将部分面额股转为无面额股"
+        },
+        {
+          "option_key": "C",
+          "option_text": "甲股份公司发行无面额股所得股款中，至少应将 250万元计入注册资本"
+        },
+        {
+          "option_key": "D",
+          "option_text": "甲股份公司发行无面额股所得股款中，未计入注册资本的金额应列入资本公积金，公司不得用资本公积 金弥补亏损"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-007",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 2,
+      "stem": "李某、左某、戴某共同出资设立甲公司。为了便于公司筹备，向市场监督管理部门申领了“甲公司筹 备处”的临时印章。李某用“甲公司筹备处”的名义与乙公司签署了办公场地租赁协议，约定年租金8万 元。后甲公司因故未能成立，乙公司欲向法院起诉追讨租金，下列有关说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "因甲公司未成立，所以该合同不生效"
+        },
+        {
+          "option_key": "B",
+          "option_text": "该合同无效，乙公司可以李某为被告提起诉讼"
+        },
+        {
+          "option_key": "C",
+          "option_text": "该合同有效，乙公司可以“甲公司筹备处”为被告提起诉讼"
+        },
+        {
+          "option_key": "D",
+          "option_text": "该合同有效，乙公司可以李某、左某、戴某为共同被告提起诉讼"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-008",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 2,
+      "stem": "甲、乙、丙拟共同出资50万元设立一有限公司。公司成立后，在其设置的股东名册中记载了甲乙两3人 的姓名与出资额等事项，但在办理公司登记时遗漏了丙，使得公司登记的文件中股东只有甲乙2人。下列 哪一说法是正确的？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "丙不能取得股东资格"
+        },
+        {
+          "option_key": "B",
+          "option_text": "丙取得股东资格，但不能参与当年的分红"
+        },
+        {
+          "option_key": "C",
+          "option_text": "丙取得股东资格，但不能对抗善意相对人"
+        },
+        {
+          "option_key": "D",
+          "option_text": "丙不能取得股东资格，但可以参与当年的分红"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-009",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 2,
+      "stem": "严某为鑫佳有限责任公司股东。关于公司对严某签发出资证明书，下列哪一选项是正确的？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "在严某认缴公司章程所规定的出资后，公司即须签发出资证明书"
+        },
+        {
+          "option_key": "B",
+          "option_text": "若严某遗失出资证明书，其股东资格并不因此丧失"
+        },
+        {
+          "option_key": "C",
+          "option_text": "出资证明书须载明严某以及其他股东的姓名、各自所缴纳的出资额"
+        },
+        {
+          "option_key": "D",
+          "option_text": "出资证明书在法律性质上属于有价证券"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-010",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 2,
+      "stem": "张某是甲公司第二大股东，身价过亿。2020年1月，张某去美国考察，遭遇车祸，当场殒命，客死他乡。 张某生前曾订立遗嘱，身故后的所有财产归唯一的儿子张晓某继承。据查，张某离异，张晓某现年两岁半， 甲公司章程对于股权继承没有约定。下列说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "张晓某为无民事行为能力人，不得担任公司的股东"
+        },
+        {
+          "option_key": "B",
+          "option_text": "未经甲公司商事变更登记，张晓某不能成为公司的股东"
+        },
+        {
+          "option_key": "C",
+          "option_text": "公司的第一大股东李某有权对张某遗留的股权主张优先购买权"
+        },
+        {
+          "option_key": "D",
+          "option_text": "张晓某有权继承股权成为甲公司的股东"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-011",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 2,
+      "stem": "李佳佳有政府关系的背景，打算投资组建一公司，鉴于自己身份特殊，遂和好友希希签订协议约定，李 佳佳出资，以希希的名义与戴某、左某共同组建三剑客公司，向公司出资100万元。李佳佳只向希希转账 30万元后，再没有履行后续的出资义务。三剑客公司对乙公司欠债若干，无力清偿。下列有关表述符合法 律规定的是？（单） APP",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "李佳佳与希希协商一致，可向登记机关申请将李佳佳登记为公司股东"
+        },
+        {
+          "option_key": "B",
+          "option_text": "李佳佳主张实际的投资收益，希希可以自己为名义股东为由抗辩"
+        },
+        {
+          "option_key": "C",
+          "option_text": "乙公司请求希希承担补充赔偿责任，希希以自己仅是名义股东为由拒绝承担责任"
+        },
+        {
+          "option_key": "D",
+          "option_text": "乙公司请求李佳佳承担补充赔偿责任，李佳佳以自己与乙公司并无任何关系为由拒绝承担"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-012",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 3,
+      "stem": "王甲不小心遗失了身份证，迟迟没有发觉，戴某捡到后灵机一动，利用王甲的身份信息与希希、李某共 同设立了中周公司。据查，中周公司的公司章程、股东名册、工商登记等文件中均体现为王甲的名字。下 列有关说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "如果王甲名下的股权出资不足，中周公司可请求王甲补足出资"
+        },
+        {
+          "option_key": "B",
+          "option_text": "如果王甲名下的股权出资不足，债权人有权请求王甲承担补充赔偿责任"
+        },
+        {
+          "option_key": "C",
+          "option_text": "王甲可以起诉请求确认其不是中周公司的股东"
+        },
+        {
+          "option_key": "D",
+          "option_text": "如果王甲起诉确认其不是中周公司的股东，应以中周公司和戴某为被告"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-013",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 3,
+      "stem": "甲乙丙丁戊五人共同组建一有限公司。出资协议约定甲以现金十万元出资，甲已缴纳六万元出资，尚有 四万元未缴纳。某次公司股东会上，甲请求免除其四万元的出资义务。股东会五名股东，其中四名表示同 意，投反对票的股东丙向法院起诉，请求确认该股东会决议无效。对此，下列哪一表述是正确的？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "该决议无效，甲的债务未免除"
+        },
+        {
+          "option_key": "B",
+          "option_text": "该决议有效，甲的债务已经免除"
+        },
+        {
+          "option_key": "C",
+          "option_text": "该决议需经全体股东同意才能有效"
+        },
+        {
+          "option_key": "D",
+          "option_text": "该决议属于可撒销，除甲以外的任一股东均享有撒销权"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-014",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 3,
+      "stem": "甲公司由艾某、武某、杜某共同出资设立，公司章程规定，艾某应于 2028年12月底缴足出资300万元。 2025年5月，甲公司召开股东会，全体股东一致同意作出决议，由甲公司的资本公积金填补艾某向甲公司 的出资。2025年8月，甲公司被法院受理破产，管理人要求艾某履行出资义务。下列哪一说法是正确的？ （单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "艾某有权以公司章程规定的出资日期尚未到期为由，拒绝出资"
+        },
+        {
+          "option_key": "B",
+          "option_text": "艾某有权以股东会决议由公司的资本公积金转为艾某的出资为由，拒绝出资"
+        },
+        {
+          "option_key": "C",
+          "option_text": "管理人可向法院请求撒销甲公司的股东会决议"
+        },
+        {
+          "option_key": "D",
+          "option_text": "法院受理破产申请后，艾某应履行出资义务"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-015",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 3,
+      "stem": "甲乙两三人共同组建一有限责任公司。公司成立后，甲将其 20%股权中的5%转让给第三人丁，丁通过 受让股权成为公司股东。甲、乙均按期足额缴纳出资，但发现由丙出资的机器设备的实际价值明显低于公 司章程所确定的数额。对此，下列哪些表述是错误的？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "由丙补交其差额，甲、乙和丁对其承担连带责任"
+        },
+        {
+          "option_key": "B",
+          "option_text": "丙应当向甲、乙和丁承担违约责任"
+        },
+        {
+          "option_key": "C",
+          "option_text": "由丙补交其差额，甲、乙对其承担连带责任"
+        },
+        {
+          "option_key": "D",
+          "option_text": "丙应当向甲、乙承担违约责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-016",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 3,
+      "stem": "三剑客公司有股东李某、戴某和左某三人，李某持股 80%，戴某和左某各持股10%，各股东均已缴足出 资。李某担任公司的董事长和法定代表人。2022年公司税后可分配利润为1000万元，李某利用职权另虛增 利润1000万元，并制订分红方案，将2000万元按股东出资比例分配给全体股东。由股东会全体股东一致 同意作出决议通过此方案。对此，下列说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "李某构成抽逃出资，戴某和左某也构成抽逃出资"
+        },
+        {
+          "option_key": "B",
+          "option_text": "李某应将其分红所得的1600万元返还给公司"
+        },
+        {
+          "option_key": "C",
+          "option_text": "戴某可以主张其对虚增利润不知情而无需返还分红所得"
+        },
+        {
+          "option_key": "D",
+          "option_text": "左某可以主张其对分红决议投反对票而无需返还分红所得"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-017",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 4,
+      "stem": "甲、乙、两三人分别认缴出资150万元成立联强公司，从事IT 产品的分销业务，公司章程约定，各股东 于公司成立时缴足出资。甲按时缴纳出资，乙自己出资100万元，和丙约定，由丙为其垫付出资50万元， 丙以一套房屋作价 200万元出资，完成了自己和乙的出资，但该房屋实际价值只有150万元。2019年5月， 联强公司增资扩股，丁认购10万元，但并未按时将股款转入公司账户。下列说法合法的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "丙的房屋高估50万元，应该由丙向公司补足，甲、乙在出资不足的范围内承担连带责任"
+        },
+        {
+          "option_key": "B",
+          "option_text": "丙的房屋高估50万元，应该由乙向公司补足，给公司造成的损失，乙应该承担赔偿责任"
+        },
+        {
+          "option_key": "C",
+          "option_text": "丙的房屋高估50万元，应该由乙向公司补足，甲、丙在出资不足的范围内承担连带责任"
+        },
+        {
+          "option_key": "D",
+          "option_text": "丁应该向公司补足出资，同时甲、乙、丙承担连带责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-018",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 4,
+      "stem": "2025年1月，李某、戴某、左某出资设立三剑客公司，注册资本1000万元。三位股东的持股比例为60%、 20%和20%。公司章程的规定，三位股东的出资期限为2027年12月31日。2025年6月，李某将其所持有 的公司股权转让给希希，并办理了变更登记手续。2026年三剑客公司经营不善，甲公司货款200万元到期 后无力清偿。下列说法不正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "出资期限到期后，三剑客公司有权要求李某和希希连带承担缴纳出资的责任"
+        },
+        {
+          "option_key": "B",
+          "option_text": "出资期限到期后，由希希承担缴纳出资的义务，李某与此无关"
+        },
+        {
+          "option_key": "C",
+          "option_text": "三剑客公司未具备破产原因，甲公司不能要求三位股东提前履行出资义务"
+        },
+        {
+          "option_key": "D",
+          "option_text": "三剑客公司或甲公司有权要求三位股东提前履行出资义务"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-019",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 4,
+      "stem": "赵某、钱某、孙某和李某发起设立甲公司，赵某认缴公司注册资本的40%，认缴期为1年，其余三人各 实缴 20%。1年后，赵某只缴纳了公司注册资本的30%。公司章程对股东的表决权没有特别规定，对此，下 列哪些说法是错误的？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "在公司成立后1年内，赵某不享有表决权"
+        },
+        {
+          "option_key": "B",
+          "option_text": "在公司成立后1年内，公司可以通过股东会决议限制赵某的表决权"
+        },
+        {
+          "option_key": "C",
+          "option_text": "在公司成立1年后，钱某、孙某和李某可以过半数表决权通过股东会决议限制赵某的表决权"
+        },
+        {
+          "option_key": "D",
+          "option_text": "在公司成立1年后，赵某因只缴纳了注册资本的 30%，其仅享有按照实缴比例的表决权"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-020",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 4,
+      "stem": "2025年1月1日，甲、乙、丙共同出资设立工贸公司，分别认缴出资400万元、300万元、300万元， 公司未设董事会，由甲担任董事。公司章程规定，三位股东均应在2025年4月1日前缴清全部出资。丙认 为公司刚成立，业务尚未展开，不需要这么多资金，故直到2025年4月1日仅缴纳出资100万元。对此， 下列说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "甲应向丙发出书面催缴书，催缴出资"
+        },
+        {
+          "option_key": "B",
+          "option_text": "甲未对股东出资核查给公司造成损失的，应当承担赔偿责任"
+        },
+        {
+          "option_key": "C",
+          "option_text": "公司可以直接向丙发出失权通知书"
+        },
+        {
+          "option_key": "D",
+          "option_text": "丙除足额缴纳出资外，还应当对给公司造成的损失承担赔偿责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-021",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 4,
+      "stem": "甲公司为非上市股份公司，为了公司的发展和日后的上市计划，拟发行具有特别表决权的类别股，设定 该类别股的表决权重比普通股大。下列有关说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "发行特别表决权的类别股需提前在公司章程中修改关于类别股的规定"
+        },
+        {
+          "option_key": "B",
+          "option_text": "该公司公开发行股份前，不得签发特别表决权的类别股"
+        },
+        {
+          "option_key": "C",
+          "option_text": "选举公司董事时可以用该类别股的特别表决权进行表决"
+        },
+        {
+          "option_key": "D",
+          "option_text": "选举公司监事时可以用该类别股的特别表决权进行表决"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-022",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 5,
+      "stem": "松冉股份公司公开发行的股份总额为3000万元，由唐某、陈某、刘某、甲、乙共同出资设立，各股东 分别持股34%、31%、13%、17%、5%，由五位股东组成公司的董事会。松冉股份公司的股东会决议授权董 事会发行1300万股股份，只有唐某投反对票。后董事会决议发行新股，唐某反对，其余董事均同意。张某 以价值120万元的专利认购新股，王某以现金认购200万新股。下列说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "因唐某反对，该股东会授权董事会发行股份的决议无效"
+        },
+        {
+          "option_key": "B",
+          "option_text": "因唐某反对，该董事会决议无效"
+        },
+        {
+          "option_key": "C",
+          "option_text": "张某以专利权作价出资，应当经松冉股份公司股东会决议"
+        },
+        {
+          "option_key": "D",
+          "option_text": "王某不能获得200万股股份"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-023",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 5,
+      "stem": "甲用梅园公司的股权估值定价后向瑞辰公司出资，持股 20%。随即，甲对梅园公司违规操作并谋取巨额 私利，导致梅园公司经营受阻，出资给瑞辰公司的股权也大幅度贬值。此时，甲将其持有的瑞辰公司 20% 的股权转让给不知情的乙。下列有关说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "甲对瑞辰公司已经履行了出资义务，对于股权贬值，甲无需承担补足责任"
+        },
+        {
+          "option_key": "B",
+          "option_text": "对于股权贬值的差额，甲应向瑞辰公司补足"
+        },
+        {
+          "option_key": "C",
+          "option_text": "对股权贬值的差额，甲和乙应承担连带向瑞辰公司补足的责任"
+        },
+        {
+          "option_key": "D",
+          "option_text": "对股权贬值的差额，甲应向瑞辰公司补足，甲无力补足的，乙承担补充责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-024",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 5,
+      "stem": "张某、王某约定共同投资设立和平有限责任公司，在完成各筹备事项后，张某拟将设立登记书、公司草 程等相关材料提交公司登记机关，下列不属于必要登记事项的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "法定代表人姓名"
+        },
+        {
+          "option_key": "B",
+          "option_text": "公司经营范围"
+        },
+        {
+          "option_key": "C",
+          "option_text": "股东姓名或者名称"
+        },
+        {
+          "option_key": "D",
+          "option_text": "股东认缴和实缴出资额"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-025",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 5,
+      "stem": "张某、李某出资设立甲公司，公司章程规定，由主管销售的董事担任公司的法定代表人。公司成立之初 一直由张某主管销售并担任公司的法定代表人，但公司的经营日渐衰退，李某对张某心生不满。通过股东 会决议改选李某为主管销售的董事。但因为种种原因，甲公司未办理法定代表人的变更登记。但甲公司就 此事函告了乙公司。此后，张某代表甲公司分别与乙公司和丙公司签署了购销合同。下列有关说法正确的 是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "甲公司应将各股东的认缴出资和实缴出资通过国家企业信用信息公示系统公示"
+        },
+        {
+          "option_key": "B",
+          "option_text": "未经变更登记，李某不能成为甲公司的法定代表人"
+        },
+        {
+          "option_key": "C",
+          "option_text": "如果甲公司申请法定代表人的变更登记，应由李某签署变更登记申请书"
+        },
+        {
+          "option_key": "D",
+          "option_text": "张某代表甲公司和乙公司、丙公司签署的购销合同均有效"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-026",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 5,
+      "stem": "荣辉公司于 2015年5月成立，公司章程规定：张某、李某、王某三人组成董事会，张某担任董事长和 法定代表人，任期3年。2017年7月，王某由于个人原因提出辞职，股东会决议未通过，但是王某也不再 出现参与经营事务。2017年9月，股东会以李某能力不足为由，决议解除其董事职务。以下说法正确的是？",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "李某被提前解除董事职务，不影响其向公司要求按原任期给付剩余的报酬"
+        },
+        {
+          "option_key": "B",
+          "option_text": "股东会决议一经作出，李某丧失董事身份"
+        },
+        {
+          "option_key": "C",
+          "option_text": "股东会不予准许不影响王某辞职的实际效力"
+        },
+        {
+          "option_key": "D",
+          "option_text": "因董事会少于法定人数，王某应继续履行董事职务"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-027",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 6,
+      "stem": "李某是天河公司的董事和法定代表人，因公司内部其他高层、董事之间矛盾重重，李某一气之下向公司 提交了辞职报告：声明本人辞去董事的职务，但是继续担任法定代表人，并处理公司事务。关于李某辞职 的相关说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "李某辞去董事职务时，同时辞去法定代表人"
+        },
+        {
+          "option_key": "B",
+          "option_text": "李某辞去董事职务需要天河公司的股东会决议"
+        },
+        {
+          "option_key": "C",
+          "option_text": "李某辞去董事职务导致天河公司董事人数低于法定人数的，李某需继续履行董事职务"
+        },
+        {
+          "option_key": "D",
+          "option_text": "李某工作达到任期年限后，才可以辞职"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-028",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 6,
+      "stem": "科威股份有限公司是一家成立于 2018年9月从事房地产开发业务的非上市公司。依公司章程规定，科 威公司由7名董事组成董事会，公司不设监事会，由董事长赵某、董事兼财务主管李某、董事兼销售主管 孙某三人组成审计委员会，行使监事会职权。2020年7月，董事王某出于个人原因提出辞职，股东会以辞 职会导致董事人数低于章程规定人数为由，决议未通过。下列说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "科威公司的审计委员会成员中没有职工代表，故审计委员会设置不合法"
+        },
+        {
+          "option_key": "B",
+          "option_text": "科威公司的审计委员会成员均与公司存在可能影响其独立客观判断的关系，故审计委员会设置不合法"
+        },
+        {
+          "option_key": "C",
+          "option_text": "王某的辞职自公司收到书面辞职通知之日起即生效"
+        },
+        {
+          "option_key": "D",
+          "option_text": "因董事会人数少于章程规定人数，王某的辞职不能立即发生效力"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-029",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 6,
+      "stem": "王某是甲公司总经理，甲公司的主营业务是机械制造。未经公司章程或股东会授权，王某擅自担任了乙 公司的董事长，年薪100万元。乙公司也经营机械制造。王某多次将甲公司的客户介绍至乙公司，给甲公 司造成了严重的损失。两公司系甲公司原料供应商，甲公司欠其 200万元货款早已逾期，屡次催要，甲公 司均无力偿付。下列说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "王某在乙公司的年薪系其提供劳动的合法所得，应归王某个人所有"
+        },
+        {
+          "option_key": "B",
+          "option_text": "王某在乙公司的年薪系其未经授权从事竞业行为所得，应收归甲公司所有"
+        },
+        {
+          "option_key": "C",
+          "option_text": "丙公司有权要求王某承担连带责任"
+        },
+        {
+          "option_key": "D",
+          "option_text": "甲公司有权要求王某赔偿损失"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-030",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 6,
+      "stem": "陈某是天星公司的控股股东，陈某通过天星公司董事长贾某了解到，天星公司正准备购买兆宝公司所持 有的专利权将现有的产品进行升级改造。陈某指示贾某让天星公司放弃与兆宝公司的交易，随即为皋祥公 司（陈某全资控股）与兆宝公司牵线，二者成功达成了专利权转让合同，皋祥公司酬谢贾某 20万元。天星 公司错失了技术升级的机会，市场份额逐步萎缩。关于本案，下列说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "贾某应对天星公司造成的损失承担赔偿责任"
+        },
+        {
+          "option_key": "B",
+          "option_text": "贾某在专利权转让交易中所得收入应归天星公司所有"
+        },
+        {
+          "option_key": "C",
+          "option_text": "皋祥公司与兆宝公司的专利权转让合同无效"
+        },
+        {
+          "option_key": "D",
+          "option_text": "陈某应对天星公司造成的损失承担连带责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-031",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 6,
+      "stem": "宁公司（深交所上市公司）在2014年度业绩亏损的情况下，为防止公司股票被特别处理（ST），在2015 年会计年度期间，董事会决议虚增收入和利润，导致2015年年度报告存在虚假记载，构成信息披露违法行 为，严重损害了诸多投资人的利益。投资人就此针对宁公司及董事长李某提起诉讼。据查，宁公司的第一 大股东为金公司，金公司是星公司的全资子公司，覃某持有星公司100%的股权。宁公司的大小事务均需向 覃某汇报并得到其肯定后才能实施。下列有关说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "应由宁公司对受损害投资人承担赔偿责任，赔偿后再向李某追偿"
+        },
+        {
+          "option_key": "B",
+          "option_text": "李某也应当对受损害的投资人承担赔偿责任"
+        },
+        {
+          "option_key": "C",
+          "option_text": "覃某并非宁公司的董事或高管，不应对受损害的投资人承担赔偿责任"
+        },
+        {
+          "option_key": "D",
+          "option_text": "受损害的投资人可将宁公司及李某、覃某作为共同被告，追究其赔偿责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-032",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 7,
+      "stem": "美迅怀柔公司于 2012年由鄂某独资设立的甲公司和张某出资设立，甲公司持股75%。公司没有设置董 事会和监事会，由甲公司指派的李某担任董事（李某系鄂某之妻，美迅怀柔公司的经营由鄂某实际掌控）， 张某担任监事。2020年，牛某和王某经增资加入美迅怀柔公司，但未参与公司的经营。2022年3月，鄂某 伙同张某将美迅怀柔公司的资金 455万元拆借给由其担任法定代表人、董事兼经理，由张某担任监事的美 讯朝阳公司，且在2024年1月美讯朝阳公司因为决议解散而注销时，鄂某未向美讯朝阳公司主张返还相关 款项。牛某和王某认为鄂某和张某违反了信义义务，提起诉讼要求其对美迅怀柔公司承担赔偿责任。对此 下列说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "鄂某并非美迅怀柔公司的董事或高管，不应承担对美迅怀柔公司的赔偿责任"
+        },
+        {
+          "option_key": "B",
+          "option_text": "鄂某实际执行公司事务，应承担对美迅怀柔公司的赔偿责任"
+        },
+        {
+          "option_key": "C",
+          "option_text": "牛某和王某提起股东代位诉讼前，应履行先诉救济的前置程序"
+        },
+        {
+          "option_key": "D",
+          "option_text": "牛某和王某无需履行先诉救济的前置程序，可提起股东代位诉讼"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-033",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 7,
+      "stem": "华夏文化公司从事文化创意设计，股东为甲、乙、丙三人，并由该三人组成董事会，丙担任公司的法定 代表人。2023年华夏文化公司获得一项外观设计专利，丙擅自代表华夏文化公司将该专利以市价转让给A 公司。后查明，A公司是由丙的妻子丁通过其胞妹控制的公司。下列说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "丙转让该专利，应报告董事会并经董事会同意"
+        },
+        {
+          "option_key": "B",
+          "option_text": "丙以市价转让该专利，所以丙没有违反忠实义务"
+        },
+        {
+          "option_key": "C",
+          "option_text": "丙转让该专利应向华夏文化公司进行披露，并按照公司章程的规定经董事会或者股东会决议通过"
+        },
+        {
+          "option_key": "D",
+          "option_text": "丙与A公司无关联关系，所以丙没有违反忠实义务"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-034",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 7,
+      "stem": "罗某和毛某协商，由罗某实际出资，毛某担任股东，和赖某、刘某共同设立星河公司。毛某持股 80%， 担任公司董事，但由罗某实际管理公司的具体事务。因毛某和罗某在工作中出现重大过失，赖某利用他们 的过失抽回了出资。以下说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "赖某应向星河公司返还抽逃的出资"
+        },
+        {
+          "option_key": "B",
+          "option_text": "星河公司可以要求毛某和赖某承担连带责任"
+        },
+        {
+          "option_key": "C",
+          "option_text": "毛某为公司董事，星河公司可以要求其承担责任"
+        },
+        {
+          "option_key": "D",
+          "option_text": "罗某为实际控制人，实际管理公司事务，星河公司可以要求其承担责任"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-035",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 7,
+      "stem": "甲公司的董事会由张某、李某、王某组成，张某为董事长和法定代表人。甲公司要采购一批原材料，张 某向董事会报告，张某夫人实际控制的乙公司销售该种原材料，建议甲公司向乙公司采购。甲公司董事会 经全体董事一致同意作出决议通过此提议。张某遂代表甲公司与乙公司签署了采购合同，乙公司为此对张 某酬谢 30万元。下列哪些选项是正确的？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "出席该董事会的无关联董事不足3人，应当将该事项提交股东会审议"
+        },
+        {
+          "option_key": "B",
+          "option_text": "出席该董事会的无关联董事不足3人，该董事会决议不成立"
+        },
+        {
+          "option_key": "C",
+          "option_text": "董事会决议经全体董事一致同意，合法有效"
+        },
+        {
+          "option_key": "D",
+          "option_text": "乙公司酬谢给张某的30万元应归甲公司所有"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-036",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 7,
+      "stem": "甲持有乙公司 5%的股权，丙是乙公司的股东同时担任公司董事。乙公司章程规定股东不能查阅公司会 计账簿，但公司章程未登记。2019年1月，甲将股权转让给丙后，公司经营立即变好，甲觉察异样，担心 自己作为股东期间被丙“套路”，欲查阅公司会计账簿，下列有关说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "甲有权向公司书面申请查阅其作为股东期间的公司账簿"
+        },
+        {
+          "option_key": "B",
+          "option_text": "甲有权向公司书面申请查阅并复制公司的会计账簿"
+        },
+        {
+          "option_key": "C",
+          "option_text": "公司可根据公司章程的规定拒绝甲的查阅请求"
+        },
+        {
+          "option_key": "D",
+          "option_text": "甲不再是公司股东，无权查阅公司的会计账簿"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-037",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 8,
+      "stem": "雨嘉公司由甲、乙两位股东出资设立，分别持股17%和 83%。乙担任雨嘉公司的董事和法定代表人。9 月10日，甲与乙签订股权转让协议，约定将其持有的雨嘉公司全部股权转让给乙，11 月10日前甲请求雨嘉 公司办理股东名册的变更。9月20日，甲发现乙低价处置雨嘉公司的资产，担心影响股权转让的价格，遂 向公司申请查阅财务会计账簿，下列哪些说法是正确的？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "甲仍是雨嘉公司的股东，有权依法查阅公司的财务会计账簿"
+        },
+        {
+          "option_key": "B",
+          "option_text": "甲可以委托会计师事务所进行查阅"
+        },
+        {
+          "option_key": "C",
+          "option_text": "甲已经签订股权转让协议，不是雨嘉公司的股东，无权查阅公司的财务会计账簿"
+        },
+        {
+          "option_key": "D",
+          "option_text": "甲应向雨嘉公司书面申请查阅会计账簿并说明目的"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-038",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 8,
+      "stem": "百慕公司是一家设立于 A城，从事食品生产与销售的有限责任公司，公司股东出资情况为：甲认缴并实 缴出资600万元，乙认缴出资400万元，但仅实缴100万元。甲为百慕公司董事兼法定代表人，乙未在公 司担任任何职务。同时，乙的妻子丙为B市千味公司的股东与董事，该公司同样从事食品生产与销售。由 于百幕公司经营不善陷入亏损，乙向百慕公司提出查阅和复制百慕公司的财务会计报告、会计账簿、会计 凭证等文件材料。下列说法正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "百慕公司有权以乙具有不正当目的，可能损害公司合法利益为理由，拒绝乙查阅、复制财务会计报告"
+        },
+        {
+          "option_key": "B",
+          "option_text": "百慕公司有权以乙具有不正当目的，可能损害公司合法利益为理由，拒绝乙查阅、复制会计账簿"
+        },
+        {
+          "option_key": "C",
+          "option_text": "百慕公司有权以乙具有不正当目的，可能损害公司合法利益为理由，拒绝乙查阅、复制会计凭证"
+        },
+        {
+          "option_key": "D",
+          "option_text": "若公司章程规定股东不得查阅、复制财务会计报告、会计账簿、会计凭证，则不论股东乙是否具有不正 当目的，其均不得查阅、复制"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-039",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 8,
+      "stem": "甲公司由9个股东出资组成，其中甲持股 5%，乙持股 45%，乙担任公司的董事长。公司章程中规定公 司增资需全体股东一致同意。2020年3月，甲公司召开股东会讨论增资事宜，没有通知甲。股东会决议中 由乙代甲签字，最终以代表95%表决权的股东同意作出了增资的决议。甲知道后愤怒不已，且坚决不同意 增资。下列有关说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "该股东会决议可撒销"
+        },
+        {
+          "option_key": "B",
+          "option_text": "该股东会决议不成立"
+        },
+        {
+          "option_key": "C",
+          "option_text": "公司章程规定的有关增资的表决事项无效"
+        },
+        {
+          "option_key": "D",
+          "option_text": "甲有权主张公司以合理的价格回购其股权"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-040",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 8,
+      "stem": "成顺公司的股东胡某是公司的大股东和法定代表人，2018年12月，胡某召集股东会商议收购力耀公司 的股权事宜，此次股东会没有通知持有公司百分之一股权的小股东郑某。胡某提议转让成顺公司的一块土 地使用权给力耀公司作为受让股权的对价，在胡某的操作下，股东会通过该决议并让秘书代替郑某签字， 郑某知道后坚决不同意，诉至法院，该股东会决议效力如何？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "该股东会决议无效"
+        },
+        {
+          "option_key": "B",
+          "option_text": "该股东会决议可撒销"
+        },
+        {
+          "option_key": "C",
+          "option_text": "该股东会决议有效"
+        },
+        {
+          "option_key": "D",
+          "option_text": "该股东会决议不成立"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-041",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 8,
+      "stem": "甲公司由王某、张某、赵某共同出资设立，分别持股60%、30%和10%。公司未设置董事会，王某担任 董事执行公司事务。公司章程规定，召开股东会需提前 30日通知全体股东。王某7月31日通知张某和赵 某将于8月15 日召开股东会。赵某因人在国外，未能参会。股东会以王某和张某同意作出决议，向乙公司 采购一批设备。随后甲公司与乙公司签署了设备采购合同。下列哪些说法是不正确的？（多） APP",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "股东会的召集程序仅有轻微瑕疵，不应被撤销"
+        },
+        {
+          "option_key": "B",
+          "option_text": "赵某有权在决议作出后60日内向法院申请撒销该股东会决议"
+        },
+        {
+          "option_key": "C",
+          "option_text": "张某出席股东会并投同意票，无权向法院申请撒销该股东会决议"
+        },
+        {
+          "option_key": "D",
+          "option_text": "如果甲公司的股东会决议被撒销，甲公司与乙公司签署的设备采购合同无效"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-042",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 9,
+      "stem": "飞燕股份有限公司是一家非上市公司，其中甲持股40%、乙持股 40%、丙持股10%、丁持股10%，公司 董事会由5名董事组成，张某任董事长。2024年6月1日，丙请求董事会召开临时股东会。6月5日，董 事会作出召开股东会的决定，并通知各股东于6月15日召开线上股东会。6月15日，飞燕公司股东会做出 将飞燕公司所持有的德美公司50%股权转让给大兴公司的决议，其中甲、乙、丙投赞成票，丁投反对票。 随后飞燕公司与大兴公司签订了股权转让合同，德美公司也办理了股东变更手续。后丁向法院提起诉讼。 下列选项正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "飞燕公司未实际召开股东会，该股东会决议不成立"
+        },
+        {
+          "option_key": "B",
+          "option_text": "该临时股东会召集程序违反法律、行政法规，该股东会决议可撤销"
+        },
+        {
+          "option_key": "C",
+          "option_text": "该临时股东会召集程序仅有轻微瑕疵，该股东会决议有效"
+        },
+        {
+          "option_key": "D",
+          "option_text": "不论该股东会决议是否有效，大兴公司均可取得德美公司的股权"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-043",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 9,
+      "stem": "左某、戴某、希希共同出资设立甲公司，聘请张某作为公司的总经理。左某、戴某和张某组成公司的董 事会。公司章程约定，公司每年对外捐赠的款项不得超过上一年度净利润的5%。2023年12月甲公司董事 会决议向西部山区希望小学捐款1000万元，但公司2022年度财报显示，当年亏损300万元。2024年1月， 公司相关主体向法院提起诉讼，要求撒销该董事会决议。据查，希希系代李某持股的名义股东，且该董事 会召开时没通知希希。下列有关该诉讼的说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "李某是公司的实际出资人，有权向法院申请撤销该董事会决议"
+        },
+        {
+          "option_key": "B",
+          "option_text": "张某无权向法院申请撒销该董事会决议"
+        },
+        {
+          "option_key": "C",
+          "option_text": "该董事会决议无效"
+        },
+        {
+          "option_key": "D",
+          "option_text": "希希应在决议作出后6个月内向法院申请撒销该董事会决议"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-044",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "multiple_choice",
+      "source_page": 9,
+      "stem": "2016年，甲股份公司（以下简称甲公司）受到控股股东乙公司的操控，被非法挪用资金若干，甲公司因 为非法操纵证券市场价格被证监会处以巨额罚款，公司董事长及诸位高管纷纷被捕，公司经营处于瘫痪状 态，自此之后直至 2019年初，公司均再没有召开过股东会，持股10%和15%的股东张三和李四，想要转让 股份，其他股东和外部主体均无人购买，针对以上情况，下列说法不正确的是？（多）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "张三可以提请法院解散甲公司，并可同时申请人民法院对甲公司进行清算"
+        },
+        {
+          "option_key": "B",
+          "option_text": "李四请求法院解散甲公司，李四作为原告，甲公司为被告"
+        },
+        {
+          "option_key": "C",
+          "option_text": "张三要提起解散公司的诉讼，需要持股时间达到180天"
+        },
+        {
+          "option_key": "D",
+          "option_text": "如果公司尚在盈利，则法院不得受理股东提出的强制解散公司的请求"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-045",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 9,
+      "stem": "甲公司由唐某、刘某和陈某三名股东出资设立，乙公司损害了甲公司的利益，陈某向甲公司的董事会书 面申请要求对乙公司追责，但董事会一直不置可否。陈某遂以自己的名义起诉乙公司，要求其向甲公司赔 偿损失。诉讼中，原被告达成了调解协议。下列哪一条件成就时，人民法院才能出具调解书予以确认？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "须经甲公司同意"
+        },
+        {
+          "option_key": "B",
+          "option_text": "须经乙公司同意"
+        },
+        {
+          "option_key": "C",
+          "option_text": "须经唐某和刘某同意"
+        },
+        {
+          "option_key": "D",
+          "option_text": "须经陈某同意"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-046",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "question_type": "single_choice",
+      "source_page": 10,
+      "stem": "海航投资公司的股东为海航控股公司和赵小海，持股比例分别为60%、40%。皇城酒店公司系海航投资 APP 公司的全资子公司，被海航控股实际运营。海航投资公司及皇城酒店的董事、总经理等均为海航控股委派。 皇城酒店在运营期间，董事会将76 间客房处于闲置状态长达4年，造成损失4000余万元。法定代表人张 某违反公司章程，未经股东会决议擅自转让了皇城酒店的重要资产。赵小海欲为了皇城酒店的利益提起股 东代位诉讼。下列有关说法正确的是？（单）",
+      "answer_raw": "",
+      "source_title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "source_license_status": "unknown",
+      "source_review_status": "needs_human_review",
+      "options": [
+        {
+          "option_key": "A",
+          "option_text": "赵小海不是皇城酒店的股东，无权为了皇城酒店的利益提起股东代位诉讼"
+        },
+        {
+          "option_key": "B",
+          "option_text": "赵小海应先请求海航投资公司的监事会提起诉讼，被拒绝或不予答复的，才能以自己的名义提起诉讼"
+        },
+        {
+          "option_key": "C",
+          "option_text": "赵小海应先请求皇城酒店的监事会提起诉讼，被拒绝或不予答复的，才能以自己的名义提起诉讼"
+        },
+        {
+          "option_key": "D",
+          "option_text": "张某代表皇城酒店转让资产的行为无效"
+        }
+      ],
+      "review_status": "queued",
+      "review_note": ""
+    }
+  ]
+}

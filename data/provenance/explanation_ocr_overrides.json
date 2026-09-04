@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "status": "verified_ocr_source_overrides",
+  "items": [
+    {
+      "source_id": "june-five-subjects-mock",
+      "ocr_ref": "docs_materials/review/scanned/6月五大实体法模考-答案/ocr.txt",
+      "basis": "normalized explanation prefix exact match"
+    },
+    {
+      "source_id": "lijia-admin-daily",
+      "ocr_ref": "docs_materials/review/scanned/李佳每日一题-题目解析版/ocr.txt",
+      "basis": "normalized explanation prefix exact match"
+    },
+    {
+      "source_id": "bailangtao-criminal-daily-1-38-questions",
+      "ocr_ref": "docs_materials/review/scanned/柏浪涛-刑法每日一题-解析版-1至38/ocr.txt",
+      "basis": "normalized explanation prefix exact match"
+    },
+    {
+      "source_id": "bailangtao-criminal-daily-1-24-compiled",
+      "ocr_ref": "docs_materials/review/scanned/柏浪涛-刑法每日一题-解析版-1至38/ocr.txt",
+      "basis": "normalized explanation prefix exact match"
+    }
+  ]
+}

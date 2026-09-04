@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "status": "explanation_acquisition_queue",
+  "items": [
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "title": "郄鹏恩-公司法每日一题（完结）",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结",
+      "total": 61,
+      "missing_explanation": 61,
+      "ocr_explanation_markers": 0,
+      "recommendation": "补充解析版或专家讲解后回填"
+    },
+    {
+      "source_id": "menggui-2026-civil-common-sense",
+      "title": "孟献贵-2026民法常识选择题（1-38题）",
+      "archive_path": "docs_materials/review/scanned/孟献贵-2026民法常识选择题（1-38题）",
+      "total": 38,
+      "missing_explanation": 35,
+      "ocr_explanation_markers": 3,
+      "recommendation": "核对 OCR/答案解析版后回填"
+    },
+    {
+      "source_id": "deen-2025-recalled",
+      "title": "得恩法考 2025 年法考客观题考试回忆版真题",
+      "archive_path": "docs_materials/review/scanned/【得恩法考】2025年法考客观题考试回忆版真题",
+      "total": 12,
+      "missing_explanation": 12,
+      "ocr_explanation_markers": 0,
+      "recommendation": "补充解析版或专家讲解后回填"
+    },
+    {
+      "source_id": "qiepeng-en-partnership",
+      "title": "郄鹏恩-2026法考合伙企业法个独外商法每日一题",
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题",
+      "total": 12,
+      "missing_explanation": 11,
+      "ocr_explanation_markers": 1,
+      "recommendation": "核对 OCR/答案解析版后回填"
+    },
+    {
+      "source_id": "menggui-civil-commercial-mock",
+      "title": "孟献贵-2026民商法模拟考试卷（第一期）",
+      "archive_path": "docs_materials/review/scanned/孟献贵-26民商法模拟考试卷-答案解析",
+      "total": 24,
+      "missing_explanation": 10,
+      "ocr_explanation_markers": 10,
+      "recommendation": "核对 OCR/答案解析版后回填"
+    },
+    {
+      "source_id": "menggui-2026-civil-commercial-daily",
+      "title": "孟献贵-2026民商法每日一题（1-160）",
+      "archive_path": "docs_materials/review/scanned/孟献贵-2026民商法每日一题-1至160",
+      "total": 163,
+      "missing_explanation": 4,
+      "ocr_explanation_markers": 0,
+      "recommendation": "补充解析版或专家讲解后回填"
+    }
+  ],
+  "missing_explanation": 133
+}

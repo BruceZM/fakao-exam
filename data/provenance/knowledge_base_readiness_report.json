@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "status": "knowledge_base_readiness_report",
+  "totals": {
+    "sources": 37,
+    "questions": 1117,
+    "options": 3781,
+    "knowledge_links": 2695,
+    "statute_links": 588,
+    "fts_rows": 1117,
+    "answered": 1041,
+    "explained": 984,
+    "needs_review": 1117,
+    "questions_with_knowledge": 1117,
+    "questions_with_statute": 197,
+    "missing_year": 854,
+    "missing_source_page": 0,
+    "materials": 80,
+    "reference_documents": 38,
+    "reference_documents_fts_rows": 38,
+    "materials_duplicate_of_scanned": 28,
+    "materials_scanned_archive": 52
+  },
+  "coverage": {
+    "answer_rate": 0.932,
+    "explanation_rate": 0.8809,
+    "knowledge_link_rate": 1.0,
+    "statute_link_rate": 0.1764
+  },
+  "subjects": [
+    {
+      "subject": "刑法",
+      "n": 588,
+      "answered": 588,
+      "explained": 585,
+      "answer_rate": 1.0,
+      "explanation_rate": 0.9949,
+      "sources": 7,
+      "tagged_questions": 588,
+      "untagged_questions": 0,
+      "tag_rate": 1.0
+    },
+    {
+      "subject": "民法",
+      "n": 338,
+      "answered": 334,
+      "explained": 289,
+      "answer_rate": 0.9882,
+      "explanation_rate": 0.855,
+      "sources": 9,
+      "tagged_questions": 338,
+      "untagged_questions": 0,
+      "tag_rate": 1.0
+    },
+    {
+      "subject": "商经知",
+      "n": 73,
+      "answered": 1,
+      "explained": 1,
+      "answer_rate": 0.0137,
+      "explanation_rate": 0.0137,
+      "sources": 3,
+      "tagged_questions": 73,
+      "untagged_questions": 0,
+      "tag_rate": 1.0
+    },
+    {
+      "subject": "民诉法",
+      "n": 72,
+      "answered": 72,
+      "explained": 72,
+      "answer_rate": 1.0,
+      "explanation_rate": 1.0,
+      "sources": 9,
+      "tagged_questions": 72,
+      "untagged_questions": 0,
+      "tag_rate": 1.0
+    },
+    {
+      "subject": "行政法",
+      "n": 28,
+      "answered": 28,
+      "explained": 25,
+      "answer_rate": 1.0,
+      "explanation_rate": 0.8929,
+      "sources": 3,
+      "tagged_questions": 28,
+      "untagged_questions": 0,
+      "tag_rate": 1.0
+    },
+    {
+      "subject": "刑诉法",
+      "n": 11,
+      "answered": 11,
+      "explained": 8,
+      "answer_rate": 1.0,
+      "explanation_rate": 0.7273,
+      "sources": 1,
+      "tagged_questions": 11,
+      "untagged_questions": 0,
+      "tag_rate": 1.0
+    },
+    {
+      "subject": "理论法",
+      "n": 7,
+      "answered": 7,
+      "explained": 4,
+      "answer_rate": 1.0,
+      "explanation_rate": 0.5714,
+      "sources": 1,
+      "tagged_questions": 7,
+      "untagged_questions": 0,
+      "tag_rate": 1.0
+    }
+  ],
+  "stages": [
+    {
+      "stage": "objective",
+      "n": 1019
+    },
+    {
+      "stage": "objective_subjective_common",
+      "n": 84
+    },
+    {
+      "stage": "subjective",
+      "n": 14
+    }
+  ],
+  "question_types": [
+    {
+      "question_type": "single_choice",
+      "n": 652
+    },
+    {
+      "question_type": "multiple_choice",
+      "n": 310
+    },
+    {
+      "question_type": "short_answer",
+      "n": 94
+    },
+    {
+      "question_type": "true_false",
+      "n": 57
+    },
+    {
+      "question_type": "case_analysis",
+      "n": 4
+    }
+  ],
+  "notes": [
+    "所有资料已完成文件级扫描归档；重复候选和 OCR/答案问题仍需人工复核。",
+    "参考笔记已登记为来源，不直接伪装成题目或标准答案。",
+    "覆盖率按当前结构化题目计算，不代表法律正确性或商业授权已确认。",
+    "objective_subjective_common 表示原资料同时包含客观与主观训练内容，组卷时应按 question_type 进一步筛选。"
+  ]
+}

@@ -1,0 +1,3259 @@
+{
+  "schema_version": 1,
+  "status": "statute_review_queue",
+  "summary": {
+    "items": 246,
+    "flagged": 8,
+    "questions_referenced": 124
+  },
+  "items": [
+    {
+      "statute_id": "candidate-0004",
+      "canonical_candidate": "《刑法》第十七条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-027",
+        "xuguanghua-criminal-heavy-028",
+        "xuguanghua-criminal-heavy-030",
+        "xuguanghua-criminal-heavy-031"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 4,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0077",
+      "canonical_candidate": "《刑法》第一百四十三条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-147",
+        "xuguanghua-criminal-heavy-148",
+        "xuguanghua-criminal-heavy-149"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 3,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0099",
+      "canonical_candidate": "《刑法》第三百八十五条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-149",
+        "xuguanghua-criminal-heavy-175",
+        "xuguanghua-criminal-heavy-180"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 3,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0119",
+      "canonical_candidate": "《刑法》第二百八十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-069",
+        "xuguanghua-criminal-heavy-108",
+        "xuguanghua-criminal-heavy-122"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 3,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0123",
+      "canonical_candidate": "《刑法》第二百六十三条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-001",
+        "xuguanghua-criminal-heavy-087",
+        "xuguanghua-criminal-heavy-120"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 3,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0124",
+      "canonical_candidate": "《刑法》第二百六十九条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-117",
+        "xuguanghua-criminal-heavy-119",
+        "xuguanghua-criminal-heavy-120"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 3,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0013",
+      "canonical_candidate": "《关于办理涉窨井盖相关刑事案件的指导意见》第一条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-140",
+        "xuguanghua-criminal-heavy-032"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0056",
+      "canonical_candidate": "《刑法》第238条",
+      "question_ids": [
+        "bailangtao-criminal-daily-1-14-001",
+        "june-five-subjects-mock-063"
+      ],
+      "source_ids": [
+        "bailangtao-criminal-daily-1-14",
+        "june-five-subjects-mock"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0062",
+      "canonical_candidate": "《刑法》第287条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-158",
+        "xuguanghua-criminal-heavy-187"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0063",
+      "canonical_candidate": "《刑法》第29条第1款",
+      "question_ids": [
+        "luyao-criminal-general-189",
+        "luyao-criminal-general-201"
+      ],
+      "source_ids": [
+        "luyao-criminal-general"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0078",
+      "canonical_candidate": "《刑法》第一百四十九条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-147",
+        "xuguanghua-criminal-heavy-149"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0082",
+      "canonical_candidate": "《刑法》第七十四条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-090",
+        "xuguanghua-criminal-heavy-092"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0003",
+      "canonical_candidate": "《刑法》第三十条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-076",
+        "xuguanghua-criminal-heavy-077"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0095",
+      "canonical_candidate": "《刑法》第三百八十三条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-168",
+        "xuguanghua-criminal-heavy-175"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0098",
+      "canonical_candidate": "《刑法》第三百八十二条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-149",
+        "xuguanghua-criminal-heavy-175"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0100",
+      "canonical_candidate": "《刑法》第三百八十四条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-162",
+        "xuguanghua-criminal-heavy-175"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0107",
+      "canonical_candidate": "《刑法》第二十条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-039",
+        "xuguanghua-criminal-heavy-052"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0033",
+      "canonical_candidate": "《刑法》第二百三十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-087",
+        "xuguanghua-criminal-heavy-003"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0121",
+      "canonical_candidate": "《刑法》第二百六十一条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-013",
+        "xuguanghua-criminal-heavy-136"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0135",
+      "canonical_candidate": "《刑法》第八十一条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-090",
+        "xuguanghua-criminal-heavy-093"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0136",
+      "canonical_candidate": "《刑法》第八十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-095",
+        "xuguanghua-criminal-heavy-096"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0147",
+      "canonical_candidate": "《刑法》第六十六条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-090",
+        "xuguanghua-criminal-heavy-092"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0178",
+      "canonical_candidate": "《民事诉讼法》第166条",
+      "question_ids": [
+        "june-five-subjects-mock-021",
+        "june-five-subjects-mock-075"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 2,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0002",
+      "canonical_candidate": "《中华人民共和国人民警察法》第十九条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-009"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0005",
+      "canonical_candidate": "《公司法》第十四条第一款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-004"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0007",
+      "canonical_candidate": "《关于〈刑法》第三百八十四条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-173"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0008",
+      "canonical_candidate": "《关于依法惩处侵害公民个人信息犯罪活动的通知》第二条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-122"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0009",
+      "canonical_candidate": "《关于依法惩治妨害新型冠状病毒感染肺炎疫情防控违法犯罪的意见》第二条第一款第二项",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-185"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0010",
+      "canonical_candidate": "《关于依法惩治妨害新型冠状病毒感染肺炎疫情防控违法犯罪的意见》第二条第七款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-185"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0011",
+      "canonical_candidate": "《关于办理受贿刑事案件适用法律若干问题的意见》第8条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-164"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0012",
+      "canonical_candidate": "《关于办理商业贿赂刑事案件适用法律若干问题的意见》第四条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-149"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0014",
+      "canonical_candidate": "《关于办理渎职刑事案件适用法律若干问题的解释》第三条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-180"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0017",
+      "canonical_candidate": "《关于办理盗窃刑事案件适用法律若干问题的解释》第3条第2款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-099"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0015",
+      "canonical_candidate": "《关于办理盗窃刑事案件适用法律若干问题的解释》第3条第3款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-099"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0016",
+      "canonical_candidate": "《关于办理盗窃刑事案件适用法律若干问题的解释》第3条第4款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-099"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0006",
+      "canonical_candidate": "《关于办理虚假诉讼刑事案件适用法律若干问题的解释》第七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-113"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0018",
+      "canonical_candidate": "《关于办理诈骗刑事案件具体应用法律若干问题的解释》第7条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-098"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0020",
+      "canonical_candidate": "《关于办理贪污贿赂刑事案件适用法律若干问题的解释》第一条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-182"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0021",
+      "canonical_candidate": "《关于办理贪污贿赂刑事案件适用法律若干问题的解释》第七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-182"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0019",
+      "canonical_candidate": "《关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十六条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-180"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0022",
+      "canonical_candidate": "《关于如何理解和适用1997〈刑法》第十二条第一款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-096"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0023",
+      "canonical_candidate": "《关于审理交通肇事刑事案件具体应用法律若干问题的解释》第七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-037"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0024",
+      "canonical_candidate": "《关于审理交通肇事刑事案件具体应用法律若干问题的解释》第二条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-028"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0025",
+      "canonical_candidate": "《关于审理抢劫、抢夺刑事案件适用法律若干规定问题的意见》第八条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-118"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0026",
+      "canonical_candidate": "《关于审理抢劫刑事案件适用法律若干问题的指导意见》第三条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-117"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0027",
+      "canonical_candidate": "《关于审理抢劫刑事案件适用法律若干问题的指导意见》第二条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-120"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0028",
+      "canonical_candidate": "《关于审理抢劫案件具体应用法律若干问题的解释》第三条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-001"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0029",
+      "canonical_candidate": "《关于审理挪用公款案件具体应用法律若干问题的解释》第六条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-175"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0030",
+      "canonical_candidate": "《出境入境管理法》第64条",
+      "question_ids": [
+        "june-five-subjects-mock-022"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0035",
+      "canonical_candidate": "《刑事诉讼法》第122条",
+      "question_ids": [
+        "june-five-subjects-mock-089"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0036",
+      "canonical_candidate": "《刑事诉讼法》第124条",
+      "question_ids": [
+        "june-five-subjects-mock-089"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0037",
+      "canonical_candidate": "《刑事诉讼法》第142条",
+      "question_ids": [
+        "june-five-subjects-mock-089"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0038",
+      "canonical_candidate": "《刑事诉讼法》第160条第2款",
+      "question_ids": [
+        "june-five-subjects-mock-089"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0039",
+      "canonical_candidate": "《刑事诉讼法》第231条第1款",
+      "question_ids": [
+        "june-five-subjects-mock-032"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0040",
+      "canonical_candidate": "《刑事诉讼法》第236条",
+      "question_ids": [
+        "june-five-subjects-mock-032"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0041",
+      "canonical_candidate": "《刑事诉讼法》第238条",
+      "question_ids": [
+        "june-five-subjects-mock-032"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0042",
+      "canonical_candidate": "《刑事诉讼法》第243条",
+      "question_ids": [
+        "june-five-subjects-mock-032"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0043",
+      "canonical_candidate": "《刑事诉讼法》第65条",
+      "question_ids": [
+        "june-five-subjects-mock-034"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0044",
+      "canonical_candidate": "《刑事诉讼法》第一百五十四条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-001"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0045",
+      "canonical_candidate": "《刑法》第107条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-159"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0046",
+      "canonical_candidate": "《刑法》第114条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-141"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0031",
+      "canonical_candidate": "《刑法》第133条",
+      "question_ids": [
+        "luyao-criminal-general-143"
+      ],
+      "source_ids": [
+        "luyao-criminal-general"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0047",
+      "canonical_candidate": "《刑法》第142条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-148"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0048",
+      "canonical_candidate": "《刑法》第166条",
+      "question_ids": [
+        "june-five-subjects-mock-093"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0049",
+      "canonical_candidate": "《刑法》第168条",
+      "question_ids": [
+        "june-five-subjects-mock-093"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0050",
+      "canonical_candidate": "《刑法》第20条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-046"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0051",
+      "canonical_candidate": "《刑法》第20条第1款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-047"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0052",
+      "canonical_candidate": "《刑法》第21条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-046"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0053",
+      "canonical_candidate": "《刑法》第234条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-058"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0054",
+      "canonical_candidate": "《刑法》第236条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-131"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0055",
+      "canonical_candidate": "《刑法》第237条",
+      "question_ids": [
+        "bailangtao-criminal-daily-1-14-001"
+      ],
+      "source_ids": [
+        "bailangtao-criminal-daily-1-14"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0057",
+      "canonical_candidate": "《刑法》第238条第2款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-187"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0058",
+      "canonical_candidate": "《刑法》第24条第2款",
+      "question_ids": [
+        "luyao-criminal-general-164"
+      ],
+      "source_ids": [
+        "luyao-criminal-general"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0059",
+      "canonical_candidate": "《刑法》第267条第2款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-101"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0060",
+      "canonical_candidate": "《刑法》第269条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-101"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0061",
+      "canonical_candidate": "《刑法》第286条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-158"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0064",
+      "canonical_candidate": "《刑法》第329条",
+      "question_ids": [
+        "june-five-subjects-mock-054"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0065",
+      "canonical_candidate": "《刑法》第329条第1款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-002"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0066",
+      "canonical_candidate": "《刑法》第388条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-165"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0067",
+      "canonical_candidate": "《刑法》第49条",
+      "question_ids": [
+        "luyao-criminal-general-228"
+      ],
+      "source_ids": [
+        "luyao-criminal-general"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0068",
+      "canonical_candidate": "《刑法》第一百一十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-032"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0069",
+      "canonical_candidate": "《刑法》第一百一十九条第一款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-032"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0070",
+      "canonical_candidate": "《刑法》第一百一十四条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-027"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0071",
+      "canonical_candidate": "《刑法》第一百七十一条",
+      "question_ids": [
+        "luyao-criminal-general-006"
+      ],
+      "source_ids": [
+        "luyao-criminal-general"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0072",
+      "canonical_candidate": "《刑法》第一百三十三条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-081"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0073",
+      "canonical_candidate": "《刑法》第一百三十四条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-140"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0074",
+      "canonical_candidate": "《刑法》第一百九十一条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-147"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0075",
+      "canonical_candidate": "《刑法》第一百九十六条第一款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-146"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0076",
+      "canonical_candidate": "《刑法》第一百九十六条第三款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-147"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0079",
+      "canonical_candidate": "《刑法》第七十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-096"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0080",
+      "canonical_candidate": "《刑法》第七十二条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-092"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0081",
+      "canonical_candidate": "《刑法》第七十八条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-093"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0083",
+      "canonical_candidate": "《刑法》第七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-004"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0084",
+      "canonical_candidate": "《刑法》第三十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-158"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0085",
+      "canonical_candidate": "《刑法》第三百一十三条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-077"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0086",
+      "canonical_candidate": "《刑法》第三百一十八条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-157"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0032",
+      "canonical_candidate": "《刑法》第三百一十条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-068"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0087",
+      "canonical_candidate": "《刑法》第三百三十条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-185"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0088",
+      "canonical_candidate": "《刑法》第三百九十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-185"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0089",
+      "canonical_candidate": "《刑法》第三百九十四条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-007"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0090",
+      "canonical_candidate": "《刑法》第三百九十条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-182"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0091",
+      "canonical_candidate": "《刑法》第三百二十八条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-160"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0092",
+      "canonical_candidate": "《刑法》第三百二十八条第1款第4项",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-160"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0093",
+      "canonical_candidate": "《刑法》第三百二十六条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-160"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0094",
+      "canonical_candidate": "《刑法》第三百五十八条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-137"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0096",
+      "canonical_candidate": "《刑法》第三百八十三条第一款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-182"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0097",
+      "canonical_candidate": "《刑法》第三百八十九条第三款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-006"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0101",
+      "canonical_candidate": "《刑法》第三百六十四条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-003"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0102",
+      "canonical_candidate": "《刑法》第三百四十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-085"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0001",
+      "canonical_candidate": "《刑法》第九十三条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-149"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0103",
+      "canonical_candidate": "《刑法》第二十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-065"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0104",
+      "canonical_candidate": "《刑法》第二十九条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-155"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0105",
+      "canonical_candidate": "《刑法》第二十五条第一款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-037"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0106",
+      "canonical_candidate": "《刑法》第二十五条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-037"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0108",
+      "canonical_candidate": "《刑法》第二十条第一款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-055"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0109",
+      "canonical_candidate": "《刑法》第二十条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-055"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0110",
+      "canonical_candidate": "《刑法》第二百七十一条第一款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-128"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0111",
+      "canonical_candidate": "《刑法》第二百七十条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-125"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0112",
+      "canonical_candidate": "《刑法》第二百三十九条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-134"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0113",
+      "canonical_candidate": "《刑法》第二百三十八条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-187"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0034",
+      "canonical_candidate": "《刑法》第二百九十一条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-154"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0114",
+      "canonical_candidate": "《刑法》第二百九十二条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-155"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0115",
+      "canonical_candidate": "《刑法》第二百二十一条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-135"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0116",
+      "canonical_candidate": "《刑法》第二百二十五条第三项",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-150"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0117",
+      "canonical_candidate": "《刑法》第二百五十三条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-140"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0118",
+      "canonical_candidate": "《刑法》第二百五十八条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-004"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0120",
+      "canonical_candidate": "《刑法》第二百八十条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-113"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0122",
+      "canonical_candidate": "《刑法》第二百六十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-105"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0125",
+      "canonical_candidate": "《刑法》第二百六十六条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-006"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0126",
+      "canonical_candidate": "《刑法》第二百六十四条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-064"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0127",
+      "canonical_candidate": "《刑法》第二百六十条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-138"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0128",
+      "canonical_candidate": "《刑法》第二百六十条第一款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-130"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0129",
+      "canonical_candidate": "《刑法》第二百六十条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-130"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0130",
+      "canonical_candidate": "《刑法》第二百四十一条第五款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-138"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0131",
+      "canonical_candidate": "《刑法》第二百四十六条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-003"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0132",
+      "canonical_candidate": "《刑法》第二百四十条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-136"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0133",
+      "canonical_candidate": "《刑法》第五十条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-090"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0134",
+      "canonical_candidate": "《刑法》第八十一条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-093"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0137",
+      "canonical_candidate": "《刑法》第八十九条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-096"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0138",
+      "canonical_candidate": "《刑法》第八十九条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-096"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0139",
+      "canonical_candidate": "《刑法》第八十八条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-096"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0140",
+      "canonical_candidate": "《刑法》第八十六条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-094"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0141",
+      "canonical_candidate": "《刑法》第八十六条第一款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-094"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0142",
+      "canonical_candidate": "《刑法》第八十六条第三款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-094"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0143",
+      "canonical_candidate": "《刑法》第八十六条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-094"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0144",
+      "canonical_candidate": "《刑法》第八条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-004"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0145",
+      "canonical_candidate": "《刑法》第六十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-088"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0146",
+      "canonical_candidate": "《刑法》第六十五条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-092"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0148",
+      "canonical_candidate": "《刑法》第六条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-004"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0149",
+      "canonical_candidate": "《刑法》第十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-027"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0150",
+      "canonical_candidate": "《刑法》第十七条第三款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-027"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0151",
+      "canonical_candidate": "《刑法》第十七条第四款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-096"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0152",
+      "canonical_candidate": "《刑法》第十九条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-028"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0153",
+      "canonical_candidate": "《刑法》第十四条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-033"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0154",
+      "canonical_candidate": "《刑法》第四十九条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-001"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0155",
+      "canonical_candidate": "《刑法》第四十九条第一款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-096"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0156",
+      "canonical_candidate": "《刑法》第四十九条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-031"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0157",
+      "canonical_candidate": "《刑法》第四十四条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-001"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0158",
+      "canonical_candidate": "《刑法》第四百一十七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-185"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0159",
+      "canonical_candidate": "《刑法修正案(十一)》第一条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-030"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0160",
+      "canonical_candidate": "《刑诉法》第16条",
+      "question_ids": [
+        "june-five-subjects-mock-028"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0161",
+      "canonical_candidate": "《刑诉解释》第256条第2款",
+      "question_ids": [
+        "june-five-subjects-mock-034"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0162",
+      "canonical_candidate": "《刑诉解释》第91条",
+      "question_ids": [
+        "june-five-subjects-mock-034"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0163",
+      "canonical_candidate": "《办理利用网络犯罪案件解释》第十条第四项",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-108"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0164",
+      "canonical_candidate": "《商品房买卖合同司法解释》第11条",
+      "question_ids": [
+        "june-five-subjects-mock-029"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0165",
+      "canonical_candidate": "《妨害边境案件解释》第一条第三款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-157"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0166",
+      "canonical_candidate": "《妨害边境案件解释》第七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-157"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0167",
+      "canonical_candidate": "《录高人民法院关于适用(刑事诉讼法)的解释》第一百八十一条第六项",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-187"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0168",
+      "canonical_candidate": "《律师法》第32条",
+      "question_ids": [
+        "june-five-subjects-mock-046"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0170",
+      "canonical_candidate": "《敬高人民法院关于处理自首和立功具体应用法律若千问题的解释》第一条第二项",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-187"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0172",
+      "canonical_candidate": "《最高人民法院、最高人民检察院、公安部关于依法适用正当防卫制度的指导意见》第6条",
+      "question_ids": [
+        "luyao-criminal-general-085"
+      ],
+      "source_ids": [
+        "luyao-criminal-general"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0173",
+      "canonical_candidate": "《最高人民法院、最高人民检察院关于办理抢夺刑事案件适用法律若干问题的解释》第六条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-105"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0174",
+      "canonical_candidate": "《最高人民法院、最高人民检察院关于办理袭警刑事案件适用法律若干问题的解释》第八条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-156"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0175",
+      "canonical_candidate": "《最高人民法院关于办理减刑、假释案件具体应用法律的规定》第三条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-093"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0171",
+      "canonical_candidate": "《最高人民法院关于审理编造、故意传播虚假恐怖信息刑事案件适用法律若干问题的解释》第二条第一项",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-058"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0176",
+      "canonical_candidate": "《民事诉讼法》第109条",
+      "question_ids": [
+        "june-five-subjects-mock-047"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0177",
+      "canonical_candidate": "《民事诉讼法》第160条第1款",
+      "question_ids": [
+        "june-five-subjects-mock-075"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0179",
+      "canonical_candidate": "《民事诉讼法》第41条",
+      "question_ids": [
+        "june-five-subjects-mock-075"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0180",
+      "canonical_candidate": "《民法典》第1059条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-008"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0181",
+      "canonical_candidate": "《民法典》第1121条第1款",
+      "question_ids": [
+        "june-five-subjects-mock-084"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0182",
+      "canonical_candidate": "《民法典》第1125条第1款",
+      "question_ids": [
+        "june-five-subjects-mock-084"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0183",
+      "canonical_candidate": "《民法典》第1142条第2款",
+      "question_ids": [
+        "june-five-subjects-mock-084"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0184",
+      "canonical_candidate": "《民法典》第191条",
+      "question_ids": [
+        "june-five-subjects-mock-036"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0185",
+      "canonical_candidate": "《民法典》第226条",
+      "question_ids": [
+        "june-five-subjects-mock-051"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0186",
+      "canonical_candidate": "《民法典》第36条",
+      "question_ids": [
+        "june-five-subjects-mock-036"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0187",
+      "canonical_candidate": "《民法典》第38条",
+      "question_ids": [
+        "june-five-subjects-mock-036"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0188",
+      "canonical_candidate": "《民法典》第527条",
+      "question_ids": [
+        "june-five-subjects-mock-077"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0189",
+      "canonical_candidate": "《民法典》第528条",
+      "question_ids": [
+        "june-five-subjects-mock-077"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0190",
+      "canonical_candidate": "《民法典》第604条",
+      "question_ids": [
+        "june-five-subjects-mock-051"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0191",
+      "canonical_candidate": "《民法典》第810条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-010"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0192",
+      "canonical_candidate": "《民法典》第二十六条第二款",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-012"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0193",
+      "canonical_candidate": "《民法典合同编通则解释》第27条",
+      "question_ids": [
+        "june-five-subjects-mock-091"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0194",
+      "canonical_candidate": "《民法典合同编通则解释》第28条",
+      "question_ids": [
+        "june-five-subjects-mock-091"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0195",
+      "canonical_candidate": "《民法典合同编通则解释》第38条",
+      "question_ids": [
+        "june-five-subjects-mock-001"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0196",
+      "canonical_candidate": "《民法典担保制度司法解释》第21条",
+      "question_ids": [
+        "june-five-subjects-mock-069"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0197",
+      "canonical_candidate": "《民诉解释》第257条",
+      "question_ids": [
+        "june-five-subjects-mock-075"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0198",
+      "canonical_candidate": "《治安管理处罚法》第120条",
+      "question_ids": [
+        "june-five-subjects-mock-011"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0199",
+      "canonical_candidate": "《治安管理处罚法》第88条",
+      "question_ids": [
+        "june-five-subjects-mock-011"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0200",
+      "canonical_candidate": "《租赁房屋治安管理规定》第七条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-037"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0201",
+      "canonical_candidate": "《立法法》第91条",
+      "question_ids": [
+        "june-five-subjects-mock-071"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0202",
+      "canonical_candidate": "《药品管理法》第48条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-148"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0205",
+      "canonical_candidate": "《行政处罚法》第43条",
+      "question_ids": [
+        "deen-2025-recalled-008"
+      ],
+      "source_ids": [
+        "deen-2025-recalled"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0206",
+      "canonical_candidate": "《行政处罚法》第63条第1款",
+      "question_ids": [
+        "lijia-admin-daily-004"
+      ],
+      "source_ids": [
+        "lijia-admin-daily"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0207",
+      "canonical_candidate": "《行政复议法》第23条",
+      "question_ids": [
+        "june-five-subjects-mock-011"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0203",
+      "canonical_candidate": "《行政复议法》第51条第3款",
+      "question_ids": [
+        "june-five-subjects-mock-090"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0208",
+      "canonical_candidate": "《行政诉讼法》第26条第2款",
+      "question_ids": [
+        "june-five-subjects-mock-020"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0209",
+      "canonical_candidate": "《行政诉讼法》第77条第1款",
+      "question_ids": [
+        "june-five-subjects-mock-020"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0210",
+      "canonical_candidate": "《行政诉讼法司法解释》第104条第1款",
+      "question_ids": [
+        "june-five-subjects-mock-018"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0204",
+      "canonical_candidate": "《行政诉讼法司法解释》第134条第3款",
+      "question_ids": [
+        "june-five-subjects-mock-090"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0211",
+      "canonical_candidate": "《行政诉讼法司法解释》第22条第3款",
+      "question_ids": [
+        "june-five-subjects-mock-090"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0212",
+      "canonical_candidate": "《行政赔偿司法解释》第15条",
+      "question_ids": [
+        "june-five-subjects-mock-066"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0213",
+      "canonical_candidate": "《行政赔偿司法解释》第29条",
+      "question_ids": [
+        "june-five-subjects-mock-066"
+      ],
+      "source_ids": [
+        "june-five-subjects-mock"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0214",
+      "canonical_candidate": "《警察法》第19条",
+      "question_ids": [
+        "luyao-criminal-general-048"
+      ],
+      "source_ids": [
+        "luyao-criminal-general"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0216",
+      "canonical_candidate": "《道路交通安全法》第119条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-143"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0217",
+      "canonical_candidate": "《道路交通安全法》第七十条",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-091"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0218",
+      "canonical_candidate": "最高人民检察院《关于办理受贿刑事案件适用法律若干问题的意见》第8条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-164"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0220",
+      "canonical_candidate": "最高人民法院、最高人民检察院、公安部《关于办理帮助信息网络犯罪活动等刑事案件有关问题的意见》第8条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-187"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0222",
+      "canonical_candidate": "最高人民法院、最高人民检察院、公安部关于印发《关于办理涉窨井盖相关刑事案件的指导意见》第一条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-140"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0227",
+      "canonical_candidate": "最高人民法院、最高人民检察院《关于办理盗窃刑事案件适用法律若干问题的解释》第3条第2款规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-099"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0225",
+      "canonical_candidate": "最高人民法院、最高人民检察院《关于办理盗窃刑事案件适用法律若干问题的解释》第3条第3款规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-099"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0226",
+      "canonical_candidate": "最高人民法院、最高人民检察院《关于办理盗窃刑事案件适用法律若干问题的解释》第3条第4款规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-099"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0224",
+      "canonical_candidate": "最高人民法院、最高人民检察院《关于办理虚假诉讼刑事案件适用法律若干问题的解释》第七条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-113"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0228",
+      "canonical_candidate": "最高人民法院、最高人民检察院《关于办理诈骗刑事案件具体应用法律若干问题的解释》第7条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-098"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0230",
+      "canonical_candidate": "最高人民法院、最高人民检察院《关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十三条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-180"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0229",
+      "canonical_candidate": "最高人民法院、最高人民检察院《关于办理贪污贿赂刑事案件适用法律若干问题的解释》第十六条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-180"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0233",
+      "canonical_candidate": "最高人民法院《关于审理交通肇事刑事案件具体应用法律若干问题的解释》第七条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-037"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0219",
+      "canonical_candidate": "最高人民法院《关于审理交通肇事刑事案件具体应用法律若干问题的解释》第二条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-028"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0234",
+      "canonical_candidate": "最高人民法院《关于审理抢劫、抢夺刑事案件适用法律若干规定问题的意见》第八条的规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-118"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0235",
+      "canonical_candidate": "最高人民法院《关于审理抢劫、抢夺刑事案件适用法律若干规定问题的意见》第八条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-118"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0236",
+      "canonical_candidate": "最高人民法院《关于审理抢劫刑事案件适用法律若干问题的指导意见》第三条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-117"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0237",
+      "canonical_candidate": "最高人民法院《关于审理抢劫刑事案件适用法律若干问题的指导意见》第二条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-120"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0238",
+      "canonical_candidate": "最高人民法院《关于审理抢劫案件具体应用法律若干问题的解释》第三条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-001"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0239",
+      "canonical_candidate": "最高人民法院《关于审理挪用公款案件具体应用法律若干问题的解释》第六条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-175"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0240",
+      "canonical_candidate": "最高人民法院《关于审理未成年人刑事案件具体应用法律若干问题的解释》第二条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-027"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0241",
+      "canonical_candidate": "最高人民法院《关于审理未成年人刑事案件具体应用法律若干问题的解释》第四条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-030"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0242",
+      "canonical_candidate": "最高人民法院《关于审理破坏电力设备刑事案件具体应用法律若干问题的解释》第四条规定：“本解释",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-140"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0244",
+      "canonical_candidate": "最高人民法院关于印发《全国部分法院审理毒品犯罪案件工作座谈会纪要》的通知第一条指出：“刑法第三百四十七条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-085"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0245",
+      "canonical_candidate": "最高人民法院研究室《关于如何理解和适用1997〈刑法》第十二条第一款规定有关时效问题征求意见",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-096"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0169",
+      "canonical_candidate": "《政治与法律｝2011年第8期。参见张明楷：《事后抢动罪的成立条件)，救《法学家｝2013年第5期。参见《刑事审判参考》",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-101"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [
+        "malformed_brackets"
+      ],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0215",
+      "canonical_candidate": "《贪污罪论要——兼论＜刑法＞第394条之适用)，载《中国法学》",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-007"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [
+        "malformed_brackets"
+      ],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0246",
+      "canonical_candidate": "最高人民法院(关于人民法院审判严重刑事犯罪案件中具体应用法律的若干问题的答复》：“三、问：《刑法》第四十四条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-001"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [
+        "malformed_brackets"
+      ],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0221",
+      "canonical_candidate": "最高人民法院、最高人民检察院、公安部关于依法适用正当防卫制度的指导意见》第6条规定",
+      "question_ids": [
+        "luyao-criminal-general-085"
+      ],
+      "source_ids": [
+        "luyao-criminal-general"
+      ],
+      "question_count": 1,
+      "flags": [
+        "malformed_brackets"
+      ],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0223",
+      "canonical_candidate": "最高人民法院、最高人民检察院、公安部关于当前办理强奸案件中具体应用法律若干问题的解答》(1984年4月26日)第4条曾明确解释",
+      "question_ids": [
+        "luyao-criminal-general-010"
+      ],
+      "source_ids": [
+        "luyao-criminal-general"
+      ],
+      "question_count": 1,
+      "flags": [
+        "malformed_brackets"
+      ],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0231",
+      "canonical_candidate": "最高人民法院、最高人民检察院关于办理抢夺刑事案件适用法律若干问题的解释》第六条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-105"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [
+        "malformed_brackets"
+      ],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0232",
+      "canonical_candidate": "最高人民法院、最高人民检察院关于办理袭警刑事案件适用法律若干问题的解释》第八条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-156"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [
+        "malformed_brackets"
+      ],
+      "status": "needs_legal_review"
+    },
+    {
+      "statute_id": "candidate-0243",
+      "canonical_candidate": "最高人民法院关于办理减刑、假释案件具体应用法律的规定》第三条规定",
+      "question_ids": [
+        "xuguanghua-criminal-heavy-093"
+      ],
+      "source_ids": [
+        "xuguanghua-criminal-heavy"
+      ],
+      "question_count": 1,
+      "flags": [
+        "malformed_brackets"
+      ],
+      "status": "needs_legal_review"
+    }
+  ],
+  "notes": [
+    "候选法条仅来自资料中出现的引用；法律名称、条文和适用版本必须由法律专业人员核验。"
+  ]
+}

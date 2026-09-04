@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "status": "candidate_external_answer_sources",
+  "retrieved_at": "2026-09-03",
+  "items": [
+    {
+      "source_id": "qiepeng-en-company-law-daily",
+      "title": "郄鹏恩公司法每日一题汇总（题目+答案链接）",
+      "url": "https://www.sina.cn/news/detail/5305405905046965.html",
+      "discovered_via": "公开网页搜索",
+      "authorization_status": "unknown",
+      "verification_status": "not_imported",
+      "notes": "页面摘要显示公司法每日一题1-61含答案链接；需逐链接核验内容、题号、来源和授权后再入库。"
+    },
+    {
+      "source_id": "qiepeng-en-partnership",
+      "title": "郄鹏恩法考商经法每日一题汇总（含合伙企业法答案链接）",
+      "url": "https://www.sina.cn/media/2042198575",
+      "discovered_via": "公开网页搜索",
+      "authorization_status": "unknown",
+      "verification_status": "not_imported",
+      "notes": "页面摘要显示合伙企业法每日一题答案链接；需逐链接核验内容、题号、来源和授权后再入库。"
+    },
+    {
+      "source_id": "qiepeng-en-partnership",
+      "title": "郄鹏恩合伙企业法个独外商法每日一题视频答案解析",
+      "url": "https://www.bilibili.com/video/BV11TLy6gEdz/",
+      "discovered_via": "已归档 OCR 文本中的视频入口",
+      "authorization_status": "unknown",
+      "verification_status": "not_imported",
+      "notes": "仅登记视频证据入口；需人工观看核对题号、答案和解析，并确认授权后再考虑接入。"
+    }
+  ]
+}

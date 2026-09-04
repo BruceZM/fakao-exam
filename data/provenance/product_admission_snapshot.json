@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "status": "product_admission_snapshot",
+  "summary": {
+    "questions": 1117,
+    "admitted": 0,
+    "blocked": 1117,
+    "reasons": {
+      "license_status=unknown;review_status=needs_human_review": 1117
+    }
+  },
+  "admitted_question_ids": [],
+  "notes": [
+    "准入仅在来源授权为 licensed 且来源审校为 reviewed 时成立。",
+    "blocked 不代表题目不可研究，仅表示当前不能直接进入产品发布层。"
+  ]
+}

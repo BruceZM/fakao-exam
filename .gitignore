@@ -1,0 +1,15 @@
+.env
+deploy.txt
+__pycache__/
+*.pyc
+.DS_Store
+server/data/runtime/
+/mnt/
+# Local source archive and OCR material (keep outside deploy repository)
+docs_materials/review/scanned/
+docs_materials/review/duplicates/
+docs_materials/reference/
+# Generated/local-only knowledge snapshots and rollback artifacts
+data/fakao_knowledge_base.sqlite
+data/questions/backups/
+data/questions/lineage/

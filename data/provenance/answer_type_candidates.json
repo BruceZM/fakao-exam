@@ -1,0 +1,1433 @@
+{
+  "schema_version": 1,
+  "status": "answer_type_candidates",
+  "summary": {
+    "items": 142
+  },
+  "items": [
+    {
+      "question_id": "deen-2025-recalled-001",
+      "subject": "行政法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 1,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-002",
+      "subject": "行政法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BD",
+      "source_page": 1,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-003",
+      "subject": "行政法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BCD",
+      "source_page": 1,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-004",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 2,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-006",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "C",
+      "raw_choice_sequence": "CD",
+      "source_page": 2,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-007",
+      "subject": "理论法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AC",
+      "source_page": 3,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-009",
+      "subject": "理论法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 3,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-010",
+      "subject": "刑诉法",
+      "current_question_type": "single_choice",
+      "current_answer": "C",
+      "raw_choice_sequence": "CD",
+      "source_page": 4,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "deen-2025-recalled-012",
+      "subject": "刑诉法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 4,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "lijia-admin-daily-001",
+      "subject": "行政法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 1,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "lijia-admin-daily-002",
+      "subject": "行政法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 1,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "lijia-admin-daily-003",
+      "subject": "行政法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 1,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "lijia-admin-daily-005",
+      "subject": "行政法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BD",
+      "source_page": 2,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "lijia-admin-daily-007",
+      "subject": "行政法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 3,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "lijia-admin-daily-008",
+      "subject": "行政法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AC",
+      "source_page": 3,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "lijia-admin-daily-010",
+      "subject": "行政法",
+      "current_question_type": "single_choice",
+      "current_answer": "C",
+      "raw_choice_sequence": "CD",
+      "source_page": 3,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-007",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 5,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-008",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BCD",
+      "source_page": 6,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-010",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 7,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-011",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BCD",
+      "source_page": 8,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-012",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 9,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-013",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 10,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-015",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BC",
+      "source_page": 11,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-016",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AC",
+      "source_page": 12,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-017",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABD",
+      "source_page": 13,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-018",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AC",
+      "source_page": 14,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-020",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 15,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-021",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BD",
+      "source_page": 16,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-023",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 18,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-025",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 19,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-027",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 20,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-030",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 22,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-033",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BCD",
+      "source_page": 24,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-034",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 25,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-036",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BD",
+      "source_page": 26,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-039",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 28,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-041",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 29,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-042",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 30,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-044",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BD",
+      "source_page": 32,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-045",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BD",
+      "source_page": 33,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-047",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "C",
+      "raw_choice_sequence": "CD",
+      "source_page": 34,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-048",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABD",
+      "source_page": 35,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-049",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 37,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-050",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BC",
+      "source_page": 37,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-055",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 40,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-057",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BCD",
+      "source_page": 42,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-061",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 46,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-063",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 47,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-065",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 49,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-066",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BC",
+      "source_page": 49,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-067",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 50,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-068",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AC",
+      "source_page": 51,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-069",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 52,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-070",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 53,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-071",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BD",
+      "source_page": 54,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-072",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 55,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-077",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 57,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-079",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AC",
+      "source_page": 59,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-081",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "C",
+      "raw_choice_sequence": "CD",
+      "source_page": 60,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-090",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BC",
+      "source_page": 65,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-096",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AC",
+      "source_page": 68,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-099",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABD",
+      "source_page": 71,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-103",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 73,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-107",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 76,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-115",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 79,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-116",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 80,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-117",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BCD",
+      "source_page": 80,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-119",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "C",
+      "raw_choice_sequence": "CD",
+      "source_page": 82,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-120",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 82,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-123",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 84,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-124",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 85,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-125",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 85,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-127",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 87,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-130",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 89,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-138",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 93,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-140",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 94,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-142",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "C",
+      "raw_choice_sequence": "CD",
+      "source_page": 95,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-144",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 96,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-145",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 96,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-147",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BC",
+      "source_page": 98,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-149",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 99,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-150",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BC",
+      "source_page": 100,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-151",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 100,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-153",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BCD",
+      "source_page": 101,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-156",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 102,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-158",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 103,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-160",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 104,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-161",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 105,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-165",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 108,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-166",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AC",
+      "source_page": 108,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-168",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 109,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-169",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AC",
+      "source_page": 110,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-172",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABD",
+      "source_page": 112,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-173",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BCD",
+      "source_page": 113,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-174",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 113,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-181",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 117,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-182",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BC",
+      "source_page": 118,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-184",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "C",
+      "raw_choice_sequence": "CD",
+      "source_page": 119,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-185",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 120,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-186",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "C",
+      "raw_choice_sequence": "CD",
+      "source_page": 120,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-187",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABD",
+      "source_page": 121,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-189",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 122,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-192",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABD",
+      "source_page": 124,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-193",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 124,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-194",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BC",
+      "source_page": 125,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-196",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 126,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-197",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 126,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-198",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 127,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-199",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 128,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-201",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 129,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-202",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 30,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-204",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BCD",
+      "source_page": 131,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-206",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BD",
+      "source_page": 132,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-207",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AC",
+      "source_page": 132,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-208",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 133,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-209",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BCD",
+      "source_page": 133,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-210",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "C",
+      "raw_choice_sequence": "CD",
+      "source_page": 134,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-211",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 135,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-213",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 137,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-216",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 139,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-218",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BC",
+      "source_page": 140,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-219",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 141,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-221",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BD",
+      "source_page": 142,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-224",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "C",
+      "raw_choice_sequence": "CD",
+      "source_page": 144,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-226",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 145,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-229",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 146,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-234",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 150,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-238",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 152,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-240",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 153,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-242",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 154,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-247",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ACD",
+      "source_page": 157,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-249",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 158,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-251",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 159,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-252",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AD",
+      "source_page": 159,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-253",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 160,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-254",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABD",
+      "source_page": 160,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-256",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABC",
+      "source_page": 162,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-260",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABD",
+      "source_page": 164,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-261",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "ABCD",
+      "source_page": 164,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-262",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AC",
+      "source_page": 165,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-266",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "B",
+      "raw_choice_sequence": "BCD",
+      "source_page": 167,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    },
+    {
+      "question_id": "luyao-criminal-general-267",
+      "subject": "刑法",
+      "current_question_type": "single_choice",
+      "current_answer": "A",
+      "raw_choice_sequence": "AB",
+      "source_page": 168,
+      "candidate_question_type": "multiple_choice",
+      "status": "needs_human_review"
+    }
+  ],
+  "notes": [
+    "候选仅由原始答案开头的连续选项字母生成，不自动改写题型或答案。",
+    "须回看原始题册确认是否为多选题、答案是否完整。"
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "status": "rubric_candidates",
+  "items": [
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-1-point-01",
+      "question_id": "menggui-civil-commercial-mock-short_answer-1",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "视为条件已成就",
+      "score": 2,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-4-point-01",
+      "question_id": "menggui-civil-commercial-mock-short_answer-4",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "2类",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-4-point-02",
+      "question_id": "menggui-civil-commercial-mock-short_answer-4",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "分别是直接代理",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-4-point-03",
+      "question_id": "menggui-civil-commercial-mock-short_answer-4",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "和间接代理",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-5-point-01",
+      "question_id": "menggui-civil-commercial-mock-short_answer-5",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "分别是显名的间接代理",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-5-point-02",
+      "question_id": "menggui-civil-commercial-mock-short_answer-5",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "和隐名的间接代理",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-6-point-01",
+      "question_id": "menggui-civil-commercial-mock-short_answer-6",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "2类",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-6-point-02",
+      "question_id": "menggui-civil-commercial-mock-short_answer-6",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "分别是狭义的无权代理",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-6-point-03",
+      "question_id": "menggui-civil-commercial-mock-short_answer-6",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "和表见代理",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-7-point-01",
+      "question_id": "menggui-civil-commercial-mock-short_answer-7",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "3方",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-7-point-02",
+      "question_id": "menggui-civil-commercial-mock-short_answer-7",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "分别是被代理人",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-7-point-03",
+      "question_id": "menggui-civil-commercial-mock-short_answer-7",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "、代理人",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-7-point-04",
+      "question_id": "menggui-civil-commercial-mock-short_answer-7",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "和第三人",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-8-point-01",
+      "question_id": "menggui-civil-commercial-mock-short_answer-8",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "3类",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-8-point-02",
+      "question_id": "menggui-civil-commercial-mock-short_answer-8",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "分别是自己代理",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-8-point-03",
+      "question_id": "menggui-civil-commercial-mock-short_answer-8",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "、双方代理",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-8-point-04",
+      "question_id": "menggui-civil-commercial-mock-short_answer-8",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "和恶意代理",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-9-point-01",
+      "question_id": "menggui-civil-commercial-mock-short_answer-9",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "自己的名义",
+      "score": 2,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-10-point-01",
+      "question_id": "menggui-civil-commercial-mock-short_answer-10",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "存款本息请求权",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-10-point-02",
+      "question_id": "menggui-civil-commercial-mock-short_answer-10",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "债券本息请求权",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-10-point-03",
+      "question_id": "menggui-civil-commercial-mock-short_answer-10",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "基于投资关系产生的缴 付出资请求权",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-short_answer-10-point-04",
+      "question_id": "menggui-civil-commercial-mock-short_answer-10",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "short_answer",
+      "point_text": "未授权给自然人、法人经营管理的国家财产受到侵害",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-case_analysis-1-point-01",
+      "question_id": "menggui-civil-commercial-mock-case_analysis-1",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "case_analysis",
+      "point_text": "答：不能",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-case_analysis-2-point-01",
+      "question_id": "menggui-civil-commercial-mock-case_analysis-2",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "case_analysis",
+      "point_text": "形成权",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    },
+    {
+      "rubric_id": "menggui-civil-commercial-mock-case_analysis-3-point-01",
+      "question_id": "menggui-civil-commercial-mock-case_analysis-3",
+      "source_id": "menggui-civil-commercial-mock",
+      "subject": "民法",
+      "question_type": "case_analysis",
+      "point_text": "不可以",
+      "score": 1,
+      "extraction_status": "explicit_from_answer",
+      "review_status": "needs_legal_expert_review"
+    }
+  ],
+  "notes": [
+    "评分点仅从答案中的显式分值标记抽取，不代表完整评分标准。",
+    "正式主观题评分前仍需按题目、法律版本和官方评分口径人工审校。"
+  ]
+}

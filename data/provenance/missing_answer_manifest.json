@@ -1,0 +1,615 @@
+{
+  "schema_version": 1,
+  "status": "open_missing_answer_manifest",
+  "count": 76,
+  "items": [
+    {
+      "question_id": "menggui-2026-civil-commercial-daily-161",
+      "source_id": "menggui-2026-civil-commercial-daily",
+      "subject": "民法",
+      "stage": "objective",
+      "source_page": 30,
+      "archive_path": "docs_materials/review/scanned/孟献贵-2026民商法每日一题-1至160"
+    },
+    {
+      "question_id": "menggui-2026-civil-commercial-daily-162",
+      "source_id": "menggui-2026-civil-commercial-daily",
+      "subject": "民法",
+      "stage": "objective",
+      "source_page": 30,
+      "archive_path": "docs_materials/review/scanned/孟献贵-2026民商法每日一题-1至160"
+    },
+    {
+      "question_id": "menggui-2026-civil-commercial-daily-163",
+      "source_id": "menggui-2026-civil-commercial-daily",
+      "subject": "民法",
+      "stage": "objective",
+      "source_page": 30,
+      "archive_path": "docs_materials/review/scanned/孟献贵-2026民商法每日一题-1至160"
+    },
+    {
+      "question_id": "menggui-2026-civil-commercial-daily-164",
+      "source_id": "menggui-2026-civil-commercial-daily",
+      "subject": "民法",
+      "stage": "objective",
+      "source_page": 30,
+      "archive_path": "docs_materials/review/scanned/孟献贵-2026民商法每日一题-1至160"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-001",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 1,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-002",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 1,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-003",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 1,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-004",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 1,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-005",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 1,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-006",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 2,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-007",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 2,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-008",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 2,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-009",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 2,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-010",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 2,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-011",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 2,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-012",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 3,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-013",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 3,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-014",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 3,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-015",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 3,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-016",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 3,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-017",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 4,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-018",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 4,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-019",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 4,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-020",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 4,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-021",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 4,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-022",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 5,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-023",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 5,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-024",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 5,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-025",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 5,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-026",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 5,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-027",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 6,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-028",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 6,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-029",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 6,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-030",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 6,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-031",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 6,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-032",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 7,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-033",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 7,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-034",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 7,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-035",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 7,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-036",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 7,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-037",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 8,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-038",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 8,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-039",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 8,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-040",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 8,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-041",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 8,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-042",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 9,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-043",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 9,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-044",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 9,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-045",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 9,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-046",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 10,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-047",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 10,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-048",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 10,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-049",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 10,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-050",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 10,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-051",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 11,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-052",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 11,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-053",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 11,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-054",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 11,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-055",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 11,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-056",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 12,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-057",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 12,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-058",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 12,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-059",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 12,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-060",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 12,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-company-law-daily-061",
+      "source_id": "qiepeng-en-company-law-daily",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 12,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-公司法每日一题-完结"
+    },
+    {
+      "question_id": "qiepeng-en-partnership-001",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 1,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题"
+    },
+    {
+      "question_id": "qiepeng-en-partnership-002",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 1,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题"
+    },
+    {
+      "question_id": "qiepeng-en-partnership-004",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 1,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题"
+    },
+    {
+      "question_id": "qiepeng-en-partnership-005",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 1,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题"
+    },
+    {
+      "question_id": "qiepeng-en-partnership-006",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 2,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题"
+    },
+    {
+      "question_id": "qiepeng-en-partnership-007",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 2,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题"
+    },
+    {
+      "question_id": "qiepeng-en-partnership-008",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 2,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题"
+    },
+    {
+      "question_id": "qiepeng-en-partnership-009",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 2,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题"
+    },
+    {
+      "question_id": "qiepeng-en-partnership-010",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 2,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题"
+    },
+    {
+      "question_id": "qiepeng-en-partnership-011",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 3,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题"
+    },
+    {
+      "question_id": "qiepeng-en-partnership-012",
+      "source_id": "qiepeng-en-partnership",
+      "subject": "商经知",
+      "stage": "objective",
+      "source_page": 3,
+      "archive_path": "docs_materials/review/scanned/郄鹏恩-合伙企业法个独外商法每日一题"
+    }
+  ]
+}
