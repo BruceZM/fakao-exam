@@ -37,7 +37,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "deploy.txt"
 DEFAULT_API_ENDPOINT = "https://modelscope.cn/openapi/v1"
 DEPLOY_FILES = (
-    "Dockerfile", "requirements.txt", "server/main.py",
+    "Dockerfile", "app.py", "requirements.txt", "server/main.py",
     "server/static/index.html", "server/static/app.js", "server/static/app.css",
     "app/data/questions.json",
 )
