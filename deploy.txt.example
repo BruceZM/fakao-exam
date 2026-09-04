@@ -1,0 +1,5 @@
+MODELSCOPE_API_KEY=填入你的魔搭Token
+MS_STUDIO=你的用户名/创空间名
+MS_APP_URL=
+ACCESS_CODE=研究版访问口令
+MODELSCOPE_ENDPOINT=https://modelscope.cn/openapi/v1
