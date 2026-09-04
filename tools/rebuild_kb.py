@@ -73,6 +73,7 @@ def main() -> None:
     run([py, str(tools / "build_answer_type_candidates.py"), "--db", str(data / "fakao_knowledge_base.sqlite"), "--output", str(prov / "answer_type_candidates.json")])
     run([py, str(tools / "build_product_admission_snapshot.py"), "--db", str(data / "fakao_knowledge_base.sqlite"), "--output", str(prov / "product_admission_snapshot.json")])
     run([py, str(tools / "smoke_test_kb.py"), "--root", str(root)])
+    run([py, str(tools / "build_app_bundle.py"), "--exports-dir", str(data / "exports"), "--output", str(root / "app/data/questions.json")])
     run([py, str(tools / "build_snapshot_manifest.py"), "--project-root", str(root), "--output", str(prov / "kb_snapshot_manifest.json")])
     run([py, str(tools / "build_review_backlog_markdown.py"), "--provenance", str(prov), "--output", str(root / "docs/REVIEW_BACKLOG.md")])
     run([py, str(tools / "build_kb_status_markdown.py"), "--provenance", str(prov), "--output", str(root / "docs/KB_STATUS.md")])

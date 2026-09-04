@@ -44,6 +44,7 @@
 ## 第一阶段备考应用
 
 当前已提供参照教资项目的无状态研究版应用：FastAPI 后端、静态前端和 1034 条 canonical 题目随版本发布；原始资料和本地审校备份不进入部署镜像。
+题库包由 `tools/build_app_bundle.py` 从 canonical 导出自动生成，并已接入 `tools/rebuild_kb.py`，知识库重建后会同步更新应用数据。
 
 本地运行：
 
