@@ -60,3 +60,16 @@ python3 tools/deploy_ms.py --check
 ```
 
 当前应用是研究/审校版，产品准入状态以 `data/provenance/product_admission_snapshot.json` 为准。
+
+### GitHub 协作
+
+仓库已初始化为 `main` 分支，并包含 GitHub Actions 校验：每次 push/PR 会检查 Python 语法、重建题目 bundle，并确认题库非空。当前本地尚未绑定远程仓库；拿到 GitHub 仓库地址后执行：
+
+```bash
+git remote add origin <GitHub仓库地址>
+git push -u origin main
+```
+
+### ModelScope 部署
+
+部署脚本为 `tools/deploy_ms.py`。复制 `deploy.txt.example` 为 `deploy.txt`，填写 ModelScope Token、Studio（`owner/studio`）和访问口令，然后先运行 `python3 tools/deploy_ms.py --check`，检查通过后再运行 `python3 tools/deploy_ms.py`。
