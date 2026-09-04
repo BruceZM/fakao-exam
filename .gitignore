@@ -13,3 +13,5 @@ docs_materials/reference/
 data/fakao_knowledge_base.sqlite
 data/questions/backups/
 data/questions/lineage/
+data/runtime/
+data/questions/
