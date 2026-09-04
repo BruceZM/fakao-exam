@@ -3,11 +3,11 @@
   "status": "snapshot_manifest",
   "scope": "entire_legal_exam_knowledge_base",
   "scope_description": "客观题、主观题、参考资料、法条、解析、评分点及来源审校的统一数据知识库",
-  "generated_at": "2026-09-03T13:12:13.310241+00:00",
+  "generated_at": "2026-09-04T04:47:20.253278+00:00",
   "files": [
     {
       "path": "data/fakao_knowledge_base.sqlite",
-      "sha256": "89c7cfdf6e9baaa745c5f14e3ea9b8c4945042243713a29ec64ddcf086898354",
+      "sha256": "7c3fc5ed01aa857a39961d438449870551e9f700d8418f100ea1028fe4eed20f",
       "bytes": 14274560
     },
     {
