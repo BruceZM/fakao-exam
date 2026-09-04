@@ -1,3 +1,16 @@
+---
+domain: nlp
+tags:
+- law
+- exam
+datasets:
+  evaluation:
+  test:
+  train:
+models:
+license: Apache License 2.0
+---
+
 # 法考智能练习
 
 国家统一法律职业资格考试（法考）练习产品项目。
