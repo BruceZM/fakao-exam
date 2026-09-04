@@ -40,3 +40,22 @@
 - 产品层冒烟检查：`python3 tools/smoke_test_kb.py --root .`
 - 全量重建：`python3 tools/rebuild_kb.py --project-root .`
 - 当前快照清单：[`data/provenance/kb_snapshot_manifest.json`](data/provenance/kb_snapshot_manifest.json)
+
+## 第一阶段备考应用
+
+当前已提供参照教资项目的无状态研究版应用：FastAPI 后端、静态前端和 1034 条 canonical 题目随版本发布；原始资料和本地审校备份不进入部署镜像。
+
+本地运行：
+
+```bash
+pip install -r requirements.txt
+python3 -m uvicorn server.main:app --host 127.0.0.1 --port 8000
+```
+
+浏览器访问 `http://127.0.0.1:8000`，默认访问口令为 `1234`；部署前请通过环境变量或 `deploy.txt` 修改。ModelScope 配置模板见 [`deploy.txt.example`](deploy.txt.example)，发布检查命令为：
+
+```bash
+python3 tools/deploy_ms.py --check
+```
+
+当前应用是研究/审校版，产品准入状态以 `data/provenance/product_admission_snapshot.json` 为准。
