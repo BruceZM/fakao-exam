@@ -102,25 +102,6 @@ function setBusy(value) {
     .forEach((el) => (el.disabled = value));
 }
 
-// ModelScope 的移动 WebView 在少数机型上不会把 touchend 转成 click。
-// 只在真实触屏设备上补发一次原生 click，避免影响桌面端和正常的滚动手势。
-if (navigator.maxTouchPoints > 0) {
-  document.addEventListener(
-    "touchend",
-    (event) => {
-      if (!(event.target instanceof Element)) return;
-      const control = event.target.closest(
-        "button, input, select, textarea, summary, a",
-      );
-      if (!control || control.disabled) return;
-      event.preventDefault();
-      control.focus({ preventScroll: true });
-      control.click();
-    },
-    { capture: true, passive: false },
-  );
-}
-
 $("loginForm").onsubmit = async (e) => {
   e.preventDefault();
   $("loginError").textContent = "";
