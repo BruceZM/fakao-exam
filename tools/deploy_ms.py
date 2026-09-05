@@ -37,7 +37,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "deploy.txt"
 DEFAULT_API_ENDPOINT = "https://modelscope.cn/openapi/v1"
 DEPLOY_FILES = (
-    "Dockerfile", "app.py", "requirements.txt", "server/main.py",
+    "Dockerfile", "app.py", "requirements.txt", "server/main.py", "server/practice.py", "server/grading.py",
     "server/static/index.html", "server/static/app.js", "server/static/app.css",
     "app/data/questions.json",
 )
@@ -463,7 +463,7 @@ def wait_for_revision(client: ModelScopeClient, config: Config, revision: str, t
         if response is not None:
             try: health=response.json()
             except ValueError: health={}
-            if health.get("status")=="ok" and int(health.get("questions",0))>0:
+            if health.get("status")=="ok" and int(health.get("questions",0))>0 and health.get("revision")==revision:
                 print("线上健康检查通过：研究版题目 %s 条。" % health.get("questions")); return
         try: status=find_status(client.studio_info())
         except DeployError: status=""

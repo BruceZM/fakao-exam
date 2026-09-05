@@ -15,8 +15,11 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
       - name: Validate Python modules
-        run: python -m py_compile server/main.py tools/build_app_bundle.py tools/deploy_ms.py
+        run: python -m compileall -q server tools/build_app_bundle.py tools/deploy_ms.py
       - name: Rebuild app bundle
-        run: python tools/build_app_bundle.py --project-root .
+        run: python tools/build_app_bundle.py --exports-dir data/exports --output app/data/questions.json
       - name: Check bundle is tracked and non-empty
-        run: python -c "import json; p='app/data/questions.json'; d=json.load(open(p, encoding='utf-8')); assert len(d) > 0"
+        run: python -c "import json; p='app/data/questions.json'; d=json.load(open(p, encoding='utf-8')); assert len(d['questions']) > 0"
+
+      - name: Practice API regression checks
+        run: python -m unittest discover -s tests -v

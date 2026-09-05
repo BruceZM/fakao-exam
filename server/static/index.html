@@ -1,1 +1,187 @@
-<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>法考备考研究版</title><link rel="stylesheet" href="/static/app.css"></head><body><main><header><h1>法考备考</h1><p>第一阶段研究版 · 内容仍在审校</p></header><section class="login"><input id="code" type="password" placeholder="访问口令"><button id="login">进入</button><span id="msg"></span></section><section id="app" hidden><div class="toolbar"><select id="subject"><option value="">全部科目</option></select><select id="stage"><option value="">全部阶段</option><option value="objective">客观题</option><option value="subjective">主观题</option><option value="objective_subjective_common">主客一体</option></select><button id="load">加载题目</button></div><div id="list"></div><div id="detail" class="detail"></div></section></main><script src="/static/app.js"></script></body></html>
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>法考研习 · 每一次练习，都有进步</title>
+    <meta
+      name="description"
+      content="法考客观题练习与主观题训练，作答、反馈、复盘与巩固。"
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='9' fill='%231c3659'/%3E%3Ctext x='8' y='29' fill='white' font-size='25'%3E法%3C/text%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="/static/app.css" />
+    <script src="/static/app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">跳转到练习内容</a>
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="法考研习首页"
+        ><span class="brand-mark">法</span
+        ><span>法考研习<small>专注练习，循序进阶</small></span></a
+      >
+      <div id="account" hidden>
+        <button id="homeBtn">切换练习</button
+        ><button id="userBtn">切换用户</button>
+      </div>
+      <span id="headerNote" class="muted">法律职业资格考试 · 学习工具</span>
+    </header>
+    <main id="main">
+      <section id="gate" class="gate">
+        <div class="intro">
+          <p class="eyebrow">从理解，到运用</p>
+          <h1>把知识练熟，<br />把答案写清楚。</h1>
+          <p class="lead">
+            从一道客观题，到一份案例作答。<br />让练习有反馈，让复盘有方向。
+          </p>
+          <div class="intro-lines">
+            <div>
+              <span>01</span>
+              <p><strong>客观题练习</strong>及时判题，理解每一个选项</p>
+            </div>
+            <div>
+              <span>02</span>
+              <p><strong>主观题训练</strong>结合参考依据，逐步完善表达</p>
+            </div>
+          </div>
+        </div>
+        <form id="loginForm" class="login-card">
+          <span class="small-label">你的学习空间</span>
+          <h2>开始今天的练习</h2>
+          <p class="muted">输入访问口令，进入自己的学习档案。</p>
+          <label for="code">访问口令</label
+          ><input
+            id="code"
+            type="password"
+            autocomplete="current-password"
+            required
+            maxlength="200"
+            placeholder="请输入访问口令"
+          /><button class="primary" id="loginBtn">
+            进入学习空间 <span>→</span>
+          </button>
+          <p id="loginError" class="error" role="alert"></p>
+          <p class="fine">练习记录保存在当前浏览器，暂不跨设备同步。</p>
+        </form>
+      </section>
+      <section id="lobby" hidden>
+        <div class="page-heading">
+          <div>
+            <p class="eyebrow">保持节奏，每天进步一点</p>
+            <h1>今天，从哪里开始？</h1>
+            <p class="muted">选择训练方向，再进入你的练习科目。</p>
+          </div>
+          <button id="resumeBtn" class="primary" hidden>继续上次练习 →</button>
+        </div>
+        <div id="stageTabs" class="stage-tabs">
+          <button data-stage="objective" class="active">
+            <span>01</span><strong>客观题练习</strong
+            ><small>选择 · 判断 · 理解</small></button
+          ><button data-stage="subjective">
+            <span>02</span><strong>主观题训练</strong
+            ><small>阅读 · 作答 · 复盘</small>
+          </button>
+        </div>
+        <div class="section-title">
+          <h2>选择科目</h2>
+          <span id="stageCount" class="muted"></span>
+        </div>
+        <div id="subjectGrid" class="subject-grid"></div>
+        <p class="fine">当前资料用于参考练习，答案与评分依据仍在审校。</p>
+      </section>
+      <section id="practice" hidden>
+        <div class="practice-heading">
+          <div>
+            <p id="breadcrumb" class="eyebrow"></p>
+            <h1 id="practiceTitle"></h1>
+          </div>
+          <p class="fine">本机学习档案</p>
+        </div>
+        <div id="stats" class="stats"></div>
+        <nav id="scopeTabs" class="scope-tabs" aria-label="练习范围">
+          <button data-scope="all" class="active">全部练习</button
+          ><button data-scope="wrong">错题重练</button
+          ><button data-scope="stars">我的收藏</button
+          ><button data-scope="browse">资料浏览</button>
+        </nav>
+        <div class="filters">
+          <label
+            >知识点<select id="knowledge">
+              <option value="">全部知识点</option>
+            </select></label
+          ><label
+            >出题顺序<select id="order">
+              <option value="seq">顺序练习</option>
+              <option value="random">随机练习</option>
+            </select></label
+          ><span id="position" class="muted"></span>
+        </div>
+        <div id="empty" class="empty" hidden>
+          <span class="empty-symbol">◎</span>
+          <h2 id="emptyTitle">这里还没有题目</h2>
+          <p id="emptyText" class="muted"></p>
+          <button id="resetScope">返回全部练习</button>
+        </div>
+        <article id="questionCard" class="question-card" hidden>
+          <div class="q-toolbar">
+            <div>
+              <span id="typeBadge" class="badge"></span
+              ><span id="qNumber" class="muted"></span>
+            </div>
+            <button id="starBtn" aria-pressed="false">☆ 收藏</button>
+          </div>
+          <div id="workarea" class="workarea">
+            <section class="reading">
+              <p id="foundation" class="notice" hidden>
+                主客共用 · 基础训练资料
+              </p>
+              <h2 id="stem"></h2>
+              <details class="provenance">
+                <summary>查看来源与审校说明</summary>
+                <p id="sourceInfo"></p>
+                <p>当前资料仍待专业审校，答案与反馈供练习参考。</p>
+              </details>
+            </section>
+            <section class="writing">
+              <div id="options" class="options"></div>
+              <div id="textAnswer" hidden>
+                <div class="answer-heading">
+                  <label for="answer">我的作答</label
+                  ><span id="gradingMode" class="muted"></span>
+                </div>
+                <textarea
+                  id="answer"
+                  maxlength="16000"
+                  placeholder="先写结论，再结合案情说明理由。可以分点作答…"
+                ></textarea>
+                <div class="answer-foot">
+                  <span id="draftState">草稿自动保存在本机</span
+                  ><span id="wordCount">0 字</span>
+                </div>
+              </div>
+              <p id="unavailable" class="notice" hidden></p>
+              <p id="history" class="fine"></p>
+              <details id="past">
+                <summary>历史作答与反馈</summary>
+                <div id="pastItems"></div>
+              </details>
+              <button id="reviewBtn" class="review-toggle" hidden>
+                标记为待巩固
+              </button>
+              <div class="actions">
+                <button id="submitBtn" class="primary">提交答案</button
+                ><button id="peekBtn">查看参考答案</button
+                ><button id="nextBtn">下一题 →</button>
+              </div>
+            </section>
+          </div>
+        </article>
+        <section id="result" class="result" aria-live="polite" hidden></section>
+      </section>
+    </main>
+    <footer>法考研习 <span>学习是一场持续的积累</span></footer>
+    <div id="toast" class="toast" role="status" hidden></div>
+  </body>
+</html>
