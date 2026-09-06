@@ -474,9 +474,8 @@ def wait_for_revision(client: ModelScopeClient, config: Config, revision: str, t
 
 def verify_ai_grading(config: Config) -> None:
     payload = {
-        "question_id": "C20",
-        "answer": "学习动机是激发并维持学习，使行为指向学习目标的内部动力，由学习需要和学习期待构成；具有启动作用、定向作用、维持作用和调节作用。",
-        "skipped": False,
+        "question_id": "menggui-civil-commercial-mock-short_answer-1",
+        "answer": "视为条件已成就",
     }
     response = request_app(
         config, "POST", "/api/grade", body=payload, timeout=90,
@@ -488,13 +487,13 @@ def verify_ai_grading(config: Config) -> None:
     if result.get("grader") != "ai":
         raise DeployError("线上批改仍未调用大模型，grader=%s。" % result.get("grader"))
     points = result.get("points") or []
-    if result.get("rubric_version") != 1 or len(points) != 5:
-        raise DeployError("线上批改没有使用新版语义评分规则。")
-    if [point.get("status") for point in points] != ["hit"] * 5:
-        raise DeployError("线上同义表达回归验证失败：%s" % [point.get("status") for point in points])
-    if any(not point.get("evidence") for point in points):
-        raise DeployError("线上批改没有返回完整的学生原文依据。")
-    print("线上 AI 批改验证通过：5/5 语义规则命中，证据完整，得分=%s。" % result.get("total"))
+    if len(points) != 1 or points[0].get("status") != "hit":
+        raise DeployError("线上批改没有命中法考评分点：%s。" % [point.get("status") for point in points])
+    if points[0].get("evidence") != payload["answer"]:
+        raise DeployError("线上批改没有返回可核验的学生原文依据。")
+    if result.get("score") != 2 or result.get("max_score") != 2:
+        raise DeployError("线上批改参考得分异常：%s/%s。" % (result.get("score"), result.get("max_score")))
+    print("线上 AI 批改验证通过：法考评分点命中，原文证据完整，得分=2/2。")
 
 
 def parse_args() -> argparse.Namespace:
@@ -540,6 +539,8 @@ def main() -> int:
         client.deploy()
         if not args.no_wait:
             wait_for_revision(client, config, revision, max(30, args.timeout))
+        if args.verify_ai:
+            verify_ai_grading(config)
         print("\n部署完成：", config.app_url)
         return 0
     finally:
